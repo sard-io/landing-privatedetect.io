@@ -59,11 +59,15 @@ section{position:relative}
 .light{background:var(--paper);color:var(--ink)}
 .dark{background:var(--ink);color:var(--paper)}
 
-.hl{background:var(--hl-light);color:var(--ink);box-decoration-break:clone;-webkit-box-decoration-break:clone;padding:0 .05em}
-.dark .hl,.on-dark .hl{background:var(--hl-dark);color:var(--blue)}
-/* светлые блоки внутри тёмных секций сохраняют светлую подсветку */
-.tech-head .hl{background:var(--hl-light);color:var(--ink)}
-.final .hl{background:rgba(255,255,255,.24);color:#fff}
+.hl{
+  --hl-bg:var(--hl-light);--hl-fg:var(--ink);--hl-left:-.04em;--hl-right:-.04em;--hl-top:.06em;--hl-height:.95em;
+  display:inline-block;position:relative;z-index:0;isolation:isolate;
+  padding:0 .04em;white-space:nowrap;background:none;color:var(--hl-fg)
+}
+.hl::before{
+  content:"";position:absolute;z-index:-1;pointer-events:none;
+  left:var(--hl-left);right:var(--hl-right);top:var(--hl-top);height:var(--hl-height);background:var(--hl-bg)
+}
 .b{color:var(--blue)}
 .lead{font-size:clamp(16px,2.61vw,24.259px);line-height:1.5;max-width:64ch;color:var(--muted-d);font-weight:400}
 .light .lead{color:var(--muted-l)}
@@ -521,23 +525,15 @@ body{width:100%;max-width:none;margin:0;background:#0b090b;overflow-x:hidden}
 #landing .idlegend{grid-template-columns:351.2px 390.2px}
 #landing .brk{display:block}
 
-/* Figma рисует подсветку отдельным прямоугольником под строкой. Так текст
-   остаётся настоящим HTML, но геометрия плашки не зависит от font metrics. */
-#top h1 .hl,#problem h2 .hl,#api h2 .hl,#tech h2 .hl,#identity h2 .hl,#numbers h2 .hl,#banks h2 .hl,#cta h2 .hl{
-  display:inline-block;position:relative;z-index:0;background:none;white-space:nowrap
-}
-#top h1 .hl::before,#problem h2 .hl::before,#api h2 .hl::before,#tech h2 .hl::before,#identity h2 .hl::before,#numbers h2 .hl::before,#banks h2 .hl::before,#cta h2 .hl::before{
-  content:"";position:absolute;left:-.02em;right:-.02em;z-index:-1
-}
-#top h1 .hl,#problem h2 .hl,#identity h2 .hl,#numbers h2 .hl{color:var(--blue)}
-#top h1 .hl::before{left:7px;right:-4px;top:-3px;height:103px;background:var(--hl-light)}
-#problem h2 .hl::before{left:7px;right:-3px;top:8px;height:85px;background:var(--hl-light)}
-#api h2 .hl::before{left:7px;right:-7px;top:8px;height:85px;background:var(--hl-dark)}
-#tech h2 .hl::before{left:7px;right:1px;top:8px;height:85px;background:var(--hl-dark)}
-#identity h2 .hl::before{left:8px;right:3px;top:2px;height:77px;background:var(--hl-light)}
-#numbers h2 .hl::before{left:2px;right:1px;top:10px;height:85px;background:var(--hl-light)}
-#banks h2 .hl::before{left:0;right:12px;top:3px;height:53px;background:var(--hl-dark)}
-#cta h2 .hl::before{top:2px;height:33px;background:rgba(255,255,255,.18)}
+/* Точные значения 930px-каркаса Figma. Адаптивный слой ниже переводит их в em. */
+#top h1 .hl{--hl-left:7px;--hl-right:-4px;--hl-top:-3px;--hl-height:103px;--hl-bg:var(--hl-light);--hl-fg:var(--blue)}
+#problem h2 .hl{--hl-left:7px;--hl-right:-3px;--hl-top:8px;--hl-height:85px;--hl-bg:var(--hl-light);--hl-fg:var(--blue)}
+#api h2 .hl{--hl-left:7px;--hl-right:-7px;--hl-top:8px;--hl-height:85px;--hl-bg:var(--hl-dark);--hl-fg:var(--blue)}
+#tech h2 .hl{--hl-left:7px;--hl-right:1px;--hl-top:8px;--hl-height:85px;--hl-bg:var(--hl-dark);--hl-fg:var(--blue)}
+#identity h2 .hl{--hl-left:8px;--hl-right:3px;--hl-top:2px;--hl-height:77px;--hl-bg:var(--hl-light);--hl-fg:var(--blue)}
+#numbers h2 .hl{--hl-left:2px;--hl-right:1px;--hl-top:10px;--hl-height:85px;--hl-bg:var(--hl-light);--hl-fg:var(--blue)}
+#banks h2 .hl{--hl-left:0;--hl-right:12px;--hl-top:3px;--hl-height:53px;--hl-bg:var(--hl-dark);--hl-fg:var(--blue)}
+#cta h2 .hl{--hl-left:-.02em;--hl-right:-.02em;--hl-top:2px;--hl-height:33px;--hl-bg:rgba(255,255,255,.18);--hl-fg:#fff}
 
 /* ======================================================================
    RESPONSIVE LANDING — широкая 16:9-композиция + настоящий mobile layout
@@ -574,15 +570,17 @@ body{width:100%;max-width:none;min-width:320px;margin:0;background:var(--ink);ov
 #landing .sec{padding:clamp(84px,7vw,128px) 0}
 #landing footer{display:block}
 
-/* адаптивная подсветка строк вместо фиксированных плашек высотой 85px */
+/* Плашки подсветки — самостоятельный слой, как прямоугольники в Figma.
+   Они начинаются внутри своей строки и продолжаются вниз, не накрывая строку выше. */
 #top h1 .hl,#problem h2 .hl,#api h2 .hl,#tech h2 .hl,#identity h2 .hl,#numbers h2 .hl,#banks h2 .hl,#cta h2 .hl{
-  display:inline;position:relative;z-index:0;white-space:normal;padding:0 .035em;
-  box-decoration-break:clone;-webkit-box-decoration-break:clone
+  --hl-left:-.04em;--hl-right:-.04em;--hl-top:.06em;--hl-height:.95em;
+  --hl-bg:var(--hl-light);--hl-fg:var(--blue);
+  display:inline-block;position:relative;z-index:0;isolation:isolate;
+  padding:0 .04em;white-space:nowrap;background:none;color:var(--hl-fg)
 }
-#top h1 .hl::before,#problem h2 .hl::before,#api h2 .hl::before,#tech h2 .hl::before,#identity h2 .hl::before,#numbers h2 .hl::before,#banks h2 .hl::before,#cta h2 .hl::before{content:none}
-#top h1 .hl,#problem h2 .hl,#identity h2 .hl,#numbers h2 .hl{background:var(--hl-light);color:var(--blue)}
-#api h2 .hl,#tech h2 .hl,#banks h2 .hl{background:var(--hl-dark);color:var(--blue)}
-#cta h2 .hl{background:rgba(255,255,255,.2);color:#fff}
+#api h2 .hl,#tech h2 .hl,#banks h2 .hl{--hl-bg:var(--hl-dark)}
+#top h1 .hl{--hl-top:.02em;--hl-height:1.15em}
+#cta h2 .hl{--hl-bg:rgba(255,255,255,.2);--hl-fg:#fff;--hl-top:.02em;--hl-height:1.06em}
 
 /* шапка */
 #landing>header{
@@ -785,7 +783,6 @@ body{width:100%;max-width:none;min-width:320px;margin:0;background:var(--ink);ov
   #landing h3{font-size:23px}
   #landing .lead{font-size:17px;line-height:1.38;letter-spacing:-.018em}
   #landing .brk{display:none}
-  #top h1 .hl{white-space:nowrap}
   #landing .corners>.cn{display:none}
   #landing>header{height:auto}
   #landing .nav{min-height:72px;padding:0 18px}
