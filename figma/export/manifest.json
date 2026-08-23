@@ -1,0 +1,61 @@
+{
+  "exportedAt": "2026-08-22T21:42:48.792Z",
+  "frames": [
+    {
+      "index": 1,
+      "id": "46:60",
+      "width": 930,
+      "height": 1080,
+      "file": "assets/figma-slides/01.png",
+      "bytes": 2493359
+    },
+    {
+      "index": 2,
+      "id": "46:136",
+      "width": 930,
+      "height": 1080,
+      "file": "assets/figma-slides/02.png",
+      "bytes": 210633
+    },
+    {
+      "index": 3,
+      "id": "46:176",
+      "width": 930,
+      "height": 1080,
+      "file": "assets/figma-slides/03.png",
+      "bytes": 1173544
+    },
+    {
+      "index": 4,
+      "id": "46:263",
+      "width": 930,
+      "height": 1080,
+      "file": "assets/figma-slides/04.png",
+      "bytes": 248002
+    },
+    {
+      "index": 5,
+      "id": "46:321",
+      "width": 930,
+      "height": 1080,
+      "file": "assets/figma-slides/05.png",
+      "bytes": 2374162
+    },
+    {
+      "index": 6,
+      "id": "46:455",
+      "width": 930,
+      "height": 1080,
+      "file": "assets/figma-slides/06.png",
+      "bytes": 1488310
+    },
+    {
+      "index": 7,
+      "id": "46:506",
+      "width": 930,
+      "height": 1080,
+      "file": "assets/figma-slides/07.png",
+      "bytes": 286423
+    }
+  ]
+}

@@ -1,0 +1,6287 @@
+[
+  {
+    "slide": 1,
+    "depth": 0,
+    "id": "46:60",
+    "parentId": null,
+    "type": "FRAME",
+    "name": "01",
+    "bounds": {
+      "x": 25359.638671875,
+      "y": 9583,
+      "width": 930,
+      "height": 1080
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 1,
+    "id": "46:61",
+    "parentId": "46:60",
+    "type": "RECTANGLE",
+    "name": "image 73",
+    "bounds": {
+      "x": 25359.639391551056,
+      "y": 10371.410115531251,
+      "width": 931.5363896989438,
+      "height": 291.590372749999
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 1,
+    "id": "46:62",
+    "parentId": "46:60",
+    "type": "RECTANGLE",
+    "name": "image 75",
+    "bounds": {
+      "x": 25358.638671875,
+      "y": 9813.943359375,
+      "width": 988.3674926757812,
+      "height": 557.46630859375
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 1,
+    "id": "46:63",
+    "parentId": "46:60",
+    "type": "RECTANGLE",
+    "name": "Rectangle 22",
+    "bounds": {
+      "x": 25359.638671875,
+      "y": 9746.9892578125,
+      "width": 931.536376953125,
+      "height": 307.11590576171875
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 1,
+    "id": "46:64",
+    "parentId": "46:60",
+    "type": "GROUP",
+    "name": "Group 19",
+    "bounds": {
+      "x": 25388.75,
+      "y": 10306.396484375,
+      "width": 871.314453125,
+      "height": 34.932613372802734
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 1,
+    "id": "46:68",
+    "parentId": "46:60",
+    "type": "RECTANGLE",
+    "name": "Rectangle 6",
+    "bounds": {
+      "x": 25729,
+      "y": 9889,
+      "width": 437,
+      "height": 103
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 1,
+    "id": "46:69",
+    "parentId": "46:60",
+    "type": "TEXT",
+    "name": "Фейковый PDF-чек больше не пройдет",
+    "bounds": {
+      "x": 25405.24609375,
+      "y": 9811.0322265625,
+      "width": 920.3773803710938,
+      "height": 162
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 1,
+    "id": "46:70",
+    "parentId": "46:60",
+    "type": "FRAME",
+    "name": "Frame 20",
+    "bounds": {
+      "x": 25404.24609375,
+      "y": 9624,
+      "width": 798.598388671875,
+      "height": 84
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 2,
+    "id": "46:71",
+    "parentId": "46:70",
+    "type": "GROUP",
+    "name": "Group 4",
+    "bounds": {
+      "x": 25402.408203125,
+      "y": 9638.5400390625,
+      "width": 393.477294921875,
+      "height": 54.91954040527344
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 3,
+    "id": "46:73",
+    "parentId": "46:71",
+    "type": "GROUP",
+    "name": "Group",
+    "bounds": {
+      "x": 25476.279296875,
+      "y": 9647.693359375,
+      "width": 319.6061706542969,
+      "height": 37.072303771972656
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 3,
+    "id": "46:87",
+    "parentId": "46:71",
+    "type": "GROUP",
+    "name": "Group",
+    "bounds": {
+      "x": 25368.330078125,
+      "y": 9604.5966796875,
+      "width": 461.5,
+      "height": 122.80708312988281
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 2,
+    "id": "46:113",
+    "parentId": "46:70",
+    "type": "TEXT",
+    "name": "Защита парсинга от фейковых чеков и банковских выписок",
+    "bounds": {
+      "x": 25900.68359375,
+      "y": 9624,
+      "width": 304,
+      "height": 84
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 1,
+    "id": "46:114",
+    "parentId": "46:60",
+    "type": "FRAME",
+    "name": "Frame 21",
+    "bounds": {
+      "x": 25385.119140625,
+      "y": 10104.078125,
+      "width": 879.0618286132812,
+      "height": 136.8194122314453
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 2,
+    "id": "46:115",
+    "parentId": "46:114",
+    "type": "TEXT",
+    "name": "Private Detect за миллисекунды проверяет банковские чеки через 1 REST-запрос, защищая площадки от фрода и оттока трейдеров",
+    "bounds": {
+      "x": 25401.615234375,
+      "y": 10121.48828125,
+      "width": 846.0699462890625,
+      "height": 102
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 1,
+    "id": "46:116",
+    "parentId": "46:60",
+    "type": "GROUP",
+    "name": "Group 25",
+    "bounds": {
+      "x": 25433.384765625,
+      "y": 10420.412109375,
+      "width": 797.6280517578125,
+      "height": 158.1671142578125
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 2,
+    "id": "46:117",
+    "parentId": "46:116",
+    "type": "TEXT",
+    "name": "Уже в проде",
+    "bounds": {
+      "x": 26001.525390625,
+      "y": 10448.552734375,
+      "width": 202.31805419921875,
+      "height": 28
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 2,
+    "id": "46:118",
+    "parentId": "46:116",
+    "type": "TEXT",
+    "name": "Подключённый платёжный процессинг",
+    "bounds": {
+      "x": 26001.525390625,
+      "y": 10492.703125,
+      "width": 223,
+      "height": 38
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 2,
+    "id": "46:119",
+    "parentId": "46:116",
+    "type": "TEXT",
+    "name": "обработка в реальном времени",
+    "bounds": {
+      "x": 25713.81640625,
+      "y": 10492.703125,
+      "width": 184,
+      "height": 38
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 2,
+    "id": "46:120",
+    "parentId": "46:116",
+    "type": "TEXT",
+    "name": "31 профилей",
+    "bounds": {
+      "x": 25573.6015625,
+      "y": 10548.013671875,
+      "width": 98,
+      "height": 16
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 2,
+    "id": "46:121",
+    "parentId": "46:116",
+    "type": "TEXT",
+    "name": "p95<80 мс",
+    "bounds": {
+      "x": 25712.81640625,
+      "y": 10446.6123046875,
+      "width": 156,
+      "height": 28
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 2,
+    "id": "46:122",
+    "parentId": "46:116",
+    "type": "GROUP",
+    "name": "Group 22",
+    "bounds": {
+      "x": 25433.384765625,
+      "y": 10420.412109375,
+      "width": 797.6280517578125,
+      "height": 158.1671142578125
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 3,
+    "id": "46:123",
+    "parentId": "46:122",
+    "type": "GROUP",
+    "name": "Group 20",
+    "bounds": {
+      "x": 25433.384765625,
+      "y": 10420.412109375,
+      "width": 797.6280517578125,
+      "height": 14.070080757141113
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 4,
+    "id": "46:124",
+    "parentId": "46:123",
+    "type": "FRAME",
+    "name": "Frame 20",
+    "bounds": {
+      "x": 25433.384765625,
+      "y": 10420.412109375,
+      "width": 797.6280517578125,
+      "height": 14.070080757141113
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 5,
+    "id": "46:125",
+    "parentId": "46:124",
+    "type": "RECTANGLE",
+    "name": "Rectangle 23",
+    "bounds": {
+      "x": 25433.384765625,
+      "y": 10420.412109375,
+      "width": 14.070080757141113,
+      "height": 14.070080757141113
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 5,
+    "id": "46:126",
+    "parentId": "46:124",
+    "type": "LINE",
+    "name": "Line 15",
+    "bounds": {
+      "x": 25447.455078125,
+      "y": 10427.447265625,
+      "width": 769.4878540039062,
+      "height": 0
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 5,
+    "id": "46:127",
+    "parentId": "46:124",
+    "type": "RECTANGLE",
+    "name": "Rectangle 24",
+    "bounds": {
+      "x": 26216.943359375,
+      "y": 10420.412109375,
+      "width": 14.070080757141113,
+      "height": 14.070080757141113
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 4,
+    "id": "46:128",
+    "parentId": "46:123",
+    "type": "FRAME",
+    "name": "Frame 21",
+    "bounds": {
+      "x": 25684.919921875,
+      "y": 10420.412109375,
+      "width": 293.0458068847656,
+      "height": 14.070080757141113
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 5,
+    "id": "46:129",
+    "parentId": "46:128",
+    "type": "RECTANGLE",
+    "name": "Rectangle 23",
+    "bounds": {
+      "x": 25684.919921875,
+      "y": 10420.412109375,
+      "width": 14.070080757141113,
+      "height": 14.070080757141113
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 5,
+    "id": "46:130",
+    "parentId": "46:128",
+    "type": "RECTANGLE",
+    "name": "Rectangle 24",
+    "bounds": {
+      "x": 25963.896484375,
+      "y": 10420.412109375,
+      "width": 14.070080757141113,
+      "height": 14.070080757141113
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 3,
+    "id": "46:131",
+    "parentId": "46:122",
+    "type": "GROUP",
+    "name": "Group 21",
+    "bounds": {
+      "x": 25692.955078125,
+      "y": 10455.830078125,
+      "width": 278.974609375,
+      "height": 122.74932861328125
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 4,
+    "id": "46:132",
+    "parentId": "46:131",
+    "type": "LINE",
+    "name": "Line 16",
+    "bounds": {
+      "x": 25692.955072759458,
+      "y": 10455.830078125,
+      "width": 0.000005365542165236548,
+      "height": 122.74932861328125
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 4,
+    "id": "46:133",
+    "parentId": "46:131",
+    "type": "LINE",
+    "name": "Line 17",
+    "bounds": {
+      "x": 25971.929682134458,
+      "y": 10455.830078125,
+      "width": 0.000005365542165236548,
+      "height": 122.74932861328125
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 2,
+    "id": "46:134",
+    "parentId": "46:116",
+    "type": "TEXT",
+    "name": "22",
+    "bounds": {
+      "x": 25625.59765625,
+      "y": 10448.552734375,
+      "width": 37,
+      "height": 28
+    },
+    "visible": true
+  },
+  {
+    "slide": 1,
+    "depth": 2,
+    "id": "46:135",
+    "parentId": "46:116",
+    "type": "TEXT",
+    "name": "Банков",
+    "bounds": {
+      "x": 25526.0546875,
+      "y": 10489.7919921875,
+      "width": 137,
+      "height": 40
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 0,
+    "id": "46:136",
+    "parentId": null,
+    "type": "FRAME",
+    "name": "02",
+    "bounds": {
+      "x": 26373.17578125,
+      "y": 9583,
+      "width": 930,
+      "height": 1080
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 1,
+    "id": "46:137",
+    "parentId": "46:136",
+    "type": "GROUP",
+    "name": "Group 20",
+    "bounds": {
+      "x": 26402.287109375,
+      "y": 9615.021488189697,
+      "width": 871.314453125,
+      "height": 34.932613372802734
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 1,
+    "id": "63:83",
+    "parentId": "46:136",
+    "type": "GROUP",
+    "name": "Group 47",
+    "bounds": {
+      "x": 26437.703125,
+      "y": 9650,
+      "width": 785.0134887695312,
+      "height": 254.71719360351562
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 2,
+    "id": "46:140",
+    "parentId": "63:83",
+    "type": "TEXT",
+    "name": "За фейковый чек всегда платит площадка",
+    "bounds": {
+      "x": 26437.703125,
+      "y": 9650,
+      "width": 785.0134887695312,
+      "height": 243
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 2,
+    "id": "46:141",
+    "parentId": "63:83",
+    "type": "RECTANGLE",
+    "name": "Rectangle 6",
+    "bounds": {
+      "x": 26444.49609375,
+      "y": 9819.8115234375,
+      "width": 391.05120849609375,
+      "height": 84.9056625366211
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 1,
+    "id": "46:142",
+    "parentId": "46:136",
+    "type": "TEXT",
+    "name": "В P2P-процессинге PDF-чеки подделывают за минуты. Отличить фальшивку на глаз невозможно, и убытки всегда ложатся на площадку. Дальше два сценария:",
+    "bounds": {
+      "x": 26443.49609375,
+      "y": 9953,
+      "width": 804.4204711914062,
+      "height": 81
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 1,
+    "id": "46:143",
+    "parentId": "46:136",
+    "type": "GROUP",
+    "name": "Group 27",
+    "bounds": {
+      "x": 26309.587890625,
+      "y": 10137,
+      "width": 1056.7115478515625,
+      "height": 185
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 2,
+    "id": "46:144",
+    "parentId": "46:143",
+    "type": "LINE",
+    "name": "Line 18",
+    "bounds": {
+      "x": 26309.587890625,
+      "y": 10175.4296875,
+      "width": 1056.7115478515625,
+      "height": 0
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 2,
+    "id": "46:145",
+    "parentId": "46:143",
+    "type": "RECTANGLE",
+    "name": "Rectangle 25",
+    "bounds": {
+      "x": 26443.525390625,
+      "y": 10167.181640625,
+      "width": 16.98113250732422,
+      "height": 16.495956420898438
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 2,
+    "id": "46:146",
+    "parentId": "46:143",
+    "type": "RECTANGLE",
+    "name": "Rectangle 26",
+    "bounds": {
+      "x": 27183.41796875,
+      "y": 10167.181640625,
+      "width": 16.98113250732422,
+      "height": 16.495956420898438
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 2,
+    "id": "46:147",
+    "parentId": "46:143",
+    "type": "FRAME",
+    "name": "Frame 26",
+    "bounds": {
+      "x": 26491.07421875,
+      "y": 10137,
+      "width": 201.9457244873047,
+      "height": 75.94572448730469
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 3,
+    "id": "46:148",
+    "parentId": "46:147",
+    "type": "TEXT",
+    "name": "ОТТОК",
+    "bounds": {
+      "x": 26504.546875,
+      "y": 10150.47265625,
+      "width": 175,
+      "height": 49
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 2,
+    "id": "46:149",
+    "parentId": "46:143",
+    "type": "FRAME",
+    "name": "Frame 2087325638",
+    "bounds": {
+      "x": 26799.64453125,
+      "y": 10137,
+      "width": 328.9457092285156,
+      "height": 75.94572448730469
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 3,
+    "id": "46:150",
+    "parentId": "46:149",
+    "type": "TEXT",
+    "name": "ТРЕЙДЕРОВ",
+    "bounds": {
+      "x": 26813.1171875,
+      "y": 10150.47265625,
+      "width": 302,
+      "height": 49
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 2,
+    "id": "46:151",
+    "parentId": "46:143",
+    "type": "FRAME",
+    "name": "Frame 2087325637",
+    "bounds": {
+      "x": 26694.361328125,
+      "y": 10137.1005859375,
+      "width": 105.28302001953125,
+      "height": 86.99849700927734
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 3,
+    "id": "46:152",
+    "parentId": "46:151",
+    "type": "GROUP",
+    "name": "Group 26",
+    "bounds": {
+      "x": 26714.740234375,
+      "y": 10142.8076171875,
+      "width": 64.52886962890625,
+      "height": 75.91621398925781
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 2,
+    "id": "46:156",
+    "parentId": "46:143",
+    "type": "TEXT",
+    "name": "Трейдер принимает фейк за реальную оплату и уходит в минус. Площадка не контролирует поток подделок — и теряет трейдеров.",
+    "bounds": {
+      "x": 26495.92578125,
+      "y": 10241,
+      "width": 744.2587890625,
+      "height": 81
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 2,
+    "id": "46:157",
+    "parentId": "46:143",
+    "type": "LINE",
+    "name": "Line 19",
+    "bounds": {
+      "x": 26450.802732105778,
+      "y": 10188.529296875,
+      "width": 0.0000022692220227327198,
+      "height": 51.91374588012695
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 1,
+    "id": "46:158",
+    "parentId": "46:136",
+    "type": "GROUP",
+    "name": "Group 28",
+    "bounds": {
+      "x": 26309.587890625,
+      "y": 10419,
+      "width": 1056.7115478515625,
+      "height": 196.572265625
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 2,
+    "id": "46:159",
+    "parentId": "46:158",
+    "type": "LINE",
+    "name": "Line 18",
+    "bounds": {
+      "x": 26309.587890625,
+      "y": 10457.4296875,
+      "width": 1056.7115478515625,
+      "height": 0
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 2,
+    "id": "46:160",
+    "parentId": "46:158",
+    "type": "RECTANGLE",
+    "name": "Rectangle 25",
+    "bounds": {
+      "x": 26443.525390625,
+      "y": 10449.181640625,
+      "width": 16.98113250732422,
+      "height": 16.495956420898438
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 2,
+    "id": "46:161",
+    "parentId": "46:158",
+    "type": "FRAME",
+    "name": "Frame 29",
+    "bounds": {
+      "x": 26491.07421875,
+      "y": 10419,
+      "width": 701.2091674804688,
+      "height": 86.84635925292969
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 3,
+    "id": "46:162",
+    "parentId": "46:161",
+    "type": "FRAME",
+    "name": "Frame 26",
+    "bounds": {
+      "x": 26491.07421875,
+      "y": 10419,
+      "width": 252.9457244873047,
+      "height": 75.94572448730469
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 4,
+    "id": "46:163",
+    "parentId": "46:162",
+    "type": "TEXT",
+    "name": "ПРЯМОЙ",
+    "bounds": {
+      "x": 26504.546875,
+      "y": 10432.47265625,
+      "width": 226,
+      "height": 49
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 3,
+    "id": "46:164",
+    "parentId": "46:161",
+    "type": "FRAME",
+    "name": "Frame 2087325637",
+    "bounds": {
+      "x": 26744.01953125,
+      "y": 10419,
+      "width": 102.3719711303711,
+      "height": 86.84635925292969
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 4,
+    "id": "46:165",
+    "parentId": "46:164",
+    "type": "GROUP",
+    "name": "Group 29",
+    "bounds": {
+      "x": 26759.546875,
+      "y": 10428.703125,
+      "width": 67.92453002929688,
+      "height": 67.92453002929688
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 3,
+    "id": "46:168",
+    "parentId": "46:161",
+    "type": "FRAME",
+    "name": "Frame 2087325638",
+    "bounds": {
+      "x": 26846.392578125,
+      "y": 10419,
+      "width": 240.9457244873047,
+      "height": 75.94572448730469
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 4,
+    "id": "46:169",
+    "parentId": "46:168",
+    "type": "TEXT",
+    "name": "УБЫТОК",
+    "bounds": {
+      "x": 26859.865234375,
+      "y": 10432.47265625,
+      "width": 214,
+      "height": 49
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 3,
+    "id": "46:170",
+    "parentId": "46:161",
+    "type": "FRAME",
+    "name": "Frame 2087325639",
+    "bounds": {
+      "x": 27087.337890625,
+      "y": 10419,
+      "width": 104.94572448730469,
+      "height": 75.94572448730469
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 4,
+    "id": "46:171",
+    "parentId": "46:170",
+    "type": "TEXT",
+    "name": "ЧС",
+    "bounds": {
+      "x": 27100.810546875,
+      "y": 10432.47265625,
+      "width": 78,
+      "height": 49
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 2,
+    "id": "46:173",
+    "parentId": "46:158",
+    "type": "TEXT",
+    "name": "Команда прикладывает чек — площадка сразу отдаёт USDT. Жалоба мерчанта приходит спустя дни, и за это время успевают залить десятки фейков.",
+    "bounds": {
+      "x": 26495.92578125,
+      "y": 10534.572265625,
+      "width": 744.2587890625,
+      "height": 81
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 2,
+    "id": "46:174",
+    "parentId": "46:158",
+    "type": "LINE",
+    "name": "Line 19",
+    "bounds": {
+      "x": 26450.802732105778,
+      "y": 10470.529296875,
+      "width": 0.0000022692220227327198,
+      "height": 51.91374588012695
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 2,
+    "id": "46:175",
+    "parentId": "46:158",
+    "type": "RECTANGLE",
+    "name": "Rectangle 26",
+    "bounds": {
+      "x": 27226.11328125,
+      "y": 10449.181640625,
+      "width": 16.98113250732422,
+      "height": 16.495956420898438
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 1,
+    "id": "63:82",
+    "parentId": "46:136",
+    "type": "FRAME",
+    "name": "Frame 47",
+    "bounds": {
+      "x": 26444,
+      "y": 10084,
+      "width": 385.5,
+      "height": 39.5
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 2,
+    "id": "63:81",
+    "parentId": "63:82",
+    "type": "TEXT",
+    "name": "PAY-IN · БЕЛЫЙ ТРЕУГОЛЬНИК",
+    "bounds": {
+      "x": 26461.25,
+      "y": 10090.75,
+      "width": 351,
+      "height": 26
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 1,
+    "id": "63:84",
+    "parentId": "46:136",
+    "type": "FRAME",
+    "name": "Frame 48",
+    "bounds": {
+      "x": 26444,
+      "y": 10368,
+      "width": 283.5,
+      "height": 39.5
+    },
+    "visible": true
+  },
+  {
+    "slide": 2,
+    "depth": 2,
+    "id": "63:85",
+    "parentId": "63:84",
+    "type": "TEXT",
+    "name": "PAY- OUT • ВЫПЛАТЫ",
+    "bounds": {
+      "x": 26461.25,
+      "y": 10374.75,
+      "width": 249,
+      "height": 26
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 0,
+    "id": "46:176",
+    "parentId": null,
+    "type": "FRAME",
+    "name": "03",
+    "bounds": {
+      "x": 27386.7109375,
+      "y": 9583,
+      "width": 930,
+      "height": 1080
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 1,
+    "id": "46:177",
+    "parentId": "46:176",
+    "type": "RECTANGLE",
+    "name": "image 74",
+    "bounds": {
+      "x": 27095.606079101562,
+      "y": 10231.1943359375,
+      "width": 1234.3841552734375,
+      "height": 696.2264404296875
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 1,
+    "id": "46:178",
+    "parentId": "46:176",
+    "type": "RECTANGLE",
+    "name": "Rectangle 28",
+    "bounds": {
+      "x": 27386.7109375,
+      "y": 9583,
+      "width": 80.05390930175781,
+      "height": 80.05390930175781
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 1,
+    "id": "46:179",
+    "parentId": "46:176",
+    "type": "RECTANGLE",
+    "name": "image 73",
+    "bounds": {
+      "x": 27385.923828125,
+      "y": 9294.3203125,
+      "width": 931.594482421875,
+      "height": 525.4447631835938
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 1,
+    "id": "46:180",
+    "parentId": "46:176",
+    "type": "GROUP",
+    "name": "Group 20",
+    "bounds": {
+      "x": 27415.8203125,
+      "y": 9615.021488189697,
+      "width": 871.31640625,
+      "height": 34.932613372802734
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 1,
+    "id": "46:183",
+    "parentId": "46:176",
+    "type": "GROUP",
+    "name": "Group 30",
+    "bounds": {
+      "x": 27451.23828125,
+      "y": 9819.765625,
+      "width": 802.4797973632812,
+      "height": 173.69271850585938
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 2,
+    "id": "46:184",
+    "parentId": "46:183",
+    "type": "RECTANGLE",
+    "name": "Rectangle 6",
+    "bounds": {
+      "x": 27457.060546875,
+      "y": 9908.552734375,
+      "width": 319.2452697753906,
+      "height": 84.9056625366211
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 2,
+    "id": "46:185",
+    "parentId": "46:183",
+    "type": "TEXT",
+    "name": "Один запрос - один вердикт",
+    "bounds": {
+      "x": 27451.23828125,
+      "y": 9819.765625,
+      "width": 802.4797973632812,
+      "height": 162
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 1,
+    "id": "46:186",
+    "parentId": "46:176",
+    "type": "GROUP",
+    "name": "Group 19",
+    "bounds": {
+      "x": 27415.8203125,
+      "y": 10594.10546875,
+      "width": 871.31640625,
+      "height": 34.932613372802734
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 1,
+    "id": "46:189",
+    "parentId": "46:176",
+    "type": "GROUP",
+    "name": "Group 4",
+    "bounds": {
+      "x": 27466.6328125,
+      "y": 9681.490234375,
+      "width": 392.82708740234375,
+      "height": 54.91954040527344
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 2,
+    "id": "46:191",
+    "parentId": "46:189",
+    "type": "GROUP",
+    "name": "Group",
+    "bounds": {
+      "x": 27540.3828125,
+      "y": 9690.642578125,
+      "width": 319.07708740234375,
+      "height": 37.072303771972656
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 2,
+    "id": "46:205",
+    "parentId": "46:189",
+    "type": "GROUP",
+    "name": "Group",
+    "bounds": {
+      "x": 27432.611328125,
+      "y": 9647.546875,
+      "width": 460.73828125,
+      "height": 122.80708312988281
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 1,
+    "id": "46:231",
+    "parentId": "46:176",
+    "type": "GROUP",
+    "name": "Group 31",
+    "bounds": {
+      "x": 27387.1953125,
+      "y": 9928.4443359375,
+      "width": 964.5283203125,
+      "height": 415.3099670410156
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 2,
+    "id": "46:232",
+    "parentId": "46:231",
+    "type": "GROUP",
+    "name": "Group 32",
+    "bounds": {
+      "x": 27387.1953125,
+      "y": 10076.908203125,
+      "width": 931.536376953125,
+      "height": 232.88409423828125
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 3,
+    "id": "46:233",
+    "parentId": "46:232",
+    "type": "RECTANGLE",
+    "name": "Rectangle 29",
+    "bounds": {
+      "x": 27387.1953125,
+      "y": 10076.908203125,
+      "width": 931.536376953125,
+      "height": 232.88409423828125
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 3,
+    "id": "46:234",
+    "parentId": "46:232",
+    "type": "TEXT",
+    "name": "Отправляете PDF-чек в API - получаете однозначный ответ. Без тяжёлых интеграций, без ручной проверки, без штата верификаторов",
+    "bounds": {
+      "x": 27457.060546875,
+      "y": 10104.5634765625,
+      "width": 363.396240234375,
+      "height": 162
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 2,
+    "id": "46:235",
+    "parentId": "46:231",
+    "type": "RECTANGLE",
+    "name": "фото 1",
+    "bounds": {
+      "x": 27752.046875,
+      "y": 9928.4443359375,
+      "width": 599.6765747070312,
+      "height": 415.3099670410156
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 1,
+    "id": "46:236",
+    "parentId": "46:176",
+    "type": "FRAME",
+    "name": "Frame 37",
+    "bounds": {
+      "x": 27433.7734375,
+      "y": 10352.0029296875,
+      "width": 855.4215087890625,
+      "height": 263.908203125
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 2,
+    "id": "46:237",
+    "parentId": "46:236",
+    "type": "GROUP",
+    "name": "Group 33",
+    "bounds": {
+      "x": 27433.7734375,
+      "y": 10370.18359375,
+      "width": 399.3567810058594,
+      "height": 227.5471649169922
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 3,
+    "id": "46:238",
+    "parentId": "46:237",
+    "type": "GROUP",
+    "name": "Group 34",
+    "bounds": {
+      "x": 27433.7734375,
+      "y": 10370.18359375,
+      "width": 399.3567810058594,
+      "height": 227.5471649169922
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 4,
+    "id": "46:239",
+    "parentId": "46:238",
+    "type": "RECTANGLE",
+    "name": "Rectangle 30",
+    "bounds": {
+      "x": 27433.7734375,
+      "y": 10370.18359375,
+      "width": 399.3567810058594,
+      "height": 227.5471649169922
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 4,
+    "id": "46:240",
+    "parentId": "46:238",
+    "type": "LINE",
+    "name": "Line 20",
+    "bounds": {
+      "x": 27434.34765625,
+      "y": 10406.958984375,
+      "width": 398.78216552734375,
+      "height": 0
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 3,
+    "id": "46:241",
+    "parentId": "46:237",
+    "type": "RECTANGLE",
+    "name": "Rectangle 31",
+    "bounds": {
+      "x": 27654.52734375,
+      "y": 10467.703125,
+      "width": 73.74662780761719,
+      "height": 27.169811248779297
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 3,
+    "id": "46:242",
+    "parentId": "46:237",
+    "type": "TEXT",
+    "name": "POST /api/v1/verify { \"verdict\": \"fake\", \"bank\": \"sberbank\", \"request_id\": \"…\" }",
+    "bounds": {
+      "x": 27474.5703125,
+      "y": 10421.8984375,
+      "width": 276,
+      "height": 150
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 3,
+    "id": "46:243",
+    "parentId": "46:237",
+    "type": "GROUP",
+    "name": "Group 35",
+    "bounds": {
+      "x": 27464.82421875,
+      "y": 10384.73828125,
+      "width": 47.062374114990234,
+      "height": 11.765499114990234
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 4,
+    "id": "46:244",
+    "parentId": "46:243",
+    "type": "ELLIPSE",
+    "name": "Ellipse 1",
+    "bounds": {
+      "x": 27464.82421875,
+      "y": 10384.73828125,
+      "width": 11.765499114990234,
+      "height": 11.765499114990234
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 4,
+    "id": "46:245",
+    "parentId": "46:243",
+    "type": "ELLIPSE",
+    "name": "Ellipse 2",
+    "bounds": {
+      "x": 27482.47265625,
+      "y": 10384.73828125,
+      "width": 11.765499114990234,
+      "height": 11.765499114990234
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 4,
+    "id": "46:246",
+    "parentId": "46:243",
+    "type": "ELLIPSE",
+    "name": "Ellipse 3",
+    "bounds": {
+      "x": 27500.12109375,
+      "y": 10384.73828125,
+      "width": 11.765499114990234,
+      "height": 11.765499114990234
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 2,
+    "id": "46:247",
+    "parentId": "46:236",
+    "type": "GROUP",
+    "name": "Group 36",
+    "bounds": {
+      "x": 27853.021484375,
+      "y": 10352.0029296875,
+      "width": 436.1725158691406,
+      "height": 263.908203125
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 3,
+    "id": "46:248",
+    "parentId": "46:247",
+    "type": "FRAME",
+    "name": "Frame 2087325643",
+    "bounds": {
+      "x": 27853.021484375,
+      "y": 10352.0029296875,
+      "width": 436.1725158691406,
+      "height": 59.18267059326172
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 4,
+    "id": "46:249",
+    "parentId": "46:248",
+    "type": "FRAME",
+    "name": "Frame 36",
+    "bounds": {
+      "x": 27863.55078125,
+      "y": 10367.7734375,
+      "width": 109.25144958496094,
+      "height": 27.64193344116211
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 5,
+    "id": "46:251",
+    "parentId": "46:249",
+    "type": "TEXT",
+    "name": "“original”",
+    "bounds": {
+      "x": 27893.826171875,
+      "y": 10375.6708984375,
+      "width": 66.07738494873047,
+      "height": 11.846542358398438
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 4,
+    "id": "46:252",
+    "parentId": "46:248",
+    "type": "TEXT",
+    "name": "Чек настоящий. Реквизиты, время и подпись банка сходятся",
+    "bounds": {
+      "x": 27984.447265625,
+      "y": 10366.5947265625,
+      "width": 227.06199645996094,
+      "height": 30
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 3,
+    "id": "46:253",
+    "parentId": "46:247",
+    "type": "FRAME",
+    "name": "Frame 2087325644",
+    "bounds": {
+      "x": 27853.021484375,
+      "y": 10418.95703125,
+      "width": 436.1725158691406,
+      "height": 59.18267059326172
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 4,
+    "id": "46:254",
+    "parentId": "46:253",
+    "type": "FRAME",
+    "name": "Frame 36",
+    "bounds": {
+      "x": 27863.55078125,
+      "y": 10433.650390625,
+      "width": 83.174072265625,
+      "height": 29.795391082763672
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 5,
+    "id": "46:256",
+    "parentId": "46:254",
+    "type": "TEXT",
+    "name": "“fake”",
+    "bounds": {
+      "x": 27893.826171875,
+      "y": 10441.5478515625,
+      "width": 40,
+      "height": 14
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 4,
+    "id": "46:257",
+    "parentId": "46:253",
+    "type": "TEXT",
+    "name": "Подделка. Найдены противоречия, которые банк не допускает",
+    "bounds": {
+      "x": 27956.9921875,
+      "y": 10433.548828125,
+      "width": 307.11590576171875,
+      "height": 30
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 3,
+    "id": "46:258",
+    "parentId": "46:247",
+    "type": "FRAME",
+    "name": "Frame 2087325645",
+    "bounds": {
+      "x": 27853.021484375,
+      "y": 10485.9111328125,
+      "width": 436.1725158691406,
+      "height": 130
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 4,
+    "id": "46:259",
+    "parentId": "46:258",
+    "type": "FRAME",
+    "name": "Frame 36",
+    "bounds": {
+      "x": 27863.55078125,
+      "y": 10537.08984375,
+      "width": 109.25144958496094,
+      "height": 27.64193344116211
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 5,
+    "id": "46:261",
+    "parentId": "46:259",
+    "type": "TEXT",
+    "name": "“unknown”",
+    "bounds": {
+      "x": 27893.826171875,
+      "y": 10544.9873046875,
+      "width": 66.07738494873047,
+      "height": 11.846542358398438
+    },
+    "visible": true
+  },
+  {
+    "slide": 3,
+    "depth": 4,
+    "id": "46:262",
+    "parentId": "46:258",
+    "type": "TEXT",
+    "name": "Банк вне покрытия или нестандартно сохранённый чек - честный ответ вместо ложного вердикта",
+    "bounds": {
+      "x": 27983.0703125,
+      "y": 10528.4111328125,
+      "width": 262.47979736328125,
+      "height": 45
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 0,
+    "id": "46:263",
+    "parentId": null,
+    "type": "FRAME",
+    "name": "04",
+    "bounds": {
+      "x": 28400.248046875,
+      "y": 9583,
+      "width": 930,
+      "height": 1080
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 1,
+    "id": "46:264",
+    "parentId": "46:263",
+    "type": "GROUP",
+    "name": "Group 19",
+    "bounds": {
+      "x": 28429.357421875,
+      "y": 10594.10546875,
+      "width": 871.31640625,
+      "height": 34.932613372802734
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 1,
+    "id": "46:267",
+    "parentId": "46:263",
+    "type": "GROUP",
+    "name": "Group 42",
+    "bounds": {
+      "x": 28429.357421875,
+      "y": 9617.932621002197,
+      "width": 871.31640625,
+      "height": 34.932613372802734
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 1,
+    "id": "46:270",
+    "parentId": "46:263",
+    "type": "GROUP",
+    "name": "Group 37",
+    "bounds": {
+      "x": 28395.03125,
+      "y": 9635.3984375,
+      "width": 907.641357421875,
+      "height": 1023.38525390625
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:271",
+    "parentId": "46:270",
+    "type": "GROUP",
+    "name": "Group 30",
+    "bounds": {
+      "x": 28464.775390625,
+      "y": 9660.142578125,
+      "width": 802.4797973632812,
+      "height": 173.69271850585938
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 3,
+    "id": "46:272",
+    "parentId": "46:271",
+    "type": "RECTANGLE",
+    "name": "Rectangle 6",
+    "bounds": {
+      "x": 28470.59765625,
+      "y": 9748.9296875,
+      "width": 466.25335693359375,
+      "height": 84.9056625366211
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 3,
+    "id": "46:273",
+    "parentId": "46:271",
+    "type": "TEXT",
+    "name": "Ловим то, что пропускают другие",
+    "bounds": {
+      "x": 28464.775390625,
+      "y": 9660.142578125,
+      "width": 802.4797973632812,
+      "height": 162
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:274",
+    "parentId": "46:270",
+    "type": "RECTANGLE",
+    "name": "Rectangle 15",
+    "bounds": {
+      "x": 28511.353515625,
+      "y": 9635.3984375,
+      "width": 73.00019836425781,
+      "height": 73.00019836425781
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:275",
+    "parentId": "46:270",
+    "type": "RECTANGLE",
+    "name": "Rectangle 16",
+    "bounds": {
+      "x": 28862.134765625,
+      "y": 10595.560546875,
+      "width": 42.386478424072266,
+      "height": 42.386478424072266
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:276",
+    "parentId": "46:270",
+    "type": "RECTANGLE",
+    "name": "Rectangle 19",
+    "bounds": {
+      "x": 29140.138671875,
+      "y": 9805.2099609375,
+      "width": 28.737810134887695,
+      "height": 28.737810134887695
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:277",
+    "parentId": "46:270",
+    "type": "RECTANGLE",
+    "name": "Rectangle 20",
+    "bounds": {
+      "x": 29230.783203125,
+      "y": 10630.0458984375,
+      "width": 28.737810134887695,
+      "height": 28.737810134887695
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:278",
+    "parentId": "46:270",
+    "type": "RECTANGLE",
+    "name": "Rectangle 21",
+    "bounds": {
+      "x": 29029.51953125,
+      "y": 9683.916015625,
+      "width": 28.737810134887695,
+      "height": 28.737810134887695
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:279",
+    "parentId": "46:270",
+    "type": "RECTANGLE",
+    "name": "Rectangle 17",
+    "bounds": {
+      "x": 28395.03125,
+      "y": 10142.484375,
+      "width": 42.386478424072266,
+      "height": 42.386478424072266
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:280",
+    "parentId": "46:270",
+    "type": "RECTANGLE",
+    "name": "Rectangle 18",
+    "bounds": {
+      "x": 29230.783203125,
+      "y": 10083.203125,
+      "width": 71.8894271850586,
+      "height": 71.8894271850586
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:281",
+    "parentId": "46:270",
+    "type": "LINE",
+    "name": "Line 9",
+    "bounds": {
+      "x": 28431.54296875,
+      "y": 10181.6787109375,
+      "width": 434.4715286263381,
+      "height": 424.07059002062306
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:282",
+    "parentId": "46:270",
+    "type": "LINE",
+    "name": "Line 10",
+    "bounds": {
+      "x": 28883.482421875,
+      "y": 10149.790269710804,
+      "width": 361.6707066838244,
+      "height": 449.65211310169616
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:283",
+    "parentId": "46:270",
+    "type": "LINE",
+    "name": "Line 11",
+    "bounds": {
+      "x": 29168.76526320965,
+      "y": 9833.835583064429,
+      "width": 68.99840866534942,
+      "height": 253.57750287307135
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:284",
+    "parentId": "46:270",
+    "type": "LINE",
+    "name": "Line 13",
+    "bounds": {
+      "x": 28904.344824317704,
+      "y": 10616.908091091478,
+      "width": 329.0418944322955,
+      "height": 22.048940158521873
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:285",
+    "parentId": "46:270",
+    "type": "LINE",
+    "name": "Line 14",
+    "bounds": {
+      "x": 28437.41852806489,
+      "y": 9708.1748046875,
+      "width": 592.101003185111,
+      "height": 441.61457147787223
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 1,
+    "id": "46:286",
+    "parentId": "46:263",
+    "type": "LINE",
+    "name": "Line 12",
+    "bounds": {
+      "x": 28579.27734375,
+      "y": 9703.80859375,
+      "width": 298.8679237095421,
+      "height": 891.7519832648977
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 1,
+    "id": "46:287",
+    "parentId": "46:263",
+    "type": "GROUP",
+    "name": "Group 41",
+    "bounds": {
+      "x": 28459.439453125,
+      "y": 10095.3447265625,
+      "width": 813.1530151367188,
+      "height": 446.84637451171875
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:288",
+    "parentId": "46:287",
+    "type": "GROUP",
+    "name": "Group 39",
+    "bounds": {
+      "x": 28468.171875,
+      "y": 10101.65234375,
+      "width": 796.173095703125,
+      "height": 208.14016723632812
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 3,
+    "id": "46:289",
+    "parentId": "46:288",
+    "type": "RECTANGLE",
+    "name": "Rectangle 32",
+    "bounds": {
+      "x": 28468.171875,
+      "y": 10101.65234375,
+      "width": 391.536376953125,
+      "height": 208.14016723632812
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 3,
+    "id": "46:290",
+    "parentId": "46:288",
+    "type": "RECTANGLE",
+    "name": "Rectangle 33",
+    "bounds": {
+      "x": 28872.80859375,
+      "y": 10101.65234375,
+      "width": 391.536376953125,
+      "height": 208.14016723632812
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:291",
+    "parentId": "46:287",
+    "type": "GROUP",
+    "name": "Group 40",
+    "bounds": {
+      "x": 28468.171875,
+      "y": 10326.7734375,
+      "width": 796.173095703125,
+      "height": 208.14016723632812
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 3,
+    "id": "46:292",
+    "parentId": "46:291",
+    "type": "RECTANGLE",
+    "name": "Rectangle 32",
+    "bounds": {
+      "x": 28468.171875,
+      "y": 10326.7734375,
+      "width": 391.536376953125,
+      "height": 208.14016723632812
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 3,
+    "id": "46:293",
+    "parentId": "46:291",
+    "type": "RECTANGLE",
+    "name": "Rectangle 33",
+    "bounds": {
+      "x": 28872.80859375,
+      "y": 10326.7734375,
+      "width": 391.536376953125,
+      "height": 208.14016723632812
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:294",
+    "parentId": "46:287",
+    "type": "RECTANGLE",
+    "name": "Rectangle 15",
+    "bounds": {
+      "x": 28459.439453125,
+      "y": 10095.3447265625,
+      "width": 16.98113250732422,
+      "height": 16.98113250732422
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:295",
+    "parentId": "46:287",
+    "type": "RECTANGLE",
+    "name": "Rectangle 27",
+    "bounds": {
+      "x": 28459.439453125,
+      "y": 10319.49609375,
+      "width": 16.98113250732422,
+      "height": 16.98113250732422
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:296",
+    "parentId": "46:287",
+    "type": "RECTANGLE",
+    "name": "Rectangle 16",
+    "bounds": {
+      "x": 28459.439453125,
+      "y": 10301.0595703125,
+      "width": 16.98113250732422,
+      "height": 16.98113250732422
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:297",
+    "parentId": "46:287",
+    "type": "RECTANGLE",
+    "name": "Rectangle 28",
+    "bounds": {
+      "x": 28459.439453125,
+      "y": 10525.2099609375,
+      "width": 16.98113250732422,
+      "height": 16.98113250732422
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:298",
+    "parentId": "46:287",
+    "type": "RECTANGLE",
+    "name": "Rectangle 17",
+    "bounds": {
+      "x": 28849.03515625,
+      "y": 10301.0595703125,
+      "width": 16.98113250732422,
+      "height": 16.98113250732422
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:299",
+    "parentId": "46:287",
+    "type": "RECTANGLE",
+    "name": "Rectangle 29",
+    "bounds": {
+      "x": 28849.03515625,
+      "y": 10525.2099609375,
+      "width": 16.98113250732422,
+      "height": 16.98113250732422
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:300",
+    "parentId": "46:287",
+    "type": "RECTANGLE",
+    "name": "Rectangle 19",
+    "bounds": {
+      "x": 28849.03515625,
+      "y": 10095.3447265625,
+      "width": 16.98113250732422,
+      "height": 16.98113250732422
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:301",
+    "parentId": "46:287",
+    "type": "RECTANGLE",
+    "name": "Rectangle 30",
+    "bounds": {
+      "x": 28852.431640625,
+      "y": 10322.892578125,
+      "width": 10.188679695129395,
+      "height": 10.188679695129395
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:302",
+    "parentId": "46:287",
+    "type": "RECTANGLE",
+    "name": "Rectangle 18",
+    "bounds": {
+      "x": 28869.412109375,
+      "y": 10303.4853515625,
+      "width": 12.129380226135254,
+      "height": 12.129380226135254
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:303",
+    "parentId": "46:287",
+    "type": "RECTANGLE",
+    "name": "Rectangle 21",
+    "bounds": {
+      "x": 29255.611328125,
+      "y": 10301.0595703125,
+      "width": 16.98113250732422,
+      "height": 16.98113250732422
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:304",
+    "parentId": "46:287",
+    "type": "RECTANGLE",
+    "name": "Rectangle 23",
+    "bounds": {
+      "x": 29255.611328125,
+      "y": 10525.2099609375,
+      "width": 16.98113250732422,
+      "height": 16.98113250732422
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:305",
+    "parentId": "46:287",
+    "type": "RECTANGLE",
+    "name": "Rectangle 20",
+    "bounds": {
+      "x": 28866.986328125,
+      "y": 10095.3447265625,
+      "width": 16.98113250732422,
+      "height": 16.98113250732422
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:306",
+    "parentId": "46:287",
+    "type": "RECTANGLE",
+    "name": "Rectangle 24",
+    "bounds": {
+      "x": 28866.986328125,
+      "y": 10319.49609375,
+      "width": 24.258760452270508,
+      "height": 24.258760452270508
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:307",
+    "parentId": "46:287",
+    "type": "RECTANGLE",
+    "name": "Rectangle 26",
+    "bounds": {
+      "x": 28866.986328125,
+      "y": 10525.2099609375,
+      "width": 16.98113250732422,
+      "height": 16.98113250732422
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:308",
+    "parentId": "46:287",
+    "type": "RECTANGLE",
+    "name": "Rectangle 22",
+    "bounds": {
+      "x": 29255.611328125,
+      "y": 10095.3447265625,
+      "width": 16.98113250732422,
+      "height": 16.98113250732422
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:309",
+    "parentId": "46:287",
+    "type": "RECTANGLE",
+    "name": "Rectangle 25",
+    "bounds": {
+      "x": 29255.611328125,
+      "y": 10319.49609375,
+      "width": 16.98113250732422,
+      "height": 16.98113250732422
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 1,
+    "id": "46:310",
+    "parentId": "46:263",
+    "type": "TEXT",
+    "name": "Экспертиза изнутри банка",
+    "bounds": {
+      "x": 28491.9453125,
+      "y": 10118.6337890625,
+      "width": 288,
+      "height": 22
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 1,
+    "id": "46:311",
+    "parentId": "46:263",
+    "type": "TEXT",
+    "name": "ML-детекция ре-рендеров",
+    "bounds": {
+      "x": 28491.9453125,
+      "y": 10346.1806640625,
+      "width": 293,
+      "height": 22
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 1,
+    "id": "46:312",
+    "parentId": "46:263",
+    "type": "TEXT",
+    "name": "Декодированный ID СБП/НСПК",
+    "bounds": {
+      "x": 28891.244140625,
+      "y": 10116.20703125,
+      "width": 343,
+      "height": 22
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 1,
+    "id": "46:313",
+    "parentId": "46:263",
+    "type": "TEXT",
+    "name": "Свежие подделки — первыми",
+    "bounds": {
+      "x": 28891.244140625,
+      "y": 10343.7548828125,
+      "width": 330,
+      "height": 22
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 1,
+    "id": "46:314",
+    "parentId": "46:263",
+    "type": "TEXT",
+    "name": "Продукт строит действующий руководитель внедрения в крупном банке РФ в связке с антифродом. Детекция — на реальных банковских процессах, а не на аутсорс-ТЗ.",
+    "bounds": {
+      "x": 28491.9453125,
+      "y": 10159.3876953125,
+      "width": 293.0458068847656,
+      "height": 114
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 1,
+    "id": "46:315",
+    "parentId": "46:263",
+    "type": "TEXT",
+    "name": "Модель ловит чеки, перерисованные через headless-движки и редакторы, — то, что проходит мимо простых чекеров и проверки «на глаз».",
+    "bounds": {
+      "x": 28491.9453125,
+      "y": 10386.935546875,
+      "width": 293.0458068847656,
+      "height": 95
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 1,
+    "id": "46:316",
+    "parentId": "46:263",
+    "type": "TEXT",
+    "name": "Сверяем ID операции с временем чека по алгоритму банка. Этот ID нельзя подделать — его задаёт банк, а не верстальщик подделки.",
+    "bounds": {
+      "x": 28891.244140625,
+      "y": 10159.3876953125,
+      "width": 293.0458068847656,
+      "height": 76
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 1,
+    "id": "46:317",
+    "parentId": "46:263",
+    "type": "TEXT",
+    "name": "Источник внутри скам-команд даёт нам софт мошенников раньше рынка. Новые волны фейков перекрываем первыми, проскочившее разбираем в тот же час.",
+    "bounds": {
+      "x": 28891.244140625,
+      "y": 10386.935546875,
+      "width": 275.57952880859375,
+      "height": 114
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 1,
+    "id": "46:318",
+    "parentId": "46:263",
+    "type": "GROUP",
+    "name": "Group 38",
+    "bounds": {
+      "x": 28400.248046875,
+      "y": 9863.431640625,
+      "width": 931.536376953125,
+      "height": 203.77359008789062
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:319",
+    "parentId": "46:318",
+    "type": "RECTANGLE",
+    "name": "Rectangle 29",
+    "bounds": {
+      "x": 28400.248046875,
+      "y": 9863.431640625,
+      "width": 931.536376953125,
+      "height": 203.77359008789062
+    },
+    "visible": true
+  },
+  {
+    "slide": 4,
+    "depth": 2,
+    "id": "46:320",
+    "parentId": "46:318",
+    "type": "TEXT",
+    "name": "Большинство чекеров на рынке делают нетехнические фаундеры через аутсорс-ТЗ.  Стоит мошенникам выпустить новый софт - и такая детекция устаревает. detect.io построен иначе.",
+    "bounds": {
+      "x": 28464.291015625,
+      "y": 9893.51171875,
+      "width": 604.0431518554688,
+      "height": 135
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 0,
+    "id": "46:321",
+    "parentId": null,
+    "type": "FRAME",
+    "name": "05",
+    "bounds": {
+      "x": 29413.78515625,
+      "y": 9583,
+      "width": 930,
+      "height": 1080
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 1,
+    "id": "46:322",
+    "parentId": "46:321",
+    "type": "RECTANGLE",
+    "name": "image 75",
+    "bounds": {
+      "x": 29412.78515625,
+      "y": 9335.560546875,
+      "width": 988.3674926757812,
+      "height": 557.46630859375
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 1,
+    "id": "46:323",
+    "parentId": "46:321",
+    "type": "RECTANGLE",
+    "name": "image 73",
+    "bounds": {
+      "x": 29396.802734375,
+      "y": 10181.7060546875,
+      "width": 947.9381713867188,
+      "height": 534.6630859375
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 1,
+    "id": "46:324",
+    "parentId": "46:321",
+    "type": "RECTANGLE",
+    "name": "Rectangle 22",
+    "bounds": {
+      "x": 29413.78515625,
+      "y": 9746.9892578125,
+      "width": 931.536376953125,
+      "height": 247.43934631347656
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 1,
+    "id": "46:325",
+    "parentId": "46:321",
+    "type": "GROUP",
+    "name": "Group 43",
+    "bounds": {
+      "x": 29459.390625,
+      "y": 10215.18359375,
+      "width": 840.3234252929688,
+      "height": 327.9784240722656
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 2,
+    "id": "46:326",
+    "parentId": "46:325",
+    "type": "RECTANGLE",
+    "name": "Rectangle 23",
+    "bounds": {
+      "x": 29459.390625,
+      "y": 10215.18359375,
+      "width": 840.3234252929688,
+      "height": 327.9784240722656
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 2,
+    "id": "46:327",
+    "parentId": "46:325",
+    "type": "FRAME",
+    "name": "Frame 43",
+    "bounds": {
+      "x": 29483.951171875,
+      "y": 10241.3828125,
+      "width": 789.0087280273438,
+      "height": 63.58127212524414
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 3,
+    "id": "46:328",
+    "parentId": "46:327",
+    "type": "FRAME",
+    "name": "Frame 43",
+    "bounds": {
+      "x": 29483.951171875,
+      "y": 10241.3828125,
+      "width": 44.14876174926758,
+      "height": 63.58127212524414
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:329",
+    "parentId": "46:328",
+    "type": "TEXT",
+    "name": "A",
+    "bounds": {
+      "x": 29492.525390625,
+      "y": 10255.673828125,
+      "width": 27,
+      "height": 35
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 3,
+    "id": "46:330",
+    "parentId": "46:327",
+    "type": "FRAME",
+    "name": "Frame 2087325644",
+    "bounds": {
+      "x": 29535.24609375,
+      "y": 10241.3828125,
+      "width": 42.14876174926758,
+      "height": 63.58127212524414
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:331",
+    "parentId": "46:330",
+    "type": "TEXT",
+    "name": "6",
+    "bounds": {
+      "x": 29543.8203125,
+      "y": 10255.673828125,
+      "width": 25,
+      "height": 35
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 3,
+    "id": "46:332",
+    "parentId": "46:327",
+    "type": "FRAME",
+    "name": "Frame 2087325645",
+    "bounds": {
+      "x": 29584.5390625,
+      "y": 10241.3828125,
+      "width": 95.29752349853516,
+      "height": 63.58127212524414
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:333",
+    "parentId": "46:332",
+    "type": "TEXT",
+    "name": "051",
+    "bounds": {
+      "x": 29601.6875,
+      "y": 10255.673828125,
+      "width": 61,
+      "height": 35
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 3,
+    "id": "46:334",
+    "parentId": "46:327",
+    "type": "FRAME",
+    "name": "Frame 2087325646",
+    "bounds": {
+      "x": 29686.982421875,
+      "y": 10241.42578125,
+      "width": 88.60193634033203,
+      "height": 63.49460983276367
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:335",
+    "parentId": "46:334",
+    "type": "GROUP",
+    "name": "Group 8",
+    "bounds": {
+      "x": 29719.8515625,
+      "y": 10260.3115234375,
+      "width": 22.86501693725586,
+      "height": 25.722980499267578
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:338",
+    "parentId": "46:335",
+    "type": "ELLIPSE",
+    "name": "Ellipse 6",
+    "bounds": {
+      "x": 29728.42578125,
+      "y": 10274.6025390625,
+      "width": 5.716254234313965,
+      "height": 5.716254234313965
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 3,
+    "id": "46:339",
+    "parentId": "46:327",
+    "type": "FRAME",
+    "name": "Frame 2087325647",
+    "bounds": {
+      "x": 29782.728515625,
+      "y": 10241.42578125,
+      "width": 45.73003387451172,
+      "height": 63.49460983276367
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:340",
+    "parentId": "46:339",
+    "type": "GROUP",
+    "name": "Group 8",
+    "bounds": {
+      "x": 29794.16015625,
+      "y": 10260.3115234375,
+      "width": 22.86501693725586,
+      "height": 25.722980499267578
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:343",
+    "parentId": "46:340",
+    "type": "ELLIPSE",
+    "name": "Ellipse 6",
+    "bounds": {
+      "x": 29802.734375,
+      "y": 10274.6025390625,
+      "width": 5.716254234313965,
+      "height": 5.716254234313965
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 3,
+    "id": "46:344",
+    "parentId": "46:327",
+    "type": "FRAME",
+    "name": "Frame 2087325648",
+    "bounds": {
+      "x": 29835.60546875,
+      "y": 10241.42578125,
+      "width": 60.02067184448242,
+      "height": 63.49460983276367
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:345",
+    "parentId": "46:344",
+    "type": "GROUP",
+    "name": "Group 8",
+    "bounds": {
+      "x": 29854.18359375,
+      "y": 10260.3115234375,
+      "width": 22.86501693725586,
+      "height": 25.722980499267578
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:348",
+    "parentId": "46:345",
+    "type": "ELLIPSE",
+    "name": "Ellipse 6",
+    "bounds": {
+      "x": 29862.7578125,
+      "y": 10274.6025390625,
+      "width": 5.716254234313965,
+      "height": 5.716254234313965
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 3,
+    "id": "46:349",
+    "parentId": "46:327",
+    "type": "FRAME",
+    "name": "Frame 2087325649",
+    "bounds": {
+      "x": 29902.771484375,
+      "y": 10241.42578125,
+      "width": 60.02067184448242,
+      "height": 63.49460983276367
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:350",
+    "parentId": "46:349",
+    "type": "GROUP",
+    "name": "Group 8",
+    "bounds": {
+      "x": 29921.349609375,
+      "y": 10260.3115234375,
+      "width": 22.86501693725586,
+      "height": 25.722980499267578
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:353",
+    "parentId": "46:350",
+    "type": "ELLIPSE",
+    "name": "Ellipse 6",
+    "bounds": {
+      "x": 29929.923828125,
+      "y": 10274.6025390625,
+      "width": 5.716254234313965,
+      "height": 5.716254234313965
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 3,
+    "id": "46:354",
+    "parentId": "46:327",
+    "type": "FRAME",
+    "name": "Frame 2087325650",
+    "bounds": {
+      "x": 29969.9375,
+      "y": 10241.42578125,
+      "width": 129.55062866210938,
+      "height": 63.49460983276367
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:355",
+    "parentId": "46:354",
+    "type": "GROUP",
+    "name": "Group 8",
+    "bounds": {
+      "x": 30023.28125,
+      "y": 10260.3115234375,
+      "width": 22.86501693725586,
+      "height": 25.722980499267578
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:358",
+    "parentId": "46:355",
+    "type": "ELLIPSE",
+    "name": "Ellipse 6",
+    "bounds": {
+      "x": 30031.85546875,
+      "y": 10274.6025390625,
+      "width": 5.716254234313965,
+      "height": 5.716254234313965
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 3,
+    "id": "46:359",
+    "parentId": "46:327",
+    "type": "FRAME",
+    "name": "Frame 2087325651",
+    "bounds": {
+      "x": 30106.6328125,
+      "y": 10241.3828125,
+      "width": 78.14876556396484,
+      "height": 63.58127212524414
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:360",
+    "parentId": "46:359",
+    "type": "TEXT",
+    "name": "001",
+    "bounds": {
+      "x": 30115.20703125,
+      "y": 10255.673828125,
+      "width": 61,
+      "height": 35
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 3,
+    "id": "46:361",
+    "parentId": "46:327",
+    "type": "FRAME",
+    "name": "Frame 2087325652",
+    "bounds": {
+      "x": 30191.92578125,
+      "y": 10241.42578125,
+      "width": 81.03311157226562,
+      "height": 63.49460983276367
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:362",
+    "parentId": "46:361",
+    "type": "GROUP",
+    "name": "Group 8",
+    "bounds": {
+      "x": 30221.009765625,
+      "y": 10260.3115234375,
+      "width": 22.86501693725586,
+      "height": 25.722980499267578
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:365",
+    "parentId": "46:362",
+    "type": "ELLIPSE",
+    "name": "Ellipse 6",
+    "bounds": {
+      "x": 30229.583984375,
+      "y": 10274.6025390625,
+      "width": 5.716254234313965,
+      "height": 5.716254234313965
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 1,
+    "id": "46:366",
+    "parentId": "46:321",
+    "type": "GROUP",
+    "name": "Group 19",
+    "bounds": {
+      "x": 29442.89453125,
+      "y": 10591.6796875,
+      "width": 871.31640625,
+      "height": 34.932613372802734
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 1,
+    "id": "46:369",
+    "parentId": "46:321",
+    "type": "GROUP",
+    "name": "Group 20",
+    "bounds": {
+      "x": 29442.89453125,
+      "y": 9614.536136627197,
+      "width": 871.31640625,
+      "height": 34.932613372802734
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 1,
+    "id": "46:372",
+    "parentId": "46:321",
+    "type": "RECTANGLE",
+    "name": "Rectangle 6",
+    "bounds": {
+      "x": 29877.611328125,
+      "y": 9794.05078125,
+      "width": 440.5390930175781,
+      "height": 76.65768432617188
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 1,
+    "id": "46:373",
+    "parentId": "46:321",
+    "type": "TEXT",
+    "name": "ID, который невозможно подделать",
+    "bounds": {
+      "x": 29459.390625,
+      "y": 9791.625,
+      "width": 996.064697265625,
+      "height": 146
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 1,
+    "id": "46:374",
+    "parentId": "46:321",
+    "type": "TEXT",
+    "name": "Каждый чек несёт ID операции СБП/НСПК. Мы декодировали его структуру по строгому алгоритму банка и сверяем каждое поле. ID формирует банк, а не верстальщик подделки, - поэтому подделать его нельзя.",
+    "bounds": {
+      "x": 29459.390625,
+      "y": 10034.6982421875,
+      "width": 703.0188598632812,
+      "height": 108
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 1,
+    "id": "46:375",
+    "parentId": "46:321",
+    "type": "FRAME",
+    "name": "Frame 20",
+    "bounds": {
+      "x": 29485.076171875,
+      "y": 9649.46875,
+      "width": 393.477294921875,
+      "height": 54.91954040527344
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 2,
+    "id": "46:376",
+    "parentId": "46:375",
+    "type": "GROUP",
+    "name": "Group 4",
+    "bounds": {
+      "x": 29485.076171875,
+      "y": 9649.46875,
+      "width": 393.477294921875,
+      "height": 54.91954040527344
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 3,
+    "id": "46:378",
+    "parentId": "46:376",
+    "type": "GROUP",
+    "name": "Group",
+    "bounds": {
+      "x": 29558.947265625,
+      "y": 9658.62109375,
+      "width": 319.6061706542969,
+      "height": 37.072303771972656
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 3,
+    "id": "46:392",
+    "parentId": "46:376",
+    "type": "GROUP",
+    "name": "Group",
+    "bounds": {
+      "x": 29450.998046875,
+      "y": 9615.525390625,
+      "width": 461.5,
+      "height": 122.80708312988281
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 1,
+    "id": "46:418",
+    "parentId": "46:321",
+    "type": "GROUP",
+    "name": "Group 44",
+    "bounds": {
+      "x": 29489.470703125,
+      "y": 10353.943359375,
+      "width": 780.1630249023438,
+      "height": 137.78976440429688
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 2,
+    "id": "46:419",
+    "parentId": "46:418",
+    "type": "FRAME",
+    "name": "Frame 44",
+    "bounds": {
+      "x": 29489.470703125,
+      "y": 10353.943359375,
+      "width": 373.58489990234375,
+      "height": 137.78976440429688
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 3,
+    "id": "46:420",
+    "parentId": "46:419",
+    "type": "FRAME",
+    "name": "Frame 44",
+    "bounds": {
+      "x": 29489.470703125,
+      "y": 10353.943359375,
+      "width": 351.1695251464844,
+      "height": 54.339622497558594
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:421",
+    "parentId": "46:420",
+    "type": "FRAME",
+    "name": "Frame 43",
+    "bounds": {
+      "x": 29505.966796875,
+      "y": 10353.943359375,
+      "width": 61.89091873168945,
+      "height": 54.339622497558594
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:422",
+    "parentId": "46:421",
+    "type": "TEXT",
+    "name": "1",
+    "bounds": {
+      "x": 29527.912109375,
+      "y": 10363.61328125,
+      "width": 18,
+      "height": 35
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:423",
+    "parentId": "46:420",
+    "type": "FRAME",
+    "name": "Frame 44",
+    "bounds": {
+      "x": 29587.263671875,
+      "y": 10355.9443359375,
+      "width": 176.11859130859375,
+      "height": 50.3369255065918
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:424",
+    "parentId": "46:423",
+    "type": "TEXT",
+    "name": "Направление",
+    "bounds": {
+      "x": 29587.263671875,
+      "y": 10355.9443359375,
+      "width": 182,
+      "height": 28
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:425",
+    "parentId": "46:423",
+    "type": "TEXT",
+    "name": "PAY IN/ PAY PUT",
+    "bounds": {
+      "x": 29587.263671875,
+      "y": 10389.28125,
+      "width": 176.11859130859375,
+      "height": 17
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:426",
+    "parentId": "46:420",
+    "type": "FRAME",
+    "name": "Frame 45",
+    "bounds": {
+      "x": 29782.791015625,
+      "y": 10353.943359375,
+      "width": 41.35408401489258,
+      "height": 54.339622497558594
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:427",
+    "parentId": "46:426",
+    "type": "TEXT",
+    "name": "A",
+    "bounds": {
+      "x": 29792.46875,
+      "y": 10368.61328125,
+      "width": 22,
+      "height": 25
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 3,
+    "id": "46:428",
+    "parentId": "46:419",
+    "type": "LINE",
+    "name": "Line 21",
+    "bounds": {
+      "x": 29489.470703125,
+      "y": 10422.837890625,
+      "width": 373.58489990234375,
+      "height": 0
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 3,
+    "id": "46:429",
+    "parentId": "46:419",
+    "type": "FRAME",
+    "name": "Frame 45",
+    "bounds": {
+      "x": 29489.470703125,
+      "y": 10437.3935546875,
+      "width": 351.1695251464844,
+      "height": 54.339622497558594
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:430",
+    "parentId": "46:429",
+    "type": "FRAME",
+    "name": "Frame 43",
+    "bounds": {
+      "x": 29505.966796875,
+      "y": 10437.3935546875,
+      "width": 61.89091873168945,
+      "height": 54.339622497558594
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:431",
+    "parentId": "46:430",
+    "type": "TEXT",
+    "name": "2",
+    "bounds": {
+      "x": 29524.912109375,
+      "y": 10447.0634765625,
+      "width": 24,
+      "height": 35
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:432",
+    "parentId": "46:429",
+    "type": "FRAME",
+    "name": "Frame 44",
+    "bounds": {
+      "x": 29587.263671875,
+      "y": 10439.39453125,
+      "width": 176.11859130859375,
+      "height": 50.3369255065918
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:433",
+    "parentId": "46:432",
+    "type": "TEXT",
+    "name": "Год",
+    "bounds": {
+      "x": 29587.263671875,
+      "y": 10439.39453125,
+      "width": 176.11859130859375,
+      "height": 28
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:434",
+    "parentId": "46:432",
+    "type": "TEXT",
+    "name": "Последняя цифра",
+    "bounds": {
+      "x": 29587.263671875,
+      "y": 10472.7314453125,
+      "width": 176.11859130859375,
+      "height": 17
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:435",
+    "parentId": "46:429",
+    "type": "FRAME",
+    "name": "Frame 45",
+    "bounds": {
+      "x": 29782.791015625,
+      "y": 10437.3935546875,
+      "width": 41.35408401489258,
+      "height": 54.339622497558594
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:436",
+    "parentId": "46:435",
+    "type": "TEXT",
+    "name": "6",
+    "bounds": {
+      "x": 29792.46875,
+      "y": 10452.0634765625,
+      "width": 22,
+      "height": 25
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 2,
+    "id": "46:437",
+    "parentId": "46:418",
+    "type": "FRAME",
+    "name": "Frame 45",
+    "bounds": {
+      "x": 29896.048828125,
+      "y": 10353.943359375,
+      "width": 373.58489990234375,
+      "height": 137.78976440429688
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 3,
+    "id": "46:438",
+    "parentId": "46:437",
+    "type": "FRAME",
+    "name": "Frame 44",
+    "bounds": {
+      "x": 29896.048828125,
+      "y": 10353.943359375,
+      "width": 390.1695251464844,
+      "height": 54.339622497558594
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:439",
+    "parentId": "46:438",
+    "type": "FRAME",
+    "name": "Frame 43",
+    "bounds": {
+      "x": 29912.544921875,
+      "y": 10353.943359375,
+      "width": 61.89091873168945,
+      "height": 54.339622497558594
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:440",
+    "parentId": "46:439",
+    "type": "TEXT",
+    "name": "3",
+    "bounds": {
+      "x": 29930.990234375,
+      "y": 10363.61328125,
+      "width": 25,
+      "height": 35
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:441",
+    "parentId": "46:438",
+    "type": "FRAME",
+    "name": "Frame 44",
+    "bounds": {
+      "x": 29993.841796875,
+      "y": 10355.9443359375,
+      "width": 176.11859130859375,
+      "height": 50.3369255065918
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:442",
+    "parentId": "46:441",
+    "type": "TEXT",
+    "name": "День года",
+    "bounds": {
+      "x": 29993.841796875,
+      "y": 10355.9443359375,
+      "width": 176.11859130859375,
+      "height": 28
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:443",
+    "parentId": "46:441",
+    "type": "TEXT",
+    "name": "001-365",
+    "bounds": {
+      "x": 29993.841796875,
+      "y": 10389.28125,
+      "width": 176.11859130859375,
+      "height": 17
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:444",
+    "parentId": "46:438",
+    "type": "FRAME",
+    "name": "Frame 45",
+    "bounds": {
+      "x": 30189.369140625,
+      "y": 10353.943359375,
+      "width": 80.35408020019531,
+      "height": 54.339622497558594
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:445",
+    "parentId": "46:444",
+    "type": "TEXT",
+    "name": "051",
+    "bounds": {
+      "x": 30199.046875,
+      "y": 10363.61328125,
+      "width": 61,
+      "height": 35
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 3,
+    "id": "46:446",
+    "parentId": "46:437",
+    "type": "LINE",
+    "name": "Line 21",
+    "bounds": {
+      "x": 29896.048828125,
+      "y": 10422.837890625,
+      "width": 373.58489990234375,
+      "height": 0
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 3,
+    "id": "46:447",
+    "parentId": "46:437",
+    "type": "FRAME",
+    "name": "Frame 45",
+    "bounds": {
+      "x": 29896.048828125,
+      "y": 10437.3935546875,
+      "width": 390.1695251464844,
+      "height": 54.339622497558594
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:448",
+    "parentId": "46:447",
+    "type": "FRAME",
+    "name": "Frame 43",
+    "bounds": {
+      "x": 29912.544921875,
+      "y": 10437.3935546875,
+      "width": 61.89091873168945,
+      "height": 54.339622497558594
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:449",
+    "parentId": "46:448",
+    "type": "TEXT",
+    "name": "4",
+    "bounds": {
+      "x": 29930.990234375,
+      "y": 10447.0634765625,
+      "width": 25,
+      "height": 35
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:450",
+    "parentId": "46:447",
+    "type": "FRAME",
+    "name": "Frame 44",
+    "bounds": {
+      "x": 29993.841796875,
+      "y": 10439.39453125,
+      "width": 176.11859130859375,
+      "height": 50.3369255065918
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:451",
+    "parentId": "46:450",
+    "type": "TEXT",
+    "name": "Константа",
+    "bounds": {
+      "x": 29993.841796875,
+      "y": 10439.39453125,
+      "width": 176.11859130859375,
+      "height": 28
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:452",
+    "parentId": "46:450",
+    "type": "TEXT",
+    "name": "Фиксир. маркер",
+    "bounds": {
+      "x": 29993.841796875,
+      "y": 10472.7314453125,
+      "width": 176.11859130859375,
+      "height": 17
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 4,
+    "id": "46:453",
+    "parentId": "46:447",
+    "type": "FRAME",
+    "name": "Frame 45",
+    "bounds": {
+      "x": 30189.369140625,
+      "y": 10437.3935546875,
+      "width": 80.35408020019531,
+      "height": 54.339622497558594
+    },
+    "visible": true
+  },
+  {
+    "slide": 5,
+    "depth": 5,
+    "id": "46:454",
+    "parentId": "46:453",
+    "type": "TEXT",
+    "name": "001",
+    "bounds": {
+      "x": 30199.046875,
+      "y": 10447.0634765625,
+      "width": 61,
+      "height": 35
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 0,
+    "id": "46:455",
+    "parentId": null,
+    "type": "FRAME",
+    "name": "06",
+    "bounds": {
+      "x": 30427.3203125,
+      "y": 9583,
+      "width": 930,
+      "height": 1080
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 1,
+    "id": "46:456",
+    "parentId": "46:455",
+    "type": "GROUP",
+    "name": "Mask group",
+    "bounds": {
+      "x": 30427.3203125,
+      "y": 10557.232421875,
+      "width": 407.546875,
+      "height": 135.849609375
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "46:457",
+    "parentId": "46:456",
+    "type": "BOOLEAN_OPERATION",
+    "name": "Union",
+    "bounds": {
+      "x": 30427.3203125,
+      "y": 10557.232421875,
+      "width": 407.546875,
+      "height": 135.849609375
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "46:459",
+    "parentId": "46:456",
+    "type": "RECTANGLE",
+    "name": "image 76",
+    "bounds": {
+      "x": 30413.64031982422,
+      "y": 10492.7041015625,
+      "width": 988.3674926757812,
+      "height": 557.46630859375
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "46:460",
+    "parentId": "46:456",
+    "type": "RECTANGLE",
+    "name": "image 73",
+    "bounds": {
+      "x": 30427.321533203125,
+      "y": 10403.9169921875,
+      "width": 931.594482421875,
+      "height": 525.4447631835938
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "46:461",
+    "parentId": "46:456",
+    "type": "RECTANGLE",
+    "name": "Rectangle 22",
+    "bounds": {
+      "x": 30427.805419921875,
+      "y": 13346.5048828125,
+      "width": 931.536376953125,
+      "height": 247.43934631347656
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 1,
+    "id": "46:462",
+    "parentId": "46:455",
+    "type": "GROUP",
+    "name": "Group 19",
+    "bounds": {
+      "x": 30455.40234375,
+      "y": 10590.2236328125,
+      "width": 875.314453125,
+      "height": 34.932613372802734
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 1,
+    "id": "46:465",
+    "parentId": "46:455",
+    "type": "GROUP",
+    "name": "Group 20",
+    "bounds": {
+      "x": 30456.431640625,
+      "y": 9615.021488189697,
+      "width": 871.314453125,
+      "height": 34.932613372802734
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 1,
+    "id": "46:468",
+    "parentId": "46:455",
+    "type": "TEXT",
+    "name": "Сколько мы спасаем одной площадке",
+    "bounds": {
+      "x": 30491.849609375,
+      "y": 9632.48828125,
+      "width": 785.0134887695312,
+      "height": 243
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 1,
+    "id": "46:469",
+    "parentId": "46:455",
+    "type": "RECTANGLE",
+    "name": "Rectangle 6",
+    "bounds": {
+      "x": 30493.3046875,
+      "y": 9724.185546875,
+      "width": 336.2264099121094,
+      "height": 84.9056625366211
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 1,
+    "id": "46:470",
+    "parentId": "46:455",
+    "type": "FRAME",
+    "name": "Frame 1000008948",
+    "bounds": {
+      "x": 30478.234375,
+      "y": 9915,
+      "width": 827.7089233398438,
+      "height": 227.5471649169922
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "46:471",
+    "parentId": "46:470",
+    "type": "RECTANGLE",
+    "name": "image 73",
+    "bounds": {
+      "x": 30409.33984375,
+      "y": 9901.900390625,
+      "width": 947.9381713867188,
+      "height": 534.6630859375
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "46:472",
+    "parentId": "46:470",
+    "type": "TEXT",
+    "name": "~153 000 usdt",
+    "bounds": {
+      "x": 30529.6640625,
+      "y": 9942.169921875,
+      "width": 632,
+      "height": 118
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "46:473",
+    "parentId": "46:470",
+    "type": "TEXT",
+    "name": "фейковых выплат, которые иначе оплатила бы площадка из своего кармана",
+    "bounds": {
+      "x": 30535.970703125,
+      "y": 10065.404296875,
+      "width": 377.46630859375,
+      "height": 38
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 1,
+    "id": "46:474",
+    "parentId": "46:455",
+    "type": "GROUP",
+    "name": "Group 25",
+    "bounds": {
+      "x": 30514,
+      "y": 10296,
+      "width": 761.14013671875,
+      "height": 120.271484375
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "46:475",
+    "parentId": "46:474",
+    "type": "TEXT",
+    "name": "77",
+    "bounds": {
+      "x": 31193.63671875,
+      "y": 10324.1396484375,
+      "width": 67,
+      "height": 53
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "46:476",
+    "parentId": "46:474",
+    "type": "TEXT",
+    "name": "22",
+    "bounds": {
+      "x": 30950.310546875,
+      "y": 10322.19921875,
+      "width": 70,
+      "height": 53
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "46:477",
+    "parentId": "46:474",
+    "type": "GROUP",
+    "name": "Group 22",
+    "bounds": {
+      "x": 30514,
+      "y": 10296,
+      "width": 761.14013671875,
+      "height": 117.4118881225586
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 3,
+    "id": "46:478",
+    "parentId": "46:477",
+    "type": "GROUP",
+    "name": "Group 20",
+    "bounds": {
+      "x": 30514,
+      "y": 10296,
+      "width": 761.14013671875,
+      "height": 14.070080757141113
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 4,
+    "id": "46:479",
+    "parentId": "46:478",
+    "type": "FRAME",
+    "name": "Frame 20",
+    "bounds": {
+      "x": 30514,
+      "y": 10296,
+      "width": 761.14013671875,
+      "height": 14.070080757141113
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 5,
+    "id": "46:480",
+    "parentId": "46:479",
+    "type": "RECTANGLE",
+    "name": "Rectangle 23",
+    "bounds": {
+      "x": 30514,
+      "y": 10296,
+      "width": 14.070080757141113,
+      "height": 14.070080757141113
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 5,
+    "id": "46:481",
+    "parentId": "46:479",
+    "type": "LINE",
+    "name": "Line 15",
+    "bounds": {
+      "x": 30528.0703125,
+      "y": 10303.03515625,
+      "width": 733,
+      "height": 0
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 5,
+    "id": "46:482",
+    "parentId": "46:479",
+    "type": "RECTANGLE",
+    "name": "Rectangle 24",
+    "bounds": {
+      "x": 31261.0703125,
+      "y": 10296,
+      "width": 14.070080757141113,
+      "height": 14.070080757141113
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 4,
+    "id": "46:483",
+    "parentId": "46:478",
+    "type": "FRAME",
+    "name": "Frame 21",
+    "bounds": {
+      "x": 30753.572265625,
+      "y": 10296,
+      "width": 293.0458068847656,
+      "height": 14.070080757141113
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 5,
+    "id": "46:484",
+    "parentId": "46:483",
+    "type": "RECTANGLE",
+    "name": "Rectangle 23",
+    "bounds": {
+      "x": 30753.572265625,
+      "y": 10296,
+      "width": 14.070080757141113,
+      "height": 14.070080757141113
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 5,
+    "id": "46:485",
+    "parentId": "46:483",
+    "type": "RECTANGLE",
+    "name": "Rectangle 24",
+    "bounds": {
+      "x": 31032.548828125,
+      "y": 10296,
+      "width": 14.070080757141113,
+      "height": 14.070080757141113
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 3,
+    "id": "46:486",
+    "parentId": "46:477",
+    "type": "GROUP",
+    "name": "Group 21",
+    "bounds": {
+      "x": 30761.607421875,
+      "y": 10324.1396484375,
+      "width": 278.974609375,
+      "height": 89.2722396850586
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 4,
+    "id": "46:487",
+    "parentId": "46:486",
+    "type": "LINE",
+    "name": "Line 16",
+    "bounds": {
+      "x": 30761.607417972788,
+      "y": 10324.1396484375,
+      "width": 0.000003902212483808398,
+      "height": 89.2722396850586
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 4,
+    "id": "46:488",
+    "parentId": "46:486",
+    "type": "LINE",
+    "name": "Line 17",
+    "bounds": {
+      "x": 31040.582027347788,
+      "y": 10324.1396484375,
+      "width": 0.000003902212483808398,
+      "height": 89.2722396850586
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "46:489",
+    "parentId": "46:474",
+    "type": "GROUP",
+    "name": "Group 23",
+    "bounds": {
+      "x": 30626.2421875,
+      "y": 10324.1396484375,
+      "width": 631.7578125,
+      "height": 92.1318359375
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 3,
+    "id": "46:490",
+    "parentId": "46:489",
+    "type": "TEXT",
+    "name": "41",
+    "bounds": {
+      "x": 30667.65625,
+      "y": 10324.1396484375,
+      "width": 64,
+      "height": 53
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 3,
+    "id": "46:491",
+    "parentId": "46:489",
+    "type": "TEXT",
+    "name": "avg, мс",
+    "bounds": {
+      "x": 30626.2421875,
+      "y": 10385.271484375,
+      "width": 105,
+      "height": 31
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 3,
+    "id": "46:492",
+    "parentId": "46:489",
+    "type": "TEXT",
+    "name": "р50, мс",
+    "bounds": {
+      "x": 30912.01171875,
+      "y": 10385.271484375,
+      "width": 109,
+      "height": 31
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 3,
+    "id": "46:493",
+    "parentId": "46:489",
+    "type": "TEXT",
+    "name": "р95, мс",
+    "bounds": {
+      "x": 31149,
+      "y": 10385.271484375,
+      "width": 109,
+      "height": 31
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 1,
+    "id": "46:494",
+    "parentId": "46:455",
+    "type": "GROUP",
+    "name": "Group 46",
+    "bounds": {
+      "x": 30426.3203125,
+      "y": 10440,
+      "width": 931.536376953125,
+      "height": 150.42547607421875
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "46:500",
+    "parentId": "46:494",
+    "type": "LINE",
+    "name": "Line 22",
+    "bounds": {
+      "x": 30426.3203125,
+      "y": 10515,
+      "width": 931.536376953125,
+      "height": 0
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "46:501",
+    "parentId": "46:494",
+    "type": "GROUP",
+    "name": "Group 39",
+    "bounds": {
+      "x": 30504.43359375,
+      "y": 10448,
+      "width": 784.5283203125,
+      "height": 134.17726135253906
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 3,
+    "id": "46:502",
+    "parentId": "46:501",
+    "type": "RECTANGLE",
+    "name": "Rectangle 32",
+    "bounds": {
+      "x": 30504.43359375,
+      "y": 10448,
+      "width": 784.5283203125,
+      "height": 134.17726135253906
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "46:495",
+    "parentId": "46:494",
+    "type": "GROUP",
+    "name": "Group 45",
+    "bounds": {
+      "x": 30496.701171875,
+      "y": 10440,
+      "width": 798.5983276367188,
+      "height": 150.42547607421875
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 3,
+    "id": "46:496",
+    "parentId": "46:495",
+    "type": "RECTANGLE",
+    "name": "Rectangle 15",
+    "bounds": {
+      "x": 30496.701171875,
+      "y": 10440,
+      "width": 16.98113250732422,
+      "height": 16.98113250732422
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 3,
+    "id": "46:497",
+    "parentId": "46:495",
+    "type": "RECTANGLE",
+    "name": "Rectangle 16",
+    "bounds": {
+      "x": 30496.701171875,
+      "y": 10573.4443359375,
+      "width": 16.98113250732422,
+      "height": 16.98113250732422
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 3,
+    "id": "46:498",
+    "parentId": "46:495",
+    "type": "RECTANGLE",
+    "name": "Rectangle 17",
+    "bounds": {
+      "x": 31278.318359375,
+      "y": 10573.4443359375,
+      "width": 16.98113250732422,
+      "height": 16.98113250732422
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 3,
+    "id": "46:499",
+    "parentId": "46:495",
+    "type": "RECTANGLE",
+    "name": "Rectangle 19",
+    "bounds": {
+      "x": 31278.318359375,
+      "y": 10440,
+      "width": 16.98113250732422,
+      "height": 16.98113250732422
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "46:503",
+    "parentId": "46:494",
+    "type": "TEXT",
+    "name": "«По tier-1 банкам такого решения не находил ни у кого. Фрод снизился на 95%»",
+    "bounds": {
+      "x": 30529,
+      "y": 10467,
+      "width": 701,
+      "height": 68
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "46:504",
+    "parentId": "46:494",
+    "type": "TEXT",
+    "name": "- ФАУНДЕР ПОДКЛЮЧЁННОЙ ПЛОЩАДКИ",
+    "bounds": {
+      "x": 30923.140625,
+      "y": 10549.6708984375,
+      "width": 355,
+      "height": 17
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "46:505",
+    "parentId": "46:494",
+    "type": "TEXT",
+    "name": "“",
+    "bounds": {
+      "x": 31229.551956176758,
+      "y": 10460.999557133942,
+      "width": 47.76640782152754,
+      "height": 52.88423192855771
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 1,
+    "id": "62:14",
+    "parentId": "46:455",
+    "type": "FRAME",
+    "name": "Frame 47",
+    "bounds": {
+      "x": 30474,
+      "y": 10169,
+      "width": 837,
+      "height": 100
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "62:45",
+    "parentId": "62:14",
+    "type": "FRAME",
+    "name": "Frame 47",
+    "bounds": {
+      "x": 30484,
+      "y": 10183,
+      "width": 150.52276611328125,
+      "height": 72
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 3,
+    "id": "62:13",
+    "parentId": "62:45",
+    "type": "FRAME",
+    "name": "Frame 47",
+    "bounds": {
+      "x": 30484,
+      "y": 10183,
+      "width": 130,
+      "height": 72
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 4,
+    "id": "62:11",
+    "parentId": "62:13",
+    "type": "TEXT",
+    "name": "67 350",
+    "bounds": {
+      "x": 30497,
+      "y": 10198,
+      "width": 73,
+      "height": 22
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 4,
+    "id": "62:12",
+    "parentId": "62:13",
+    "type": "TEXT",
+    "name": "проверок / мес",
+    "bounds": {
+      "x": 30497,
+      "y": 10225,
+      "width": 98,
+      "height": 15
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "62:61",
+    "parentId": "62:14",
+    "type": "FRAME",
+    "name": "Frame 48",
+    "bounds": {
+      "x": 30634.5234375,
+      "y": 10183,
+      "width": 137.52276611328125,
+      "height": 72
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 3,
+    "id": "62:62",
+    "parentId": "62:61",
+    "type": "FRAME",
+    "name": "Frame 47",
+    "bounds": {
+      "x": 30642.5234375,
+      "y": 10183,
+      "width": 109,
+      "height": 72
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 4,
+    "id": "62:63",
+    "parentId": "62:62",
+    "type": "TEXT",
+    "name": "4,2 %",
+    "bounds": {
+      "x": 30655.5234375,
+      "y": 10198,
+      "width": 57,
+      "height": 22
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 4,
+    "id": "62:64",
+    "parentId": "62:62",
+    "type": "TEXT",
+    "name": "доля fake",
+    "bounds": {
+      "x": 30655.5234375,
+      "y": 10225,
+      "width": 61,
+      "height": 15
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "63:66",
+    "parentId": "62:14",
+    "type": "FRAME",
+    "name": "Frame 49",
+    "bounds": {
+      "x": 30772.044921875,
+      "y": 10183,
+      "width": 154.52276611328125,
+      "height": 72
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 3,
+    "id": "63:67",
+    "parentId": "63:66",
+    "type": "FRAME",
+    "name": "Frame 47",
+    "bounds": {
+      "x": 30780.044921875,
+      "y": 10183,
+      "width": 126,
+      "height": 72
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 4,
+    "id": "63:68",
+    "parentId": "63:67",
+    "type": "TEXT",
+    "name": "~2 828",
+    "bounds": {
+      "x": 30793.044921875,
+      "y": 10198,
+      "width": 73,
+      "height": 22
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 4,
+    "id": "63:69",
+    "parentId": "63:67",
+    "type": "TEXT",
+    "name": "подделок",
+    "bounds": {
+      "x": 30793.044921875,
+      "y": 10225,
+      "width": 63,
+      "height": 15
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "63:71",
+    "parentId": "62:14",
+    "type": "FRAME",
+    "name": "Frame 50",
+    "bounds": {
+      "x": 30926.568359375,
+      "y": 10183,
+      "width": 196.52276611328125,
+      "height": 72
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 3,
+    "id": "63:72",
+    "parentId": "63:71",
+    "type": "FRAME",
+    "name": "Frame 47",
+    "bounds": {
+      "x": 30934.568359375,
+      "y": 10183,
+      "width": 168,
+      "height": 72
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 4,
+    "id": "63:73",
+    "parentId": "63:72",
+    "type": "TEXT",
+    "name": "x ~4 000 ₽",
+    "bounds": {
+      "x": 30947.568359375,
+      "y": 10198,
+      "width": 113,
+      "height": 22
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 4,
+    "id": "63:74",
+    "parentId": "63:72",
+    "type": "TEXT",
+    "name": "средний чек",
+    "bounds": {
+      "x": 30947.568359375,
+      "y": 10225,
+      "width": 80,
+      "height": 15
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 2,
+    "id": "63:76",
+    "parentId": "62:14",
+    "type": "FRAME",
+    "name": "Frame 51",
+    "bounds": {
+      "x": 31123.091796875,
+      "y": 10182,
+      "width": 176,
+      "height": 74
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 3,
+    "id": "63:77",
+    "parentId": "63:76",
+    "type": "FRAME",
+    "name": "Frame 47",
+    "bounds": {
+      "x": 31131.091796875,
+      "y": 10182,
+      "width": 168,
+      "height": 74
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 4,
+    "id": "63:78",
+    "parentId": "63:77",
+    "type": "TEXT",
+    "name": "~11.3 млн ₽",
+    "bounds": {
+      "x": 31145.091796875,
+      "y": 10198,
+      "width": 119,
+      "height": 22
+    },
+    "visible": true
+  },
+  {
+    "slide": 6,
+    "depth": 4,
+    "id": "63:79",
+    "parentId": "63:77",
+    "type": "TEXT",
+    "name": "спасено / мес",
+    "bounds": {
+      "x": 31145.091796875,
+      "y": 10225,
+      "width": 89,
+      "height": 15
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 0,
+    "id": "46:506",
+    "parentId": null,
+    "type": "FRAME",
+    "name": "07",
+    "bounds": {
+      "x": 31440.85546875,
+      "y": 9583,
+      "width": 930,
+      "height": 1080
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 1,
+    "id": "46:507",
+    "parentId": "46:506",
+    "type": "GROUP",
+    "name": "Group 20",
+    "bounds": {
+      "x": 31469.966796875,
+      "y": 9615.021488189697,
+      "width": 871.314453125,
+      "height": 34.932613372802734
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 1,
+    "id": "46:510",
+    "parentId": "46:506",
+    "type": "GROUP",
+    "name": "Group 30",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 9815.8837890625,
+      "width": 833.0458374023438,
+      "height": 108.67999267578125
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:511",
+    "parentId": "46:510",
+    "type": "RECTANGLE",
+    "name": "Rectangle 6",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 9871.6796875,
+      "width": 290.1776123046875,
+      "height": 52.884098052978516
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:512",
+    "parentId": "46:510",
+    "type": "TEXT",
+    "name": "22 банка. РФ и Казахстан. Расширяем по запросу",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 9815.8837890625,
+      "width": 833.0458374023438,
+      "height": 106
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 1,
+    "id": "46:513",
+    "parentId": "46:506",
+    "type": "GROUP",
+    "name": "Group 4",
+    "bounds": {
+      "x": 31510.12109375,
+      "y": 9669.361328125,
+      "width": 392.82904052734375,
+      "height": 54.91954040527344
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:515",
+    "parentId": "46:513",
+    "type": "GROUP",
+    "name": "Group",
+    "bounds": {
+      "x": 31583.873046875,
+      "y": 9678.513671875,
+      "width": 319.07708740234375,
+      "height": 37.072303771972656
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:529",
+    "parentId": "46:513",
+    "type": "GROUP",
+    "name": "Group",
+    "bounds": {
+      "x": 31476.099609375,
+      "y": 9635.4169921875,
+      "width": 460.73736572265625,
+      "height": 122.80708312988281
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 1,
+    "id": "46:555",
+    "parentId": "46:506",
+    "type": "GROUP",
+    "name": "Group 37",
+    "bounds": {
+      "x": 31811.044882200775,
+      "y": 9462.6767578125,
+      "width": 1023.3843780531315,
+      "height": 907.6404255929283
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:556",
+    "parentId": "46:555",
+    "type": "RECTANGLE",
+    "name": "Rectangle 15",
+    "bounds": {
+      "x": 31811.04491868406,
+      "y": 9578.9970703125,
+      "width": 73.00020155519815,
+      "height": 73.00020155519815
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:557",
+    "parentId": "46:555",
+    "type": "RECTANGLE",
+    "name": "Rectangle 16",
+    "bounds": {
+      "x": 32771.20702939723,
+      "y": 9929.7783203125,
+      "width": 42.38648027684394,
+      "height": 42.38648027684394
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:558",
+    "parentId": "46:555",
+    "type": "RECTANGLE",
+    "name": "Rectangle 19",
+    "bounds": {
+      "x": 31980.85546749383,
+      "y": 10207.783203125,
+      "width": 28.73781139105631,
+      "height": 28.73781139105813
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:559",
+    "parentId": "46:555",
+    "type": "RECTANGLE",
+    "name": "Rectangle 20",
+    "bounds": {
+      "x": 32805.69140499383,
+      "y": 10298.427734375,
+      "width": 28.73781139105995,
+      "height": 28.73781139105813
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:560",
+    "parentId": "46:555",
+    "type": "RECTANGLE",
+    "name": "Rectangle 21",
+    "bounds": {
+      "x": 31859.56249874383,
+      "y": 10097.1630859375,
+      "width": 28.73781139105631,
+      "height": 28.73781139105813
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:561",
+    "parentId": "46:555",
+    "type": "RECTANGLE",
+    "name": "Rectangle 17",
+    "bounds": {
+      "x": 32318.13085752223,
+      "y": 9462.6767578125,
+      "width": 42.38648027684394,
+      "height": 42.38648027684394
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:562",
+    "parentId": "46:555",
+    "type": "RECTANGLE",
+    "name": "Rectangle 18",
+    "bounds": {
+      "x": 32258.847653107612,
+      "y": 10298.427734375,
+      "width": 71.88943032744646,
+      "height": 71.88943032744464
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:563",
+    "parentId": "46:555",
+    "type": "LINE",
+    "name": "Line 9",
+    "bounds": {
+      "x": 32357.32421875,
+      "y": 9499.1884765625,
+      "width": 424.070553833124,
+      "height": 434.4715648138372
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:564",
+    "parentId": "46:555",
+    "type": "LINE",
+    "name": "Line 10",
+    "bounds": {
+      "x": 32325.433824398304,
+      "y": 9951.1259765625,
+      "width": 449.65211310169616,
+      "height": 361.670672288652
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:565",
+    "parentId": "46:555",
+    "type": "LINE",
+    "name": "Line 11",
+    "bounds": {
+      "x": 32009.48109087693,
+      "y": 10236.408810065186,
+      "width": 253.57750287307135,
+      "height": 68.99841649731388
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:566",
+    "parentId": "46:555",
+    "type": "LINE",
+    "name": "Line 13",
+    "bounds": {
+      "x": 32792.55263708378,
+      "y": 9971.987402442706,
+      "width": 22.04892541621666,
+      "height": 329.0418944322937
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:567",
+    "parentId": "46:555",
+    "type": "LINE",
+    "name": "Line 14",
+    "bounds": {
+      "x": 31883.8203125,
+      "y": 9505.06203382682,
+      "width": 441.6146519957838,
+      "height": 592.10105211068
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:568",
+    "parentId": "46:555",
+    "type": "LINE",
+    "name": "Line 12",
+    "bounds": {
+      "x": 31879.455078125,
+      "y": 9646.9208984375,
+      "width": 891.7519832648977,
+      "height": 298.86795173868086
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 1,
+    "id": "46:569",
+    "parentId": "46:506",
+    "type": "FRAME",
+    "name": "Frame 46",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 9960,
+      "width": 718.9794921875,
+      "height": 401.09063720703125
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:570",
+    "parentId": "46:569",
+    "type": "FRAME",
+    "name": "Frame 46",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 9960,
+      "width": 718.9794921875,
+      "height": 303.5018615722656
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 3,
+    "id": "46:571",
+    "parentId": "46:570",
+    "type": "TEXT",
+    "name": "По России",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 9960,
+      "width": 718.9794921875,
+      "height": 17
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 3,
+    "id": "46:572",
+    "parentId": "46:570",
+    "type": "FRAME",
+    "name": "Frame 46",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 9988.64453125,
+      "width": 718.9794921875,
+      "height": 274.857666015625
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 4,
+    "id": "46:573",
+    "parentId": "46:572",
+    "type": "FRAME",
+    "name": "Frame 46",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 9988.64453125,
+      "width": 718.9794921875,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "46:574",
+    "parentId": "46:573",
+    "type": "FRAME",
+    "name": "Frame 2087325653",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 9988.64453125,
+      "width": 169.21841430664062,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:575",
+    "parentId": "46:574",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 31517.732421875,
+      "y": 9996.140625,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:576",
+    "parentId": "46:574",
+    "type": "TEXT",
+    "name": "Сбербанк",
+    "bounds": {
+      "x": 31558.958984375,
+      "y": 9999.47265625,
+      "width": 113,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "46:577",
+    "parentId": "46:573",
+    "type": "FRAME",
+    "name": "Frame 2087325654",
+    "bounds": {
+      "x": 31688.900390625,
+      "y": 9988.64453125,
+      "width": 136.21841430664062,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:578",
+    "parentId": "46:577",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 31696.396484375,
+      "y": 9996.140625,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:579",
+    "parentId": "46:577",
+    "type": "TEXT",
+    "name": "Т-Банк",
+    "bounds": {
+      "x": 31737.623046875,
+      "y": 9999.47265625,
+      "width": 80,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "46:580",
+    "parentId": "46:573",
+    "type": "FRAME",
+    "name": "Frame 2087325655",
+    "bounds": {
+      "x": 31834.564453125,
+      "y": 9988.64453125,
+      "width": 103.21841430664062,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:581",
+    "parentId": "46:580",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 31842.060546875,
+      "y": 9996.140625,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:582",
+    "parentId": "46:580",
+    "type": "TEXT",
+    "name": "ВТБ",
+    "bounds": {
+      "x": 31883.287109375,
+      "y": 9999.47265625,
+      "width": 47,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "46:583",
+    "parentId": "46:573",
+    "type": "FRAME",
+    "name": "Frame 2087325656",
+    "bounds": {
+      "x": 31947.228515625,
+      "y": 9988.64453125,
+      "width": 195.21841430664062,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:584",
+    "parentId": "46:583",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 31954.724609375,
+      "y": 9996.140625,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:585",
+    "parentId": "46:583",
+    "type": "TEXT",
+    "name": "Альфа-Банк",
+    "bounds": {
+      "x": 31995.951171875,
+      "y": 9999.47265625,
+      "width": 139,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 4,
+    "id": "46:586",
+    "parentId": "46:572",
+    "type": "FRAME",
+    "name": "Frame 47",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 10045.9453125,
+      "width": 718.9794921875,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "46:587",
+    "parentId": "46:586",
+    "type": "FRAME",
+    "name": "Frame 2087325653",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 10045.9453125,
+      "width": 206.21841430664062,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:588",
+    "parentId": "46:587",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 31517.732421875,
+      "y": 10053.44140625,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:589",
+    "parentId": "46:587",
+    "type": "TEXT",
+    "name": "Газпромбанк",
+    "bounds": {
+      "x": 31558.958984375,
+      "y": 10056.7734375,
+      "width": 150,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "46:590",
+    "parentId": "46:586",
+    "type": "FRAME",
+    "name": "Frame 2087325655",
+    "bounds": {
+      "x": 31725.900390625,
+      "y": 10045.9453125,
+      "width": 167.21841430664062,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:591",
+    "parentId": "46:590",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 31733.396484375,
+      "y": 10053.44140625,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:592",
+    "parentId": "46:590",
+    "type": "TEXT",
+    "name": "ОТП Банк",
+    "bounds": {
+      "x": 31774.623046875,
+      "y": 10056.7734375,
+      "width": 111,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "46:593",
+    "parentId": "46:586",
+    "type": "FRAME",
+    "name": "Frame 2087325656",
+    "bounds": {
+      "x": 31902.564453125,
+      "y": 10045.9453125,
+      "width": 150.21841430664062,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:594",
+    "parentId": "46:593",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 31910.060546875,
+      "y": 10053.44140625,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:595",
+    "parentId": "46:593",
+    "type": "TEXT",
+    "name": "WBБанк",
+    "bounds": {
+      "x": 31951.287109375,
+      "y": 10056.7734375,
+      "width": 94,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "46:596",
+    "parentId": "46:586",
+    "type": "FRAME",
+    "name": "Frame 2087325656",
+    "bounds": {
+      "x": 32062.228515625,
+      "y": 10045.9453125,
+      "width": 170.21841430664062,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:597",
+    "parentId": "46:596",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 32069.724609375,
+      "y": 10053.44140625,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:598",
+    "parentId": "46:596",
+    "type": "TEXT",
+    "name": "МТС Банк",
+    "bounds": {
+      "x": 32110.951171875,
+      "y": 10056.7734375,
+      "width": 114,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 4,
+    "id": "46:599",
+    "parentId": "46:572",
+    "type": "FRAME",
+    "name": "Frame 48",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 10103.2451171875,
+      "width": 718.9794921875,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "46:600",
+    "parentId": "46:599",
+    "type": "FRAME",
+    "name": "Frame 2087325653",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 10103.2451171875,
+      "width": 176.21841430664062,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:601",
+    "parentId": "46:600",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 31517.732421875,
+      "y": 10110.7412109375,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:602",
+    "parentId": "46:600",
+    "type": "TEXT",
+    "name": "Ozon Bank",
+    "bounds": {
+      "x": 31558.958984375,
+      "y": 10114.0732421875,
+      "width": 120,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "46:603",
+    "parentId": "46:599",
+    "type": "FRAME",
+    "name": "Frame 2087325654",
+    "bounds": {
+      "x": 31695.900390625,
+      "y": 10103.2451171875,
+      "width": 200.21841430664062,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:604",
+    "parentId": "46:603",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 31703.396484375,
+      "y": 10110.7412109375,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:605",
+    "parentId": "46:603",
+    "type": "TEXT",
+    "name": "Яндекс Банк",
+    "bounds": {
+      "x": 31744.623046875,
+      "y": 10114.0732421875,
+      "width": 144,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "46:606",
+    "parentId": "46:599",
+    "type": "FRAME",
+    "name": "Frame 2087325655",
+    "bounds": {
+      "x": 31905.564453125,
+      "y": 10103.2451171875,
+      "width": 198.21841430664062,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:607",
+    "parentId": "46:606",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 31913.060546875,
+      "y": 10110.7412109375,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:608",
+    "parentId": "46:606",
+    "type": "TEXT",
+    "name": "Совкомбанк",
+    "bounds": {
+      "x": 31954.287109375,
+      "y": 10114.0732421875,
+      "width": 142,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "46:609",
+    "parentId": "46:599",
+    "type": "FRAME",
+    "name": "Frame 2087325656",
+    "bounds": {
+      "x": 32113.228515625,
+      "y": 10103.2451171875,
+      "width": 156.21841430664062,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:610",
+    "parentId": "46:609",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 32120.724609375,
+      "y": 10110.7412109375,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:611",
+    "parentId": "46:609",
+    "type": "TEXT",
+    "name": "ЮMoney",
+    "bounds": {
+      "x": 32161.951171875,
+      "y": 10114.0732421875,
+      "width": 100,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 4,
+    "id": "46:612",
+    "parentId": "46:572",
+    "type": "FRAME",
+    "name": "Frame 49",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 10160.5458984375,
+      "width": 718.9794921875,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "46:613",
+    "parentId": "46:612",
+    "type": "FRAME",
+    "name": "Frame 2087325653",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 10160.5458984375,
+      "width": 182.21841430664062,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:614",
+    "parentId": "46:613",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 31517.732421875,
+      "y": 10168.0419921875,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:615",
+    "parentId": "46:613",
+    "type": "TEXT",
+    "name": "Фора-Банк",
+    "bounds": {
+      "x": 31558.958984375,
+      "y": 10171.3740234375,
+      "width": 126,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "46:616",
+    "parentId": "46:612",
+    "type": "FRAME",
+    "name": "Frame 2087325654",
+    "bounds": {
+      "x": 31701.900390625,
+      "y": 10160.5458984375,
+      "width": 258.2184143066406,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:617",
+    "parentId": "46:616",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 31709.396484375,
+      "y": 10168.0419921875,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:618",
+    "parentId": "46:616",
+    "type": "TEXT",
+    "name": "Райффайзен Банк",
+    "bounds": {
+      "x": 31750.623046875,
+      "y": 10171.3740234375,
+      "width": 202,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "46:619",
+    "parentId": "46:612",
+    "type": "FRAME",
+    "name": "Frame 2087325655",
+    "bounds": {
+      "x": 31969.564453125,
+      "y": 10160.5458984375,
+      "width": 242.21841430664062,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:620",
+    "parentId": "46:619",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 31977.060546875,
+      "y": 10168.0419921875,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:621",
+    "parentId": "46:619",
+    "type": "TEXT",
+    "name": "Россельхозбанк",
+    "bounds": {
+      "x": 32018.287109375,
+      "y": 10171.3740234375,
+      "width": 186,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "46:622",
+    "parentId": "46:612",
+    "type": "FRAME",
+    "name": "Frame 2087325654",
+    "bounds": {
+      "x": 32221.228515625,
+      "y": 10160.5458984375,
+      "width": 107.21841430664062,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:623",
+    "parentId": "46:622",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 32228.724609375,
+      "y": 10168.0419921875,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:624",
+    "parentId": "46:622",
+    "type": "TEXT",
+    "name": "ПСБ",
+    "bounds": {
+      "x": 32269.951171875,
+      "y": 10171.3740234375,
+      "width": 51,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 4,
+    "id": "51:2",
+    "parentId": "46:572",
+    "type": "FRAME",
+    "name": "Frame 50",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 10217.845703125,
+      "width": 718.9794921875,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "51:3",
+    "parentId": "51:2",
+    "type": "FRAME",
+    "name": "Frame 2087325653",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 10217.845703125,
+      "width": 208.21841430664062,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "51:4",
+    "parentId": "51:3",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 31517.732421875,
+      "y": 10225.341796875,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "51:5",
+    "parentId": "51:3",
+    "type": "TEXT",
+    "name": "Ак Барс Банк",
+    "bounds": {
+      "x": 31558.958984375,
+      "y": 10228.673828125,
+      "width": 152,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "51:6",
+    "parentId": "51:2",
+    "type": "FRAME",
+    "name": "Frame 2087325654",
+    "bounds": {
+      "x": 31727.900390625,
+      "y": 10217.845703125,
+      "width": 212.21841430664062,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "51:7",
+    "parentId": "51:6",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 31735.396484375,
+      "y": 10225.341796875,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "51:8",
+    "parentId": "51:6",
+    "type": "TEXT",
+    "name": "Банк Уралсиб",
+    "bounds": {
+      "x": 31776.623046875,
+      "y": 10228.673828125,
+      "width": 156,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "51:9",
+    "parentId": "51:2",
+    "type": "FRAME",
+    "name": "Frame 2087325655",
+    "bounds": {
+      "x": 31949.564453125,
+      "y": 10217.845703125,
+      "width": 317.2184143066406,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "51:10",
+    "parentId": "51:9",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 31957.060546875,
+      "y": 10225.341796875,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "51:11",
+    "parentId": "51:9",
+    "type": "TEXT",
+    "name": "Банк Санкт-Петербург",
+    "bounds": {
+      "x": 31998.287109375,
+      "y": 10228.673828125,
+      "width": 261,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:625",
+    "parentId": "46:569",
+    "type": "FRAME",
+    "name": "Frame 46",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 10286.7900390625,
+      "width": 718.9794921875,
+      "height": 74.30036926269531
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 3,
+    "id": "46:626",
+    "parentId": "46:625",
+    "type": "TEXT",
+    "name": "По Казахстану",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 10286.7900390625,
+      "width": 718.9794921875,
+      "height": 17
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 3,
+    "id": "46:627",
+    "parentId": "46:625",
+    "type": "FRAME",
+    "name": "Frame 47",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 10315.4345703125,
+      "width": 718.9794921875,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 4,
+    "id": "46:628",
+    "parentId": "46:627",
+    "type": "FRAME",
+    "name": "Frame 46",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 10315.4345703125,
+      "width": 718.9794921875,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "46:629",
+    "parentId": "46:628",
+    "type": "FRAME",
+    "name": "Frame 2087325653",
+    "bounds": {
+      "x": 31510.236328125,
+      "y": 10315.4345703125,
+      "width": 149.21841430664062,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:630",
+    "parentId": "46:629",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 31517.732421875,
+      "y": 10322.9306640625,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:631",
+    "parentId": "46:629",
+    "type": "TEXT",
+    "name": "Kaspi.kz",
+    "bounds": {
+      "x": 31558.958984375,
+      "y": 10326.2626953125,
+      "width": 93,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "46:632",
+    "parentId": "46:628",
+    "type": "FRAME",
+    "name": "Frame 2087325654",
+    "bounds": {
+      "x": 31668.900390625,
+      "y": 10315.4345703125,
+      "width": 179.21841430664062,
+      "height": 45.656166076660156
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:633",
+    "parentId": "46:632",
+    "type": "RECTANGLE",
+    "name": "Rectangle 34",
+    "bounds": {
+      "x": 31676.396484375,
+      "y": 10322.9306640625,
+      "width": 30.66459083557129,
+      "height": 30.66459083557129
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:634",
+    "parentId": "46:632",
+    "type": "TEXT",
+    "name": "Halyk Bank",
+    "bounds": {
+      "x": 31717.623046875,
+      "y": 10326.2626953125,
+      "width": 123,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 5,
+    "id": "46:635",
+    "parentId": "46:628",
+    "type": "FRAME",
+    "name": "Frame 2087325655",
+    "bounds": {
+      "x": 31857.564453125,
+      "y": 10316.826171875,
+      "width": 359.87298583984375,
+      "height": 42.87297821044922
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 6,
+    "id": "46:636",
+    "parentId": "46:635",
+    "type": "TEXT",
+    "name": "+ новый банк / гео по запросу",
+    "bounds": {
+      "x": 31867,
+      "y": 10326.2626953125,
+      "width": 341,
+      "height": 24
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 1,
+    "id": "46:637",
+    "parentId": "46:506",
+    "type": "FRAME",
+    "name": "Frame 1000008948",
+    "bounds": {
+      "x": 31509.236328125,
+      "y": 10414.58984375,
+      "width": 792.7763061523438,
+      "height": 188.733154296875
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:638",
+    "parentId": "46:637",
+    "type": "RECTANGLE",
+    "name": "image 73",
+    "bounds": {
+      "x": 31443.248046875,
+      "y": 10402.0224609375,
+      "width": 908.208740234375,
+      "height": 512.2545776367188
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:639",
+    "parentId": "46:637",
+    "type": "RECTANGLE",
+    "name": "Rectangle 6",
+    "bounds": {
+      "x": 31697.96875,
+      "y": 10434.9677734375,
+      "width": 147.9784393310547,
+      "height": 32.991912841796875
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:640",
+    "parentId": "46:637",
+    "type": "TEXT",
+    "name": "Пришлите 100 чеков - вернём вердикт по каждому",
+    "bounds": {
+      "x": 31536.890625,
+      "y": 10433.9970703125,
+      "width": 592.8840942382812,
+      "height": 62
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:641",
+    "parentId": "46:637",
+    "type": "TEXT",
+    "name": "Старт без интеграции и риска. Проверим даже чеки, которые не взяли другие чекеры. Цена — от месячного объёма, обсуждаем индивидуально",
+    "bounds": {
+      "x": 31536.890625,
+      "y": 10519.3876953125,
+      "width": 487.11590576171875,
+      "height": 57
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 2,
+    "id": "46:642",
+    "parentId": "46:637",
+    "type": "FRAME",
+    "name": "Frame 2087325654",
+    "bounds": {
+      "x": 32054,
+      "y": 10542.6767578125,
+      "width": 223.24066162109375,
+      "height": 42.030548095703125
+    },
+    "visible": true
+  },
+  {
+    "slide": 7,
+    "depth": 3,
+    "id": "46:644",
+    "parentId": "46:642",
+    "type": "TEXT",
+    "name": "@private_detect_io",
+    "bounds": {
+      "x": 32108.650390625,
+      "y": 10554.6923828125,
+      "width": 153,
+      "height": 18
+    },
+    "visible": true
+  }
+]

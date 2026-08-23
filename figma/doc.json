@@ -1,0 +1,264 @@
+{
+  "name": "VISUAL IDENTITY",
+  "id": "0:1",
+  "type": "PAGE",
+  "children": [
+    {
+      "id": "12:390",
+      "name": "Rectangle 1",
+      "type": "RECTANGLE"
+    },
+    {
+      "id": "13:885",
+      "name": "Rectangle 5",
+      "type": "RECTANGLE"
+    },
+    {
+      "id": "13:883",
+      "name": "Rectangle 3",
+      "type": "RECTANGLE"
+    },
+    {
+      "id": "13:884",
+      "name": "Rectangle 4",
+      "type": "RECTANGLE"
+    },
+    {
+      "id": "7:2",
+      "name": "01",
+      "type": "FRAME"
+    },
+    {
+      "id": "7:54",
+      "name": "02",
+      "type": "FRAME"
+    },
+    {
+      "id": "7:232",
+      "name": "03",
+      "type": "FRAME"
+    },
+    {
+      "id": "7:272",
+      "name": "04",
+      "type": "FRAME"
+    },
+    {
+      "id": "7:113",
+      "name": "05",
+      "type": "FRAME"
+    },
+    {
+      "id": "7:125",
+      "name": "06",
+      "type": "FRAME"
+    },
+    {
+      "id": "7:136",
+      "name": "07",
+      "type": "FRAME"
+    },
+    {
+      "id": "12:391",
+      "name": "08",
+      "type": "FRAME"
+    },
+    {
+      "id": "12:457",
+      "name": "09",
+      "type": "FRAME"
+    },
+    {
+      "id": "13:513",
+      "name": "10",
+      "type": "FRAME"
+    },
+    {
+      "id": "13:517",
+      "name": "11",
+      "type": "FRAME"
+    },
+    {
+      "id": "13:903",
+      "name": "12",
+      "type": "FRAME"
+    },
+    {
+      "id": "13:1539",
+      "name": "13",
+      "type": "FRAME"
+    },
+    {
+      "id": "13:1543",
+      "name": "14",
+      "type": "FRAME"
+    },
+    {
+      "id": "17:2824",
+      "name": "15",
+      "type": "FRAME"
+    },
+    {
+      "id": "13:1272",
+      "name": "Frame 2087325632",
+      "type": "FRAME"
+    },
+    {
+      "id": "14:1979",
+      "name": "Frame 2087325635",
+      "type": "FRAME"
+    },
+    {
+      "id": "15:2190",
+      "name": "Frame 2087325639",
+      "type": "FRAME"
+    },
+    {
+      "id": "73:4",
+      "name": "Frame 2087325643",
+      "type": "FRAME"
+    },
+    {
+      "id": "73:130",
+      "name": "Group 48",
+      "type": "GROUP"
+    },
+    {
+      "id": "15:2401",
+      "name": "Frame 2087325640",
+      "type": "FRAME"
+    },
+    {
+      "id": "13:1591",
+      "name": "Frame 2087325633",
+      "type": "FRAME"
+    },
+    {
+      "id": "15:2550",
+      "name": "Frame 2087325641",
+      "type": "FRAME"
+    },
+    {
+      "id": "73:147",
+      "name": "post",
+      "type": "FRAME"
+    },
+    {
+      "id": "16:2704",
+      "name": "Frame 2087325642",
+      "type": "FRAME"
+    },
+    {
+      "id": "50:5",
+      "name": "avas",
+      "type": "FRAME"
+    },
+    {
+      "id": "14:1783",
+      "name": "Frame 2087325634",
+      "type": "FRAME"
+    },
+    {
+      "id": "16:2790",
+      "name": "image 78",
+      "type": "RECTANGLE"
+    },
+    {
+      "id": "40:505",
+      "name": "01",
+      "type": "FRAME"
+    },
+    {
+      "id": "40:716",
+      "name": "02",
+      "type": "FRAME"
+    },
+    {
+      "id": "40:817",
+      "name": "03",
+      "type": "FRAME"
+    },
+    {
+      "id": "40:1046",
+      "name": "04",
+      "type": "FRAME"
+    },
+    {
+      "id": "40:582",
+      "name": "05",
+      "type": "FRAME"
+    },
+    {
+      "id": "40:767",
+      "name": "06",
+      "type": "FRAME"
+    },
+    {
+      "id": "40:904",
+      "name": "07",
+      "type": "FRAME"
+    },
+    {
+      "id": "46:60",
+      "name": "01",
+      "type": "FRAME"
+    },
+    {
+      "id": "46:136",
+      "name": "02",
+      "type": "FRAME"
+    },
+    {
+      "id": "46:176",
+      "name": "03",
+      "type": "FRAME"
+    },
+    {
+      "id": "46:263",
+      "name": "04",
+      "type": "FRAME"
+    },
+    {
+      "id": "46:321",
+      "name": "05",
+      "type": "FRAME"
+    },
+    {
+      "id": "46:455",
+      "name": "06",
+      "type": "FRAME"
+    },
+    {
+      "id": "46:506",
+      "name": "07",
+      "type": "FRAME"
+    },
+    {
+      "id": "50:2",
+      "name": "avas",
+      "type": "FRAME"
+    },
+    {
+      "id": "50:14",
+      "name": "avas",
+      "type": "FRAME"
+    },
+    {
+      "id": "72:2",
+      "name": "avas",
+      "type": "FRAME"
+    }
+  ],
+  "currentPage": {
+    "id": "0:1",
+    "name": "VISUAL IDENTITY",
+    "childCount": 49
+  },
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "VISUAL IDENTITY",
+      "childCount": 49
+    }
+  ]
+}

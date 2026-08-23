@@ -1,0 +1,867 @@
+{
+  "source": "Figma live document",
+  "frameSize": {
+    "width": 930,
+    "height": 1080
+  },
+  "colors": {
+    "#191418": {
+      "count": 69,
+      "sample": {
+        "source": "fills",
+        "nodeId": "46:60",
+        "nodeName": "01"
+      }
+    },
+    "#1B9CFC": {
+      "count": 65,
+      "sample": {
+        "source": "strokes",
+        "nodeId": "46:125",
+        "nodeName": "Rectangle 23"
+      }
+    },
+    "#E9EFF3": {
+      "count": 51,
+      "sample": {
+        "source": "fills",
+        "nodeId": "46:63",
+        "nodeName": "Rectangle 22"
+      }
+    },
+    "#FFFFFF": {
+      "count": 38,
+      "sample": {
+        "source": "strokes",
+        "nodeId": "46:240",
+        "nodeName": "Line 20"
+      }
+    },
+    "#FF80004D": {
+      "count": 26,
+      "sample": {
+        "source": "fills",
+        "nodeId": "46:142",
+        "nodeName": "В P2P-процессинге PDF-чеки подделывают за минуты. Отличить фальшивку на глаз невозможно, и убытки всегда ложатся на площадку. Дальше два сценария:"
+      }
+    },
+    "#000000": {
+      "count": 22,
+      "sample": {
+        "source": "fills",
+        "nodeId": "46:125",
+        "nodeName": "Rectangle 23"
+      }
+    },
+    "#9E9E9E": {
+      "count": 12,
+      "sample": {
+        "source": "strokes",
+        "nodeId": "46:334",
+        "nodeName": "Frame 2087325646"
+      }
+    },
+    "#AFD8F5": {
+      "count": 8,
+      "sample": {
+        "source": "fills",
+        "nodeId": "46:328",
+        "nodeName": "Frame 43"
+      }
+    },
+    "#A2C6E1": {
+      "count": 8,
+      "sample": {
+        "source": "strokes",
+        "nodeId": "46:421",
+        "nodeName": "Frame 43"
+      }
+    },
+    "#0294FC40": {
+      "count": 7,
+      "sample": {
+        "source": "fills",
+        "nodeId": "46:68",
+        "nodeName": "Rectangle 6"
+      }
+    },
+    "#D6D6D6": {
+      "count": 6,
+      "sample": {
+        "source": "fills",
+        "nodeId": "46:334",
+        "nodeName": "Frame 2087325646"
+      }
+    },
+    "#D1D1D1": {
+      "count": 5,
+      "sample": {
+        "source": "fills",
+        "nodeId": "46:147",
+        "nodeName": "Frame 26"
+      }
+    },
+    "#A5AAB9": {
+      "count": 4,
+      "sample": {
+        "source": "fills",
+        "nodeId": "46:425",
+        "nodeName": "PAY IN/ PAY PUT"
+      }
+    },
+    "#299FF1": {
+      "count": 3,
+      "sample": {
+        "source": "fills",
+        "nodeId": "46:114",
+        "nodeName": "Frame 21"
+      }
+    },
+    "#149AFC": {
+      "count": 3,
+      "sample": {
+        "source": "fills",
+        "nodeId": "46:151",
+        "nodeName": "Frame 2087325637"
+      }
+    },
+    "#EBF0F4": {
+      "count": 2,
+      "sample": {
+        "source": "fills",
+        "nodeId": "46:113",
+        "nodeName": "Защита парсинга от фейковых чеков и банковских выписок"
+      }
+    },
+    "#61A213": {
+      "count": 2,
+      "sample": {
+        "source": "fills",
+        "nodeId": "63:78",
+        "nodeName": "~11.3 млн ₽"
+      }
+    },
+    "#FF6666": {
+      "count": 1,
+      "sample": {
+        "source": "fills",
+        "nodeId": "46:241",
+        "nodeName": "Rectangle 31"
+      }
+    },
+    "#FF6060": {
+      "count": 1,
+      "sample": {
+        "source": "fills",
+        "nodeId": "46:244",
+        "nodeName": "Ellipse 1"
+      }
+    },
+    "#FFBD44": {
+      "count": 1,
+      "sample": {
+        "source": "fills",
+        "nodeId": "46:245",
+        "nodeName": "Ellipse 2"
+      }
+    },
+    "#34E0A1": {
+      "count": 1,
+      "sample": {
+        "source": "fills",
+        "nodeId": "46:246",
+        "nodeName": "Ellipse 3"
+      }
+    },
+    "#104770": {
+      "count": 1,
+      "sample": {
+        "source": "fills",
+        "nodeId": "46:504",
+        "nodeName": "- ФАУНДЕР ПОДКЛЮЧЁННОЙ ПЛОЩАДКИ"
+      }
+    },
+    "#114770": {
+      "count": 1,
+      "sample": {
+        "source": "fills",
+        "nodeId": "46:505",
+        "nodeName": "“"
+      }
+    },
+    "#F2F9FF": {
+      "count": 1,
+      "sample": {
+        "source": "fills",
+        "nodeId": "62:14",
+        "nodeName": "Frame 47"
+      }
+    },
+    "#FF6161": {
+      "count": 1,
+      "sample": {
+        "source": "fills",
+        "nodeId": "62:63",
+        "nodeName": "4,2 %"
+      }
+    },
+    "#EAF3E9": {
+      "count": 1,
+      "sample": {
+        "source": "fills",
+        "nodeId": "63:77",
+        "nodeName": "Frame 47"
+      }
+    },
+    "#7DCB1E": {
+      "count": 1,
+      "sample": {
+        "source": "strokes",
+        "nodeId": "63:77",
+        "nodeName": "Frame 47"
+      }
+    },
+    "#FFFFFF26": {
+      "count": 1,
+      "sample": {
+        "source": "fills",
+        "nodeId": "46:639",
+        "nodeName": "Rectangle 6"
+      }
+    }
+  },
+  "typography": {
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":500,\"fontSize\":24.258760452270508,\"lineHeightPx\":24.258760452270508,\"letterSpacing\":-0.7277628135681152,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 22,
+      "sample": {
+        "nodeId": "46:576",
+        "nodeName": "Сбербанк",
+        "text": "Сбербанк"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":400,\"fontSize\":38.51593780517578,\"lineHeightPx\":35.049503326416016,\"letterSpacing\":-2.696115646362305,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 10,
+      "sample": {
+        "nodeId": "46:329",
+        "nodeName": "A",
+        "text": "A"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":500,\"fontSize\":13.584905624389648,\"lineHeightPx\":14.94339656829834,\"letterSpacing\":-0.40754716873168945,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 8,
+      "sample": {
+        "nodeId": "46:252",
+        "nodeName": "Чек настоящий. Реквизиты, время и подпись банка сходятся",
+        "text": "Чек настоящий. Реквизиты, время и подпись банка сходятся"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":500,\"fontSize\":24.258760452270508,\"lineHeightPx\":26.68463706970215,\"letterSpacing\":-0.7277628135681152,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 6,
+      "sample": {
+        "nodeId": "46:142",
+        "nodeName": "В P2P-процессинге PDF-чеки подделывают за минуты. Отличить фальшивку на глаз невозможно, и убытки всегда ложатся на площадку. Дальше два сценария:",
+        "text": "В P2P-процессинге PDF-чеки подделывают за минуты. Отличить фальшивку на глаз невозможно, и убытки всегда ложатся на площадку. Дальше два сценария:"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":500,\"fontSize\":17.466306686401367,\"lineHeightPx\":19.21293830871582,\"letterSpacing\":-0.523989200592041,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 6,
+      "sample": {
+        "nodeId": "46:314",
+        "nodeName": "Продукт строит действующий руководитель внедрения в крупном банке РФ в связке с антифродом. Детекция — на реальных банковских процессах, а не на аутсорс-ТЗ.",
+        "text": "Продукт строит действующий руководитель внедрения в крупном банке РФ в связке с антифродом. Детекция — на реальных банковских процессах, а не на аутсорс-ТЗ."
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":500,\"fontSize\":89.27223205566406,\"lineHeightPx\":81.23773193359375,\"letterSpacing\":-6.249056243896485,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 5,
+      "sample": {
+        "nodeId": "46:69",
+        "nodeName": "Фейковый PDF-чек больше не пройдет",
+        "text": "Фейковый PDF-чек больше не пройдет"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":600,\"fontSize\":54.339622497558594,\"lineHeightPx\":49.449058532714844,\"letterSpacing\":-3.8037735748291017,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 5,
+      "sample": {
+        "nodeId": "46:148",
+        "nodeName": "ОТТОК",
+        "text": "ОТТОК"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":500,\"fontSize\":24,\"lineHeightPx\":21.84000015258789,\"letterSpacing\":-1.6800000000000002,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 5,
+      "sample": {
+        "nodeId": "62:11",
+        "nodeName": "67 350",
+        "text": "67 350"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":700,\"fontSize\":24.258760452270508,\"lineHeightPx\":22.075471878051758,\"letterSpacing\":-1.6981132316589358,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 4,
+      "sample": {
+        "nodeId": "46:310",
+        "nodeName": "Экспертиза изнутри банка",
+        "text": "Экспертиза изнутри банка"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":400,\"fontSize\":31.051212310791016,\"lineHeightPx\":28.256603240966797,\"letterSpacing\":-2.1735848617553715,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 4,
+      "sample": {
+        "nodeId": "46:424",
+        "nodeName": "Направление",
+        "text": "Направление"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":400,\"fontSize\":17.466306686401367,\"lineHeightPx\":17.466306686401367,\"letterSpacing\":-0.523989200592041,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 4,
+      "sample": {
+        "nodeId": "46:425",
+        "nodeName": "PAY IN/ PAY PUT",
+        "text": "PAY IN/ PAY PUT"
+      }
+    },
+    "{\"fontFamily\":\"Consolas\",\"fontWeight\":400,\"fontSize\":13.532135009765625,\"lineHeightPx\":13.532135009765625,\"letterSpacing\":-0.9472494506835938,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 3,
+      "sample": {
+        "nodeId": "46:251",
+        "nodeName": "“original”",
+        "text": "“original”"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":400,\"fontSize\":31.051212310791016,\"lineHeightPx\":31.051212310791016,\"letterSpacing\":-0.9315363693237304,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 3,
+      "sample": {
+        "nodeId": "46:491",
+        "nodeName": "avg, мс",
+        "text": "avg, мс"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":500,\"fontSize\":17.466306686401367,\"lineHeightPx\":17.466306686401367,\"letterSpacing\":-0.523989200592041,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 3,
+      "sample": {
+        "nodeId": "46:504",
+        "nodeName": "- ФАУНДЕР ПОДКЛЮЧЁННОЙ ПЛОЩАДКИ",
+        "text": "- ФАУНДЕР ПОДКЛЮЧЁННОЙ ПЛОЩАДКИ"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":500,\"fontSize\":31.051212310791016,\"lineHeightPx\":34.156333923339844,\"letterSpacing\":-0.9315363693237304,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 2,
+      "sample": {
+        "nodeId": "46:115",
+        "nodeName": "Private Detect за миллисекунды проверяет банковские чеки через 1 REST-запрос, защищая площадки от фрода и оттока трейдеров",
+        "text": "Private Detect за миллисекунды проверяет банковские чеки через 1 REST-запрос, защищая площадки от фрода и оттока трейдеров"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":400,\"fontSize\":17.466306686401367,\"lineHeightPx\":19.21293830871582,\"letterSpacing\":-0.523989200592041,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 2,
+      "sample": {
+        "nodeId": "46:118",
+        "nodeName": "Подключённый платёжный процессинг",
+        "text": "Подключённый платёжный\nпроцессинг"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":700,\"fontSize\":31.051212310791016,\"lineHeightPx\":28.256603240966797,\"letterSpacing\":-2.1735848617553715,\"textAlignHorizontal\":\"RIGHT\"}": {
+      "count": 2,
+      "sample": {
+        "nodeId": "46:121",
+        "nodeName": "p95<80 мс",
+        "text": "p95<80 мс"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":500,\"fontSize\":24,\"lineHeightPx\":26.400001525878906,\"letterSpacing\":-0.72,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 2,
+      "sample": {
+        "nodeId": "63:81",
+        "nodeName": "PAY-IN · БЕЛЫЙ ТРЕУГОЛЬНИК",
+        "text": "PAY-IN · БЕЛЫЙ ТРЕУГОЛЬНИК"
+      }
+    },
+    "{\"fontFamily\":\"Consolas\",\"fontWeight\":400,\"fontSize\":38.51593780517578,\"lineHeightPx\":35.049503326416016,\"letterSpacing\":-2.696115646362305,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 2,
+      "sample": {
+        "nodeId": "46:427",
+        "nodeName": "A",
+        "text": "A"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":700,\"fontSize\":58.22102355957031,\"lineHeightPx\":52.98113250732422,\"letterSpacing\":-4.0754716491699226,\"textAlignHorizontal\":\"RIGHT\"}": {
+      "count": 2,
+      "sample": {
+        "nodeId": "46:476",
+        "nodeName": "22",
+        "text": "22"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":500,\"fontSize\":31.051212310791016,\"lineHeightPx\":28.256603240966797,\"letterSpacing\":-2.1735848617553715,\"textAlignHorizontal\":\"RIGHT\"}": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:113",
+        "nodeName": "Защита парсинга от фейковых чеков и банковских выписок",
+        "text": "Защита парсинга\nот фейковых чеков\nи банковских выписок"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":700,\"fontSize\":31.051212310791016,\"lineHeightPx\":28.256603240966797,\"letterSpacing\":-2.1735848617553715,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:117",
+        "nodeName": "Уже в проде",
+        "text": "Уже в проде"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":500,\"fontSize\":17.466306686401367,\"lineHeightPx\":15.894339561462402,\"letterSpacing\":-1.222641468048096,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:120",
+        "nodeName": "31 профилей",
+        "text": "31 профилей"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":400,\"fontSize\":43.665767669677734,\"lineHeightPx\":39.7358512878418,\"letterSpacing\":-3.0566037368774417,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:135",
+        "nodeName": "Банков",
+        "text": "Банков"
+      }
+    },
+    "{\"fontFamily\":\"Consolas\",\"fontWeight\":400,\"fontSize\":24.93938636779785,\"lineHeightPx\":24.93938636779785,\"letterSpacing\":-1.7457570457458498,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:242",
+        "nodeName": "POST /api/v1/verify { \"verdict\": \"fake\", \"bank\": \"sberbank\", \"request_id\": \"…\" }",
+        "text": "POST /api/v1/verify\r\n{\r\n    \"verdict\": \"fake\",\r\n    \"bank\": \"sberbank\",\r\n    \"request_id\": \"…\"\r\n}"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":500,\"fontSize\":80.5390853881836,\"lineHeightPx\":73.29057312011719,\"letterSpacing\":-5.637735977172852,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:373",
+        "nodeName": "ID, который невозможно подделать",
+        "text": "ID, который невозможно подделать"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":700,\"fontSize\":117.89756774902344,\"lineHeightPx\":117.89756774902344,\"letterSpacing\":-9.431805419921876,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:472",
+        "nodeName": "~153 000 usdt",
+        "text": "~153 000 usdt"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":700,\"fontSize\":58.22102355957031,\"lineHeightPx\":52.98113250732422,\"letterSpacing\":-4.0754716491699226,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:475",
+        "nodeName": "77",
+        "text": "77"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":500,\"fontSize\":119.4159927368164,\"lineHeightPx\":108.6685562133789,\"letterSpacing\":-8.359119491577149,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:505",
+        "nodeName": "“",
+        "text": "“"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":500,\"fontSize\":58.22102355957031,\"lineHeightPx\":52.98113250732422,\"letterSpacing\":-4.0754716491699226,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:512",
+        "nodeName": "22 банка. РФ и Казахстан. Расширяем по запросу",
+        "text": "22 банка. РФ и Казахстан. Расширяем по запросу"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":700,\"fontSize\":31.051212310791016,\"lineHeightPx\":31.051212310791016,\"letterSpacing\":-0.9315363693237304,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:640",
+        "nodeName": "Пришлите 100 чеков - вернём вердикт по каждому",
+        "text": "Пришлите 100 чеков - вернём вердикт по каждому"
+      }
+    },
+    "{\"fontFamily\":\"Inter\",\"fontWeight\":400,\"fontSize\":19.406347274780273,\"lineHeightPx\":17.65977668762207,\"letterSpacing\":-1.3584443092346192,\"textAlignHorizontal\":\"LEFT\"}": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:644",
+        "nodeName": "@private_detect_io",
+        "text": "@private_detect_io"
+      }
+    }
+  },
+  "radii": {
+    "20": {
+      "count": 5,
+      "sample": {
+        "nodeId": "62:13",
+        "nodeName": "Frame 47"
+      }
+    },
+    "30": {
+      "count": 1,
+      "sample": {
+        "nodeId": "62:14",
+        "nodeName": "Frame 47"
+      }
+    },
+    "36": {
+      "count": 2,
+      "sample": {
+        "nodeId": "63:82",
+        "nodeName": "Frame 47"
+      }
+    },
+    "9.880810737609863": {
+      "count": 22,
+      "sample": {
+        "nodeId": "46:574",
+        "nodeName": "Frame 2087325653"
+      }
+    },
+    "3.747894287109375": {
+      "count": 21,
+      "sample": {
+        "nodeId": "46:575",
+        "nodeName": "Rectangle 34"
+      }
+    },
+    "10.00344467163086": {
+      "count": 18,
+      "sample": {
+        "nodeId": "46:328",
+        "nodeName": "Frame 43"
+      }
+    },
+    "26.945720672607422": {
+      "count": 7,
+      "sample": {
+        "nodeId": "46:147",
+        "nodeName": "Frame 26"
+      }
+    },
+    "15.532134056091309": {
+      "count": 4,
+      "sample": {
+        "nodeId": "46:247",
+        "nodeName": "Group 36"
+      }
+    },
+    "26.325651168823242": {
+      "count": 3,
+      "sample": {
+        "nodeId": "46:249",
+        "nodeName": "Frame 36"
+      }
+    },
+    "36.775299072265625": {
+      "count": 2,
+      "sample": {
+        "nodeId": "46:238",
+        "nodeName": "Group 34"
+      }
+    },
+    "12.042113304138184": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:114",
+        "nodeName": "Frame 21"
+      }
+    },
+    "37.843666076660156": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:326",
+        "nodeName": "Rectangle 23"
+      }
+    },
+    "59.28731918334961": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:470",
+        "nodeName": "Frame 1000008948"
+      }
+    },
+    "40.428802490234375": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:637",
+        "nodeName": "Frame 1000008948"
+      }
+    },
+    "35.15824890136719": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:642",
+        "nodeName": "Frame 2087325654"
+      }
+    }
+  },
+  "effects": {},
+  "layout": {},
+  "imageFills": {
+    "node:46:235": {
+      "count": 2,
+      "sample": {
+        "nodeId": "46:235",
+        "nodeName": "фото 1",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:61": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:61",
+        "nodeName": "image 73",
+        "scaleMode": "STRETCH"
+      }
+    },
+    "node:46:62": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:62",
+        "nodeName": "image 75",
+        "scaleMode": "STRETCH"
+      }
+    },
+    "node:46:177": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:177",
+        "nodeName": "image 74",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:179": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:179",
+        "nodeName": "image 73",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:322": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:322",
+        "nodeName": "image 75",
+        "scaleMode": "STRETCH"
+      }
+    },
+    "node:46:323": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:323",
+        "nodeName": "image 73",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:459": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:459",
+        "nodeName": "image 76",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:460": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:460",
+        "nodeName": "image 73",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:471": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:471",
+        "nodeName": "image 73",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:575": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:575",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:578": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:578",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:581": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:581",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:584": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:584",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:588": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:588",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:591": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:591",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:594": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:594",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:597": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:597",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:601": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:601",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:604": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:604",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:607": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:607",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:610": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:610",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:614": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:614",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:617": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:617",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:620": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:620",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:623": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:623",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:51:4": {
+      "count": 1,
+      "sample": {
+        "nodeId": "51:4",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:51:7": {
+      "count": 1,
+      "sample": {
+        "nodeId": "51:7",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:51:10": {
+      "count": 1,
+      "sample": {
+        "nodeId": "51:10",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:630": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:630",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:633": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:633",
+        "nodeName": "Rectangle 34",
+        "scaleMode": "FILL"
+      }
+    },
+    "node:46:638": {
+      "count": 1,
+      "sample": {
+        "nodeId": "46:638",
+        "nodeName": "image 73",
+        "scaleMode": "STRETCH"
+      }
+    }
+  },
+  "typeCounts": {
+    "TEXT": 112,
+    "FRAME": 107,
+    "RECTANGLE": 100,
+    "GROUP": 64,
+    "LINE": 26,
+    "ELLIPSE": 9,
+    "BOOLEAN_OPERATION": 1
+  }
+}

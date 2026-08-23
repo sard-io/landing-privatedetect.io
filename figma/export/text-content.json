@@ -1,0 +1,1682 @@
+[
+  {
+    "slide": 1,
+    "id": "46:69",
+    "name": "Фейковый PDF-чек больше не пройдет",
+    "characters": "Фейковый PDF-чек больше не пройдет",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 89.27223205566406,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -6.249056243896485,
+      "lineHeightPx": 81.23773193359375
+    }
+  },
+  {
+    "slide": 1,
+    "id": "46:113",
+    "name": "Защита парсинга от фейковых чеков и банковских выписок",
+    "characters": "Защита парсинга\nот фейковых чеков\nи банковских выписок",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 31.051212310791016,
+      "textAlignHorizontal": "RIGHT",
+      "letterSpacing": -2.1735848617553715,
+      "lineHeightPx": 28.256603240966797
+    }
+  },
+  {
+    "slide": 1,
+    "id": "46:115",
+    "name": "Private Detect за миллисекунды проверяет банковские чеки через 1 REST-запрос, защищая площадки от фрода и оттока трейдеров",
+    "characters": "Private Detect за миллисекунды проверяет банковские чеки через 1 REST-запрос, защищая площадки от фрода и оттока трейдеров",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 31.051212310791016,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.9315363693237304,
+      "lineHeightPx": 34.156333923339844
+    }
+  },
+  {
+    "slide": 1,
+    "id": "46:117",
+    "name": "Уже в проде",
+    "characters": "Уже в проде",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "fontSize": 31.051212310791016,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -2.1735848617553715,
+      "lineHeightPx": 28.256603240966797
+    }
+  },
+  {
+    "slide": 1,
+    "id": "46:118",
+    "name": "Подключённый платёжный процессинг",
+    "characters": "Подключённый платёжный\nпроцессинг",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 17.466306686401367,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.523989200592041,
+      "lineHeightPx": 19.21293830871582
+    }
+  },
+  {
+    "slide": 1,
+    "id": "46:119",
+    "name": "обработка в реальном времени",
+    "characters": "обработка в реальном\nвремени",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 17.466306686401367,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.523989200592041,
+      "lineHeightPx": 19.21293830871582
+    }
+  },
+  {
+    "slide": 1,
+    "id": "46:120",
+    "name": "31 профилей",
+    "characters": "31 профилей",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 17.466306686401367,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -1.222641468048096,
+      "lineHeightPx": 15.894339561462402
+    }
+  },
+  {
+    "slide": 1,
+    "id": "46:121",
+    "name": "p95<80 мс",
+    "characters": "p95<80 мс",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "fontSize": 31.051212310791016,
+      "textAlignHorizontal": "RIGHT",
+      "letterSpacing": -2.1735848617553715,
+      "lineHeightPx": 28.256603240966797
+    }
+  },
+  {
+    "slide": 1,
+    "id": "46:134",
+    "name": "22",
+    "characters": "22",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "fontSize": 31.051212310791016,
+      "textAlignHorizontal": "RIGHT",
+      "letterSpacing": -2.1735848617553715,
+      "lineHeightPx": 28.256603240966797
+    }
+  },
+  {
+    "slide": 1,
+    "id": "46:135",
+    "name": "Банков",
+    "characters": "Банков",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 43.665767669677734,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -3.0566037368774417,
+      "lineHeightPx": 39.7358512878418
+    }
+  },
+  {
+    "slide": 2,
+    "id": "46:140",
+    "name": "За фейковый чек всегда платит площадка",
+    "characters": "За фейковый чек\nвсегда платит площадка",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 89.27223205566406,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -6.249056243896485,
+      "lineHeightPx": 81.23773193359375
+    }
+  },
+  {
+    "slide": 2,
+    "id": "46:142",
+    "name": "В P2P-процессинге PDF-чеки подделывают за минуты. Отличить фальшивку на глаз невозможно, и убытки всегда ложатся на площадку. Дальше два сценария:",
+    "characters": "В P2P-процессинге PDF-чеки подделывают за минуты. Отличить фальшивку на глаз невозможно, и убытки всегда ложатся на площадку. Дальше два сценария:",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 26.68463706970215
+    }
+  },
+  {
+    "slide": 2,
+    "id": "46:148",
+    "name": "ОТТОК",
+    "characters": "ОТТОК",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Semi Bold",
+      "fontWeight": 600,
+      "fontSize": 54.339622497558594,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -3.8037735748291017,
+      "lineHeightPx": 49.449058532714844
+    }
+  },
+  {
+    "slide": 2,
+    "id": "46:150",
+    "name": "ТРЕЙДЕРОВ",
+    "characters": "ТРЕЙДЕРОВ",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Semi Bold",
+      "fontWeight": 600,
+      "fontSize": 54.339622497558594,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -3.8037735748291017,
+      "lineHeightPx": 49.449058532714844
+    }
+  },
+  {
+    "slide": 2,
+    "id": "46:156",
+    "name": "Трейдер принимает фейк за реальную оплату и уходит в минус. Площадка не контролирует поток подделок — и теряет трейдеров.",
+    "characters": "Трейдер принимает фейк за реальную оплату и уходит в минус. Площадка не контролирует поток подделок — и теряет трейдеров.",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 26.68463706970215
+    }
+  },
+  {
+    "slide": 2,
+    "id": "46:163",
+    "name": "ПРЯМОЙ",
+    "characters": "ПРЯМОЙ",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Semi Bold",
+      "fontWeight": 600,
+      "fontSize": 54.339622497558594,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -3.8037735748291017,
+      "lineHeightPx": 49.449058532714844
+    }
+  },
+  {
+    "slide": 2,
+    "id": "46:169",
+    "name": "УБЫТОК",
+    "characters": "УБЫТОК",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Semi Bold",
+      "fontWeight": 600,
+      "fontSize": 54.339622497558594,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -3.8037735748291017,
+      "lineHeightPx": 49.449058532714844
+    }
+  },
+  {
+    "slide": 2,
+    "id": "46:171",
+    "name": "ЧС",
+    "characters": "ЧС",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Semi Bold",
+      "fontWeight": 600,
+      "fontSize": 54.339622497558594,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -3.8037735748291017,
+      "lineHeightPx": 49.449058532714844
+    }
+  },
+  {
+    "slide": 2,
+    "id": "46:173",
+    "name": "Команда прикладывает чек — площадка сразу отдаёт USDT. Жалоба мерчанта приходит спустя дни, и за это время успевают залить десятки фейков.",
+    "characters": "Команда прикладывает чек — площадка сразу отдаёт USDT. Жалоба мерчанта приходит спустя дни, и за это время успевают залить десятки фейков.",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 26.68463706970215
+    }
+  },
+  {
+    "slide": 2,
+    "id": "63:81",
+    "name": "PAY-IN · БЕЛЫЙ ТРЕУГОЛЬНИК",
+    "characters": "PAY-IN · БЕЛЫЙ ТРЕУГОЛЬНИК",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.72,
+      "lineHeightPx": 26.400001525878906
+    }
+  },
+  {
+    "slide": 2,
+    "id": "63:85",
+    "name": "PAY- OUT • ВЫПЛАТЫ",
+    "characters": "PAY- OUT • ВЫПЛАТЫ",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.72,
+      "lineHeightPx": 26.400001525878906
+    }
+  },
+  {
+    "slide": 3,
+    "id": "46:185",
+    "name": "Один запрос - один вердикт",
+    "characters": "Один запрос - один вердикт",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 89.27223205566406,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -6.249056243896485,
+      "lineHeightPx": 81.23773193359375
+    }
+  },
+  {
+    "slide": 3,
+    "id": "46:234",
+    "name": "Отправляете PDF-чек в API - получаете однозначный ответ. Без тяжёлых интеграций, без ручной проверки, без штата верификаторов",
+    "characters": "Отправляете PDF-чек в API - получаете однозначный ответ. Без тяжёлых\nинтеграций, без ручной проверки, без штата верификаторов",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 26.68463706970215
+    }
+  },
+  {
+    "slide": 3,
+    "id": "46:242",
+    "name": "POST /api/v1/verify { \"verdict\": \"fake\", \"bank\": \"sberbank\", \"request_id\": \"…\" }",
+    "characters": "POST /api/v1/verify\r\n{\r\n    \"verdict\": \"fake\",\r\n    \"bank\": \"sberbank\",\r\n    \"request_id\": \"…\"\r\n}",
+    "style": {
+      "fontFamily": "Consolas",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 24.93938636779785,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -1.7457570457458498,
+      "lineHeightPx": 24.93938636779785
+    }
+  },
+  {
+    "slide": 3,
+    "id": "46:251",
+    "name": "“original”",
+    "characters": "“original”",
+    "style": {
+      "fontFamily": "Consolas",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 13.532135009765625,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.9472494506835938,
+      "lineHeightPx": 13.532135009765625
+    }
+  },
+  {
+    "slide": 3,
+    "id": "46:252",
+    "name": "Чек настоящий. Реквизиты, время и подпись банка сходятся",
+    "characters": "Чек настоящий. Реквизиты, время и подпись банка сходятся",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 13.584905624389648,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.40754716873168945,
+      "lineHeightPx": 14.94339656829834
+    }
+  },
+  {
+    "slide": 3,
+    "id": "46:256",
+    "name": "“fake”",
+    "characters": "“fake”",
+    "style": {
+      "fontFamily": "Consolas",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 13.532135009765625,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.9472494506835938,
+      "lineHeightPx": 13.532135009765625
+    }
+  },
+  {
+    "slide": 3,
+    "id": "46:257",
+    "name": "Подделка. Найдены противоречия, которые банк не допускает",
+    "characters": "Подделка. Найдены противоречия, которые банк не допускает",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 13.584905624389648,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.40754716873168945,
+      "lineHeightPx": 14.94339656829834
+    }
+  },
+  {
+    "slide": 3,
+    "id": "46:261",
+    "name": "“unknown”",
+    "characters": "“unknown”",
+    "style": {
+      "fontFamily": "Consolas",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 13.532135009765625,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.9472494506835938,
+      "lineHeightPx": 13.532135009765625
+    }
+  },
+  {
+    "slide": 3,
+    "id": "46:262",
+    "name": "Банк вне покрытия или нестандартно сохранённый чек - честный ответ вместо ложного вердикта",
+    "characters": "Банк вне покрытия или нестандартно сохранённый чек - честный ответ вместо ложного вердикта",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 13.584905624389648,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.40754716873168945,
+      "lineHeightPx": 14.94339656829834
+    }
+  },
+  {
+    "slide": 4,
+    "id": "46:273",
+    "name": "Ловим то, что пропускают другие",
+    "characters": "Ловим то, что\r\nпропускают другие",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 89.27223205566406,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -6.249056243896485,
+      "lineHeightPx": 81.23773193359375
+    }
+  },
+  {
+    "slide": 4,
+    "id": "46:310",
+    "name": "Экспертиза изнутри банка",
+    "characters": "Экспертиза изнутри банка",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -1.6981132316589358,
+      "lineHeightPx": 22.075471878051758
+    }
+  },
+  {
+    "slide": 4,
+    "id": "46:311",
+    "name": "ML-детекция ре-рендеров",
+    "characters": "ML-детекция ре-рендеров",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -1.6981132316589358,
+      "lineHeightPx": 22.075471878051758
+    }
+  },
+  {
+    "slide": 4,
+    "id": "46:312",
+    "name": "Декодированный ID СБП/НСПК",
+    "characters": "Декодированный ID СБП/НСПК",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -1.6981132316589358,
+      "lineHeightPx": 22.075471878051758
+    }
+  },
+  {
+    "slide": 4,
+    "id": "46:313",
+    "name": "Свежие подделки — первыми",
+    "characters": "Свежие подделки — первыми",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -1.6981132316589358,
+      "lineHeightPx": 22.075471878051758
+    }
+  },
+  {
+    "slide": 4,
+    "id": "46:314",
+    "name": "Продукт строит действующий руководитель внедрения в крупном банке РФ в связке с антифродом. Детекция — на реальных банковских процессах, а не на аутсорс-ТЗ.",
+    "characters": "Продукт строит действующий руководитель внедрения в крупном банке РФ в связке с антифродом. Детекция — на реальных банковских процессах, а не на аутсорс-ТЗ.",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 17.466306686401367,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.523989200592041,
+      "lineHeightPx": 19.21293830871582
+    }
+  },
+  {
+    "slide": 4,
+    "id": "46:315",
+    "name": "Модель ловит чеки, перерисованные через headless-движки и редакторы, — то, что проходит мимо простых чекеров и проверки «на глаз».",
+    "characters": "Модель ловит чеки, перерисованные через headless-движки и редакторы, — то, что проходит мимо простых чекеров и проверки «на глаз».",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 17.466306686401367,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.523989200592041,
+      "lineHeightPx": 19.21293830871582
+    }
+  },
+  {
+    "slide": 4,
+    "id": "46:316",
+    "name": "Сверяем ID операции с временем чека по алгоритму банка. Этот ID нельзя подделать — его задаёт банк, а не верстальщик подделки.",
+    "characters": "Сверяем ID операции с временем чека по алгоритму банка. Этот ID нельзя подделать — его задаёт банк, а не верстальщик подделки.",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 17.466306686401367,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.523989200592041,
+      "lineHeightPx": 19.21293830871582
+    }
+  },
+  {
+    "slide": 4,
+    "id": "46:317",
+    "name": "Источник внутри скам-команд даёт нам софт мошенников раньше рынка. Новые волны фейков перекрываем первыми, проскочившее разбираем в тот же час.",
+    "characters": "Источник внутри скам-команд даёт нам софт мошенников раньше рынка. Новые волны фейков перекрываем первыми, проскочившее разбираем в тот же час.",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 17.466306686401367,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.523989200592041,
+      "lineHeightPx": 19.21293830871582
+    }
+  },
+  {
+    "slide": 4,
+    "id": "46:320",
+    "name": "Большинство чекеров на рынке делают нетехнические фаундеры через аутсорс-ТЗ.  Стоит мошенникам выпустить новый софт - и такая детекция устаревает. detect.io построен иначе.",
+    "characters": "Большинство чекеров на рынке делают нетехнические фаундеры через аутсорс-ТЗ. \nСтоит мошенникам выпустить новый софт - и такая детекция устаревает. detect.io построен иначе.",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 26.68463706970215
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:329",
+    "name": "A",
+    "characters": "A",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 38.51593780517578,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -2.696115646362305,
+      "lineHeightPx": 35.049503326416016
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:331",
+    "name": "6",
+    "characters": "6",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 38.51593780517578,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -2.696115646362305,
+      "lineHeightPx": 35.049503326416016
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:333",
+    "name": "051",
+    "characters": "051",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 38.51593780517578,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -2.696115646362305,
+      "lineHeightPx": 35.049503326416016
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:360",
+    "name": "001",
+    "characters": "001",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 38.51593780517578,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -2.696115646362305,
+      "lineHeightPx": 35.049503326416016
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:373",
+    "name": "ID, который невозможно подделать",
+    "characters": "ID, который невозможно подделать",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 80.5390853881836,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -5.637735977172852,
+      "lineHeightPx": 73.29057312011719
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:374",
+    "name": "Каждый чек несёт ID операции СБП/НСПК. Мы декодировали его структуру по строгому алгоритму банка и сверяем каждое поле. ID формирует банк, а не верстальщик подделки, - поэтому подделать его нельзя.",
+    "characters": "Каждый чек несёт ID операции СБП/НСПК. \nМы декодировали его структуру по строгому алгоритму банка и сверяем каждое поле. ID формирует банк, а не верстальщик подделки, - поэтому подделать его нельзя.",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 26.68463706970215
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:422",
+    "name": "1",
+    "characters": "1",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 38.51593780517578,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -2.696115646362305,
+      "lineHeightPx": 35.049503326416016
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:424",
+    "name": "Направление",
+    "characters": "Направление",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 31.051212310791016,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -2.1735848617553715,
+      "lineHeightPx": 28.256603240966797
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:425",
+    "name": "PAY IN/ PAY PUT",
+    "characters": "PAY IN/ PAY PUT",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 17.466306686401367,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.523989200592041,
+      "lineHeightPx": 17.466306686401367
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:427",
+    "name": "A",
+    "characters": "A",
+    "style": {
+      "fontFamily": "Consolas",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 38.51593780517578,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -2.696115646362305,
+      "lineHeightPx": 35.049503326416016
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:431",
+    "name": "2",
+    "characters": "2",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 38.51593780517578,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -2.696115646362305,
+      "lineHeightPx": 35.049503326416016
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:433",
+    "name": "Год",
+    "characters": "Год",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 31.051212310791016,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -2.1735848617553715,
+      "lineHeightPx": 28.256603240966797
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:434",
+    "name": "Последняя цифра",
+    "characters": "Последняя цифра",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 17.466306686401367,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.523989200592041,
+      "lineHeightPx": 17.466306686401367
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:436",
+    "name": "6",
+    "characters": "6",
+    "style": {
+      "fontFamily": "Consolas",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 38.51593780517578,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -2.696115646362305,
+      "lineHeightPx": 35.049503326416016
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:440",
+    "name": "3",
+    "characters": "3",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 38.51593780517578,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -2.696115646362305,
+      "lineHeightPx": 35.049503326416016
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:442",
+    "name": "День года",
+    "characters": "День года",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 31.051212310791016,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -2.1735848617553715,
+      "lineHeightPx": 28.256603240966797
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:443",
+    "name": "001-365",
+    "characters": "001-365",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 17.466306686401367,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.523989200592041,
+      "lineHeightPx": 17.466306686401367
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:445",
+    "name": "051",
+    "characters": "051",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 38.51593780517578,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -2.696115646362305,
+      "lineHeightPx": 35.049503326416016
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:449",
+    "name": "4",
+    "characters": "4",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 38.51593780517578,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -2.696115646362305,
+      "lineHeightPx": 35.049503326416016
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:451",
+    "name": "Константа",
+    "characters": "Константа",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 31.051212310791016,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -2.1735848617553715,
+      "lineHeightPx": 28.256603240966797
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:452",
+    "name": "Фиксир. маркер",
+    "characters": "Фиксир. маркер",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 17.466306686401367,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.523989200592041,
+      "lineHeightPx": 17.466306686401367
+    }
+  },
+  {
+    "slide": 5,
+    "id": "46:454",
+    "name": "001",
+    "characters": "001",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 38.51593780517578,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -2.696115646362305,
+      "lineHeightPx": 35.049503326416016
+    }
+  },
+  {
+    "slide": 6,
+    "id": "46:468",
+    "name": "Сколько мы спасаем одной площадке",
+    "characters": "Сколько мы спасаем одной площадке",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 89.27223205566406,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -6.249056243896485,
+      "lineHeightPx": 81.23773193359375
+    }
+  },
+  {
+    "slide": 6,
+    "id": "46:472",
+    "name": "~153 000 usdt",
+    "characters": "~153 000 usdt",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "fontSize": 117.89756774902344,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -9.431805419921876,
+      "lineHeightPx": 117.89756774902344
+    }
+  },
+  {
+    "slide": 6,
+    "id": "46:473",
+    "name": "фейковых выплат, которые иначе оплатила бы площадка из своего кармана",
+    "characters": "фейковых выплат, которые иначе оплатила бы площадка из своего кармана",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 17.466306686401367,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.523989200592041,
+      "lineHeightPx": 19.21293830871582
+    }
+  },
+  {
+    "slide": 6,
+    "id": "46:475",
+    "name": "77",
+    "characters": "77",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "fontSize": 58.22102355957031,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -4.0754716491699226,
+      "lineHeightPx": 52.98113250732422
+    }
+  },
+  {
+    "slide": 6,
+    "id": "46:476",
+    "name": "22",
+    "characters": "22",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "fontSize": 58.22102355957031,
+      "textAlignHorizontal": "RIGHT",
+      "letterSpacing": -4.0754716491699226,
+      "lineHeightPx": 52.98113250732422
+    }
+  },
+  {
+    "slide": 6,
+    "id": "46:490",
+    "name": "41",
+    "characters": "41",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "fontSize": 58.22102355957031,
+      "textAlignHorizontal": "RIGHT",
+      "letterSpacing": -4.0754716491699226,
+      "lineHeightPx": 52.98113250732422
+    }
+  },
+  {
+    "slide": 6,
+    "id": "46:491",
+    "name": "avg, мс",
+    "characters": "avg, мс",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 31.051212310791016,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.9315363693237304,
+      "lineHeightPx": 31.051212310791016
+    }
+  },
+  {
+    "slide": 6,
+    "id": "46:492",
+    "name": "р50, мс",
+    "characters": "р50, мс",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 31.051212310791016,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.9315363693237304,
+      "lineHeightPx": 31.051212310791016
+    }
+  },
+  {
+    "slide": 6,
+    "id": "46:493",
+    "name": "р95, мс",
+    "characters": "р95, мс",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 31.051212310791016,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.9315363693237304,
+      "lineHeightPx": 31.051212310791016
+    }
+  },
+  {
+    "slide": 6,
+    "id": "46:503",
+    "name": "«По tier-1 банкам такого решения не находил ни у кого. Фрод снизился на 95%»",
+    "characters": "«По tier-1 банкам такого решения не находил ни у кого. Фрод снизился на 95%»",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 31.051212310791016,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.9315363693237304,
+      "lineHeightPx": 34.156333923339844
+    }
+  },
+  {
+    "slide": 6,
+    "id": "46:504",
+    "name": "- ФАУНДЕР ПОДКЛЮЧЁННОЙ ПЛОЩАДКИ",
+    "characters": "- ФАУНДЕР ПОДКЛЮЧЁННОЙ ПЛОЩАДКИ",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 17.466306686401367,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.523989200592041,
+      "lineHeightPx": 17.466306686401367
+    }
+  },
+  {
+    "slide": 6,
+    "id": "46:505",
+    "name": "“",
+    "characters": "“",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 119.4159927368164,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -8.359119491577149,
+      "lineHeightPx": 108.6685562133789
+    }
+  },
+  {
+    "slide": 6,
+    "id": "62:11",
+    "name": "67 350",
+    "characters": "67 350",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -1.6800000000000002,
+      "lineHeightPx": 21.84000015258789
+    }
+  },
+  {
+    "slide": 6,
+    "id": "62:12",
+    "name": "проверок / мес",
+    "characters": "проверок / мес",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 13.584905624389648,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.40754716873168945,
+      "lineHeightPx": 14.94339656829834
+    }
+  },
+  {
+    "slide": 6,
+    "id": "62:63",
+    "name": "4,2 %",
+    "characters": "4,2 %",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -1.6800000000000002,
+      "lineHeightPx": 21.84000015258789
+    }
+  },
+  {
+    "slide": 6,
+    "id": "62:64",
+    "name": "доля fake",
+    "characters": "доля fake",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 13.584905624389648,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.40754716873168945,
+      "lineHeightPx": 14.94339656829834
+    }
+  },
+  {
+    "slide": 6,
+    "id": "63:68",
+    "name": "~2 828",
+    "characters": "~2 828",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -1.6800000000000002,
+      "lineHeightPx": 21.84000015258789
+    }
+  },
+  {
+    "slide": 6,
+    "id": "63:69",
+    "name": "подделок",
+    "characters": "подделок",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 13.584905624389648,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.40754716873168945,
+      "lineHeightPx": 14.94339656829834
+    }
+  },
+  {
+    "slide": 6,
+    "id": "63:73",
+    "name": "x ~4 000 ₽",
+    "characters": "x ~4 000 ₽",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -1.6800000000000002,
+      "lineHeightPx": 21.84000015258789
+    }
+  },
+  {
+    "slide": 6,
+    "id": "63:74",
+    "name": "средний чек",
+    "characters": "средний чек",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 13.584905624389648,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.40754716873168945,
+      "lineHeightPx": 14.94339656829834
+    }
+  },
+  {
+    "slide": 6,
+    "id": "63:78",
+    "name": "~11.3 млн ₽",
+    "characters": "~11.3 млн ₽",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -1.6800000000000002,
+      "lineHeightPx": 21.84000015258789
+    }
+  },
+  {
+    "slide": 6,
+    "id": "63:79",
+    "name": "спасено / мес",
+    "characters": "спасено / мес",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 13.584905624389648,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.40754716873168945,
+      "lineHeightPx": 14.94339656829834
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:512",
+    "name": "22 банка. РФ и Казахстан. Расширяем по запросу",
+    "characters": "22 банка. РФ и Казахстан. Расширяем по запросу",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 58.22102355957031,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -4.0754716491699226,
+      "lineHeightPx": 52.98113250732422
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:571",
+    "name": "По России",
+    "characters": "По России",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 17.466306686401367,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.523989200592041,
+      "lineHeightPx": 17.466306686401367
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:576",
+    "name": "Сбербанк",
+    "characters": "Сбербанк",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:579",
+    "name": "Т-Банк",
+    "characters": "Т-Банк",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:582",
+    "name": "ВТБ",
+    "characters": "ВТБ",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:585",
+    "name": "Альфа-Банк",
+    "characters": "Альфа-Банк",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:589",
+    "name": "Газпромбанк",
+    "characters": "Газпромбанк",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:592",
+    "name": "ОТП Банк",
+    "characters": "ОТП Банк",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:595",
+    "name": "WBБанк",
+    "characters": "WBБанк",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:598",
+    "name": "МТС Банк",
+    "characters": "МТС Банк",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:602",
+    "name": "Ozon Bank",
+    "characters": "Ozon Bank",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:605",
+    "name": "Яндекс Банк",
+    "characters": "Яндекс Банк",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:608",
+    "name": "Совкомбанк",
+    "characters": "Совкомбанк",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:611",
+    "name": "ЮMoney",
+    "characters": "ЮMoney",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:615",
+    "name": "Фора-Банк",
+    "characters": "Фора-Банк",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:618",
+    "name": "Райффайзен Банк",
+    "characters": "Райффайзен Банк",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:621",
+    "name": "Россельхозбанк",
+    "characters": "Россельхозбанк",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:624",
+    "name": "ПСБ",
+    "characters": "ПСБ",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "51:5",
+    "name": "Ак Барс Банк",
+    "characters": "Ак Барс Банк",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "51:8",
+    "name": "Банк Уралсиб",
+    "characters": "Банк Уралсиб ",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "51:11",
+    "name": "Банк Санкт-Петербург",
+    "characters": "Банк Санкт-Петербург",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:626",
+    "name": "По Казахстану",
+    "characters": "По Казахстану",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 17.466306686401367,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.523989200592041,
+      "lineHeightPx": 17.466306686401367
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:631",
+    "name": "Kaspi.kz",
+    "characters": "Kaspi.kz",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:634",
+    "name": "Halyk Bank",
+    "characters": "Halyk Bank",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:636",
+    "name": "+ новый банк / гео по запросу",
+    "characters": "+ новый банк / гео по запросу",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 24.258760452270508,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.7277628135681152,
+      "lineHeightPx": 24.258760452270508
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:640",
+    "name": "Пришлите 100 чеков - вернём вердикт по каждому",
+    "characters": "Пришлите 100 чеков - вернём вердикт по каждому",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Bold",
+      "fontWeight": 700,
+      "fontSize": 31.051212310791016,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.9315363693237304,
+      "lineHeightPx": 31.051212310791016
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:641",
+    "name": "Старт без интеграции и риска. Проверим даже чеки, которые не взяли другие чекеры. Цена — от месячного объёма, обсуждаем индивидуально",
+    "characters": "Старт без интеграции и риска. Проверим даже чеки, которые не взяли другие чекеры. Цена — от месячного объёма, обсуждаем индивидуально",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Medium",
+      "fontWeight": 500,
+      "fontSize": 17.466306686401367,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -0.523989200592041,
+      "lineHeightPx": 19.21293830871582
+    }
+  },
+  {
+    "slide": 7,
+    "id": "46:644",
+    "name": "@private_detect_io",
+    "characters": "@private_detect_io",
+    "style": {
+      "fontFamily": "Inter",
+      "fontStyle": "Regular",
+      "fontWeight": 400,
+      "fontSize": 19.406347274780273,
+      "textAlignHorizontal": "LEFT",
+      "letterSpacing": -1.3584443092346192,
+      "lineHeightPx": 17.65977668762207
+    }
+  }
+]

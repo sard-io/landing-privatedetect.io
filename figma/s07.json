@@ -1,0 +1,2302 @@
+{
+  "id": "46:506",
+  "name": "07",
+  "type": "FRAME",
+  "fills": [
+    {
+      "blendMode": "NORMAL",
+      "type": "SOLID",
+      "color": "#191418"
+    }
+  ],
+  "absoluteBoundingBox": {
+    "x": 31440.85546875,
+    "y": 9583,
+    "width": 930,
+    "height": 1080
+  },
+  "children": [
+    {
+      "id": "46:507",
+      "name": "Group 20",
+      "type": "GROUP",
+      "absoluteBoundingBox": {
+        "x": 31469.966796875,
+        "y": 9615.021488189697,
+        "width": 871.314453125,
+        "height": 34.932613372802734
+      },
+      "children": []
+    },
+    {
+      "id": "46:510",
+      "name": "Group 30",
+      "type": "GROUP",
+      "absoluteBoundingBox": {
+        "x": 31510.236328125,
+        "y": 9815.8837890625,
+        "width": 833.0458374023438,
+        "height": 108.67999267578125
+      },
+      "children": [
+        {
+          "id": "46:511",
+          "name": "Rectangle 6",
+          "type": "RECTANGLE",
+          "fills": [
+            {
+              "opacity": 0.25,
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#0294fc"
+            }
+          ],
+          "absoluteBoundingBox": {
+            "x": 31510.236328125,
+            "y": 9871.6796875,
+            "width": 290.1776123046875,
+            "height": 52.884098052978516
+          }
+        },
+        {
+          "id": "46:512",
+          "name": "22 банка. РФ и Казахстан. Расширяем по запросу",
+          "type": "TEXT",
+          "fills": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#e9eff3"
+            }
+          ],
+          "absoluteBoundingBox": {
+            "x": 31510.236328125,
+            "y": 9815.8837890625,
+            "width": 833.0458374023438,
+            "height": 106
+          },
+          "characters": "22 банка. РФ и Казахстан. Расширяем по запросу",
+          "style": {
+            "fontFamily": "Inter",
+            "fontStyle": "Medium",
+            "fontWeight": 500,
+            "fontSize": 58.22102355957031,
+            "textAlignHorizontal": "LEFT",
+            "letterSpacing": -4.0754716491699226,
+            "lineHeightPx": 52.98113250732422
+          }
+        }
+      ]
+    },
+    {
+      "id": "46:513",
+      "name": "Group 4",
+      "type": "GROUP",
+      "absoluteBoundingBox": {
+        "x": 31510.12109375,
+        "y": 9669.361328125,
+        "width": 392.82904052734375,
+        "height": 54.91954040527344
+      },
+      "children": [
+        {
+          "id": "46:515",
+          "name": "Group",
+          "type": "GROUP",
+          "absoluteBoundingBox": {
+            "x": 31583.873046875,
+            "y": 9678.513671875,
+            "width": 319.07708740234375,
+            "height": 37.072303771972656
+          },
+          "children": []
+        },
+        {
+          "id": "46:529",
+          "name": "Group",
+          "type": "GROUP",
+          "absoluteBoundingBox": {
+            "x": 31476.099609375,
+            "y": 9635.4169921875,
+            "width": 460.73736572265625,
+            "height": 122.80708312988281
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "46:555",
+      "name": "Group 37",
+      "type": "GROUP",
+      "absoluteBoundingBox": {
+        "x": 31811.044882200775,
+        "y": 9462.6767578125,
+        "width": 1023.3843780531315,
+        "height": 907.6404255929283
+      },
+      "children": [
+        {
+          "id": "46:556",
+          "name": "Rectangle 15",
+          "type": "RECTANGLE",
+          "strokes": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#1b9cfc"
+            }
+          ],
+          "absoluteBoundingBox": {
+            "x": 31811.04491868406,
+            "y": 9578.9970703125,
+            "width": 73.00020155519815,
+            "height": 73.00020155519815
+          }
+        },
+        {
+          "id": "46:557",
+          "name": "Rectangle 16",
+          "type": "RECTANGLE",
+          "strokes": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#1b9cfc"
+            }
+          ],
+          "absoluteBoundingBox": {
+            "x": 32771.20702939723,
+            "y": 9929.7783203125,
+            "width": 42.38648027684394,
+            "height": 42.38648027684394
+          }
+        },
+        {
+          "id": "46:558",
+          "name": "Rectangle 19",
+          "type": "RECTANGLE",
+          "strokes": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#1b9cfc"
+            }
+          ],
+          "absoluteBoundingBox": {
+            "x": 31980.85546749383,
+            "y": 10207.783203125,
+            "width": 28.73781139105631,
+            "height": 28.73781139105813
+          }
+        },
+        {
+          "id": "46:559",
+          "name": "Rectangle 20",
+          "type": "RECTANGLE",
+          "strokes": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#1b9cfc"
+            }
+          ],
+          "absoluteBoundingBox": {
+            "x": 32805.69140499383,
+            "y": 10298.427734375,
+            "width": 28.73781139105995,
+            "height": 28.73781139105813
+          }
+        },
+        {
+          "id": "46:560",
+          "name": "Rectangle 21",
+          "type": "RECTANGLE",
+          "strokes": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#1b9cfc"
+            }
+          ],
+          "absoluteBoundingBox": {
+            "x": 31859.56249874383,
+            "y": 10097.1630859375,
+            "width": 28.73781139105631,
+            "height": 28.73781139105813
+          }
+        },
+        {
+          "id": "46:561",
+          "name": "Rectangle 17",
+          "type": "RECTANGLE",
+          "strokes": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#1b9cfc"
+            }
+          ],
+          "absoluteBoundingBox": {
+            "x": 32318.13085752223,
+            "y": 9462.6767578125,
+            "width": 42.38648027684394,
+            "height": 42.38648027684394
+          }
+        },
+        {
+          "id": "46:562",
+          "name": "Rectangle 18",
+          "type": "RECTANGLE",
+          "strokes": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#1b9cfc"
+            }
+          ],
+          "absoluteBoundingBox": {
+            "x": 32258.847653107612,
+            "y": 10298.427734375,
+            "width": 71.88943032744646,
+            "height": 71.88943032744464
+          }
+        },
+        {
+          "id": "46:563",
+          "name": "Line 9",
+          "type": "LINE",
+          "strokes": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#1b9cfc"
+            }
+          ],
+          "absoluteBoundingBox": {
+            "x": 32357.32421875,
+            "y": 9499.1884765625,
+            "width": 424.070553833124,
+            "height": 434.4715648138372
+          }
+        },
+        {
+          "id": "46:564",
+          "name": "Line 10",
+          "type": "LINE",
+          "strokes": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#1b9cfc"
+            }
+          ],
+          "absoluteBoundingBox": {
+            "x": 32325.433824398304,
+            "y": 9951.1259765625,
+            "width": 449.65211310169616,
+            "height": 361.670672288652
+          }
+        },
+        {
+          "id": "46:565",
+          "name": "Line 11",
+          "type": "LINE",
+          "strokes": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#1b9cfc"
+            }
+          ],
+          "absoluteBoundingBox": {
+            "x": 32009.48109087693,
+            "y": 10236.408810065186,
+            "width": 253.57750287307135,
+            "height": 68.99841649731388
+          }
+        },
+        {
+          "id": "46:566",
+          "name": "Line 13",
+          "type": "LINE",
+          "strokes": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#1b9cfc"
+            }
+          ],
+          "absoluteBoundingBox": {
+            "x": 32792.55263708378,
+            "y": 9971.987402442706,
+            "width": 22.04892541621666,
+            "height": 329.0418944322937
+          }
+        },
+        {
+          "id": "46:567",
+          "name": "Line 14",
+          "type": "LINE",
+          "strokes": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#1b9cfc"
+            }
+          ],
+          "absoluteBoundingBox": {
+            "x": 31883.8203125,
+            "y": 9505.06203382682,
+            "width": 441.6146519957838,
+            "height": 592.10105211068
+          }
+        },
+        {
+          "id": "46:568",
+          "name": "Line 12",
+          "type": "LINE",
+          "strokes": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#1b9cfc"
+            }
+          ],
+          "absoluteBoundingBox": {
+            "x": 31879.455078125,
+            "y": 9646.9208984375,
+            "width": 891.7519832648977,
+            "height": 298.86795173868086
+          }
+        }
+      ]
+    },
+    {
+      "id": "46:569",
+      "name": "Frame 46",
+      "type": "FRAME",
+      "absoluteBoundingBox": {
+        "x": 31510.236328125,
+        "y": 9960,
+        "width": 718.9794921875,
+        "height": 401.09063720703125
+      },
+      "children": [
+        {
+          "id": "46:570",
+          "name": "Frame 46",
+          "type": "FRAME",
+          "absoluteBoundingBox": {
+            "x": 31510.236328125,
+            "y": 9960,
+            "width": 718.9794921875,
+            "height": 303.5018615722656
+          },
+          "children": [
+            {
+              "id": "46:571",
+              "name": "По России",
+              "type": "TEXT",
+              "fills": [
+                {
+                  "blendMode": "NORMAL",
+                  "type": "SOLID",
+                  "color": "#ffffff"
+                }
+              ],
+              "absoluteBoundingBox": {
+                "x": 31510.236328125,
+                "y": 9960,
+                "width": 718.9794921875,
+                "height": 17
+              },
+              "characters": "По России",
+              "style": {
+                "fontFamily": "Inter",
+                "fontStyle": "Medium",
+                "fontWeight": 500,
+                "fontSize": 17.466306686401367,
+                "textAlignHorizontal": "LEFT",
+                "letterSpacing": -0.523989200592041,
+                "lineHeightPx": 17.466306686401367
+              }
+            },
+            {
+              "id": "46:572",
+              "name": "Frame 46",
+              "type": "FRAME",
+              "absoluteBoundingBox": {
+                "x": 31510.236328125,
+                "y": 9988.64453125,
+                "width": 718.9794921875,
+                "height": 274.857666015625
+              },
+              "children": [
+                {
+                  "id": "46:573",
+                  "name": "Frame 46",
+                  "type": "FRAME",
+                  "absoluteBoundingBox": {
+                    "x": 31510.236328125,
+                    "y": 9988.64453125,
+                    "width": 718.9794921875,
+                    "height": 45.656166076660156
+                  },
+                  "children": [
+                    {
+                      "id": "46:574",
+                      "name": "Frame 2087325653",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 31510.236328125,
+                        "y": 9988.64453125,
+                        "width": 169.21841430664062,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "46:575",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 31517.732421875,
+                            "y": 9996.140625,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "46:576",
+                          "name": "Сбербанк",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 31558.958984375,
+                            "y": 9999.47265625,
+                            "width": 113,
+                            "height": 24
+                          },
+                          "characters": "Сбербанк",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "46:577",
+                      "name": "Frame 2087325654",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 31688.900390625,
+                        "y": 9988.64453125,
+                        "width": 136.21841430664062,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "46:578",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 31696.396484375,
+                            "y": 9996.140625,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "46:579",
+                          "name": "Т-Банк",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 31737.623046875,
+                            "y": 9999.47265625,
+                            "width": 80,
+                            "height": 24
+                          },
+                          "characters": "Т-Банк",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "46:580",
+                      "name": "Frame 2087325655",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 31834.564453125,
+                        "y": 9988.64453125,
+                        "width": 103.21841430664062,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "46:581",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 31842.060546875,
+                            "y": 9996.140625,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "46:582",
+                          "name": "ВТБ",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 31883.287109375,
+                            "y": 9999.47265625,
+                            "width": 47,
+                            "height": 24
+                          },
+                          "characters": "ВТБ",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "46:583",
+                      "name": "Frame 2087325656",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 31947.228515625,
+                        "y": 9988.64453125,
+                        "width": 195.21841430664062,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "46:584",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 31954.724609375,
+                            "y": 9996.140625,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "46:585",
+                          "name": "Альфа-Банк",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 31995.951171875,
+                            "y": 9999.47265625,
+                            "width": 139,
+                            "height": 24
+                          },
+                          "characters": "Альфа-Банк",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "46:586",
+                  "name": "Frame 47",
+                  "type": "FRAME",
+                  "absoluteBoundingBox": {
+                    "x": 31510.236328125,
+                    "y": 10045.9453125,
+                    "width": 718.9794921875,
+                    "height": 45.656166076660156
+                  },
+                  "children": [
+                    {
+                      "id": "46:587",
+                      "name": "Frame 2087325653",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 31510.236328125,
+                        "y": 10045.9453125,
+                        "width": 206.21841430664062,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "46:588",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 31517.732421875,
+                            "y": 10053.44140625,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "46:589",
+                          "name": "Газпромбанк",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 31558.958984375,
+                            "y": 10056.7734375,
+                            "width": 150,
+                            "height": 24
+                          },
+                          "characters": "Газпромбанк",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "46:590",
+                      "name": "Frame 2087325655",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 31725.900390625,
+                        "y": 10045.9453125,
+                        "width": 167.21841430664062,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "46:591",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 31733.396484375,
+                            "y": 10053.44140625,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "46:592",
+                          "name": "ОТП Банк",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 31774.623046875,
+                            "y": 10056.7734375,
+                            "width": 111,
+                            "height": 24
+                          },
+                          "characters": "ОТП Банк",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "46:593",
+                      "name": "Frame 2087325656",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 31902.564453125,
+                        "y": 10045.9453125,
+                        "width": 150.21841430664062,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "46:594",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 31910.060546875,
+                            "y": 10053.44140625,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "46:595",
+                          "name": "WBБанк",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 31951.287109375,
+                            "y": 10056.7734375,
+                            "width": 94,
+                            "height": 24
+                          },
+                          "characters": "WBБанк",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "46:596",
+                      "name": "Frame 2087325656",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 32062.228515625,
+                        "y": 10045.9453125,
+                        "width": 170.21841430664062,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "46:597",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 32069.724609375,
+                            "y": 10053.44140625,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "46:598",
+                          "name": "МТС Банк",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 32110.951171875,
+                            "y": 10056.7734375,
+                            "width": 114,
+                            "height": 24
+                          },
+                          "characters": "МТС Банк",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "46:599",
+                  "name": "Frame 48",
+                  "type": "FRAME",
+                  "absoluteBoundingBox": {
+                    "x": 31510.236328125,
+                    "y": 10103.2451171875,
+                    "width": 718.9794921875,
+                    "height": 45.656166076660156
+                  },
+                  "children": [
+                    {
+                      "id": "46:600",
+                      "name": "Frame 2087325653",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 31510.236328125,
+                        "y": 10103.2451171875,
+                        "width": 176.21841430664062,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "46:601",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 31517.732421875,
+                            "y": 10110.7412109375,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "46:602",
+                          "name": "Ozon Bank",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 31558.958984375,
+                            "y": 10114.0732421875,
+                            "width": 120,
+                            "height": 24
+                          },
+                          "characters": "Ozon Bank",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "46:603",
+                      "name": "Frame 2087325654",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 31695.900390625,
+                        "y": 10103.2451171875,
+                        "width": 200.21841430664062,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "46:604",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 31703.396484375,
+                            "y": 10110.7412109375,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "46:605",
+                          "name": "Яндекс Банк",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 31744.623046875,
+                            "y": 10114.0732421875,
+                            "width": 144,
+                            "height": 24
+                          },
+                          "characters": "Яндекс Банк",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "46:606",
+                      "name": "Frame 2087325655",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 31905.564453125,
+                        "y": 10103.2451171875,
+                        "width": 198.21841430664062,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "46:607",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 31913.060546875,
+                            "y": 10110.7412109375,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "46:608",
+                          "name": "Совкомбанк",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 31954.287109375,
+                            "y": 10114.0732421875,
+                            "width": 142,
+                            "height": 24
+                          },
+                          "characters": "Совкомбанк",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "46:609",
+                      "name": "Frame 2087325656",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 32113.228515625,
+                        "y": 10103.2451171875,
+                        "width": 156.21841430664062,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "46:610",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 32120.724609375,
+                            "y": 10110.7412109375,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "46:611",
+                          "name": "ЮMoney",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 32161.951171875,
+                            "y": 10114.0732421875,
+                            "width": 100,
+                            "height": 24
+                          },
+                          "characters": "ЮMoney",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "46:612",
+                  "name": "Frame 49",
+                  "type": "FRAME",
+                  "absoluteBoundingBox": {
+                    "x": 31510.236328125,
+                    "y": 10160.5458984375,
+                    "width": 718.9794921875,
+                    "height": 45.656166076660156
+                  },
+                  "children": [
+                    {
+                      "id": "46:613",
+                      "name": "Frame 2087325653",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 31510.236328125,
+                        "y": 10160.5458984375,
+                        "width": 182.21841430664062,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "46:614",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 31517.732421875,
+                            "y": 10168.0419921875,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "46:615",
+                          "name": "Фора-Банк",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 31558.958984375,
+                            "y": 10171.3740234375,
+                            "width": 126,
+                            "height": 24
+                          },
+                          "characters": "Фора-Банк",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "46:616",
+                      "name": "Frame 2087325654",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 31701.900390625,
+                        "y": 10160.5458984375,
+                        "width": 258.2184143066406,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "46:617",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 31709.396484375,
+                            "y": 10168.0419921875,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "46:618",
+                          "name": "Райффайзен Банк",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 31750.623046875,
+                            "y": 10171.3740234375,
+                            "width": 202,
+                            "height": 24
+                          },
+                          "characters": "Райффайзен Банк",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "46:619",
+                      "name": "Frame 2087325655",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 31969.564453125,
+                        "y": 10160.5458984375,
+                        "width": 242.21841430664062,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "46:620",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 31977.060546875,
+                            "y": 10168.0419921875,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "46:621",
+                          "name": "Россельхозбанк",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 32018.287109375,
+                            "y": 10171.3740234375,
+                            "width": 186,
+                            "height": 24
+                          },
+                          "characters": "Россельхозбанк",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "46:622",
+                      "name": "Frame 2087325654",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 32221.228515625,
+                        "y": 10160.5458984375,
+                        "width": 107.21841430664062,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "46:623",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 32228.724609375,
+                            "y": 10168.0419921875,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "46:624",
+                          "name": "ПСБ",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 32269.951171875,
+                            "y": 10171.3740234375,
+                            "width": 51,
+                            "height": 24
+                          },
+                          "characters": "ПСБ",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "51:2",
+                  "name": "Frame 50",
+                  "type": "FRAME",
+                  "absoluteBoundingBox": {
+                    "x": 31510.236328125,
+                    "y": 10217.845703125,
+                    "width": 718.9794921875,
+                    "height": 45.656166076660156
+                  },
+                  "children": [
+                    {
+                      "id": "51:3",
+                      "name": "Frame 2087325653",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 31510.236328125,
+                        "y": 10217.845703125,
+                        "width": 208.21841430664062,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "51:4",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 31517.732421875,
+                            "y": 10225.341796875,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "51:5",
+                          "name": "Ак Барс Банк",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 31558.958984375,
+                            "y": 10228.673828125,
+                            "width": 152,
+                            "height": 24
+                          },
+                          "characters": "Ак Барс Банк",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "51:6",
+                      "name": "Frame 2087325654",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 31727.900390625,
+                        "y": 10217.845703125,
+                        "width": 212.21841430664062,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "51:7",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 31735.396484375,
+                            "y": 10225.341796875,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "51:8",
+                          "name": "Банк Уралсиб",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 31776.623046875,
+                            "y": 10228.673828125,
+                            "width": 156,
+                            "height": 24
+                          },
+                          "characters": "Банк Уралсиб ",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "51:9",
+                      "name": "Frame 2087325655",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 31949.564453125,
+                        "y": 10217.845703125,
+                        "width": 317.2184143066406,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "51:10",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 31957.060546875,
+                            "y": 10225.341796875,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "51:11",
+                          "name": "Банк Санкт-Петербург",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 31998.287109375,
+                            "y": 10228.673828125,
+                            "width": 261,
+                            "height": 24
+                          },
+                          "characters": "Банк Санкт-Петербург",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "46:625",
+          "name": "Frame 46",
+          "type": "FRAME",
+          "absoluteBoundingBox": {
+            "x": 31510.236328125,
+            "y": 10286.7900390625,
+            "width": 718.9794921875,
+            "height": 74.30036926269531
+          },
+          "children": [
+            {
+              "id": "46:626",
+              "name": "По Казахстану",
+              "type": "TEXT",
+              "fills": [
+                {
+                  "blendMode": "NORMAL",
+                  "type": "SOLID",
+                  "color": "#ffffff"
+                }
+              ],
+              "absoluteBoundingBox": {
+                "x": 31510.236328125,
+                "y": 10286.7900390625,
+                "width": 718.9794921875,
+                "height": 17
+              },
+              "characters": "По Казахстану",
+              "style": {
+                "fontFamily": "Inter",
+                "fontStyle": "Medium",
+                "fontWeight": 500,
+                "fontSize": 17.466306686401367,
+                "textAlignHorizontal": "LEFT",
+                "letterSpacing": -0.523989200592041,
+                "lineHeightPx": 17.466306686401367
+              }
+            },
+            {
+              "id": "46:627",
+              "name": "Frame 47",
+              "type": "FRAME",
+              "absoluteBoundingBox": {
+                "x": 31510.236328125,
+                "y": 10315.4345703125,
+                "width": 718.9794921875,
+                "height": 45.656166076660156
+              },
+              "children": [
+                {
+                  "id": "46:628",
+                  "name": "Frame 46",
+                  "type": "FRAME",
+                  "absoluteBoundingBox": {
+                    "x": 31510.236328125,
+                    "y": 10315.4345703125,
+                    "width": 718.9794921875,
+                    "height": 45.656166076660156
+                  },
+                  "children": [
+                    {
+                      "id": "46:629",
+                      "name": "Frame 2087325653",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 31510.236328125,
+                        "y": 10315.4345703125,
+                        "width": 149.21841430664062,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "46:630",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 31517.732421875,
+                            "y": 10322.9306640625,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "46:631",
+                          "name": "Kaspi.kz",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 31558.958984375,
+                            "y": 10326.2626953125,
+                            "width": 93,
+                            "height": 24
+                          },
+                          "characters": "Kaspi.kz",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "46:632",
+                      "name": "Frame 2087325654",
+                      "type": "FRAME",
+                      "fills": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#e9eff3"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 31668.900390625,
+                        "y": 10315.4345703125,
+                        "width": 179.21841430664062,
+                        "height": 45.656166076660156
+                      },
+                      "children": [
+                        {
+                          "id": "46:633",
+                          "name": "Rectangle 34",
+                          "type": "RECTANGLE",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "IMAGE",
+                              "scaleMode": "FILL"
+                            }
+                          ],
+                          "cornerRadius": 3.747894287109375,
+                          "absoluteBoundingBox": {
+                            "x": 31676.396484375,
+                            "y": 10322.9306640625,
+                            "width": 30.66459083557129,
+                            "height": 30.66459083557129
+                          }
+                        },
+                        {
+                          "id": "46:634",
+                          "name": "Halyk Bank",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#191418"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 31717.623046875,
+                            "y": 10326.2626953125,
+                            "width": 123,
+                            "height": 24
+                          },
+                          "characters": "Halyk Bank",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "id": "46:635",
+                      "name": "Frame 2087325655",
+                      "type": "FRAME",
+                      "strokes": [
+                        {
+                          "blendMode": "NORMAL",
+                          "type": "SOLID",
+                          "color": "#1b9cfc"
+                        }
+                      ],
+                      "cornerRadius": 9.880810737609863,
+                      "absoluteBoundingBox": {
+                        "x": 31857.564453125,
+                        "y": 10316.826171875,
+                        "width": 359.87298583984375,
+                        "height": 42.87297821044922
+                      },
+                      "children": [
+                        {
+                          "id": "46:636",
+                          "name": "+ новый банк / гео по запросу",
+                          "type": "TEXT",
+                          "fills": [
+                            {
+                              "blendMode": "NORMAL",
+                              "type": "SOLID",
+                              "color": "#1b9cfc"
+                            }
+                          ],
+                          "absoluteBoundingBox": {
+                            "x": 31867,
+                            "y": 10326.2626953125,
+                            "width": 341,
+                            "height": 24
+                          },
+                          "characters": "+ новый банк / гео по запросу",
+                          "style": {
+                            "fontFamily": "Inter",
+                            "fontStyle": "Medium",
+                            "fontWeight": 500,
+                            "fontSize": 24.258760452270508,
+                            "textAlignHorizontal": "LEFT",
+                            "letterSpacing": -0.7277628135681152,
+                            "lineHeightPx": 24.258760452270508
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46:637",
+      "name": "Frame 1000008948",
+      "type": "FRAME",
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "GRADIENT_LINEAR",
+          "gradientHandlePositions": [
+            {
+              "x": 1.1102230246251565e-16,
+              "y": 1.1102230246251565e-16
+            },
+            {
+              "x": 1,
+              "y": 1
+            },
+            {
+              "x": -0.4999999999999999,
+              "y": 0.5700116776906364
+            }
+          ],
+          "gradientStops": [
+            {
+              "color": "#ffffff",
+              "position": 0
+            },
+            {
+              "color": "#f1f1f1",
+              "position": 1
+            }
+          ]
+        }
+      ],
+      "strokes": [
+        {
+          "blendMode": "NORMAL",
+          "type": "GRADIENT_LINEAR",
+          "gradientHandlePositions": [
+            {
+              "x": 1.1102230246251565e-16,
+              "y": 1.1102230246251565e-16
+            },
+            {
+              "x": 1,
+              "y": 1
+            },
+            {
+              "x": -0.4999999999999999,
+              "y": 0.5700116776906364
+            }
+          ],
+          "gradientStops": [
+            {
+              "color": {
+                "r": 0.8091145753860474,
+                "g": 0.8091145753860474,
+                "b": 0.8091145753860474,
+                "a": 1
+              },
+              "position": 0
+            },
+            {
+              "color": {
+                "r": 0.8024479150772095,
+                "g": 0.8024479150772095,
+                "b": 0.8024479150772095,
+                "a": 1
+              },
+              "position": 1
+            }
+          ]
+        }
+      ],
+      "cornerRadius": 40.428802490234375,
+      "absoluteBoundingBox": {
+        "x": 31509.236328125,
+        "y": 10414.58984375,
+        "width": 792.7763061523438,
+        "height": 188.733154296875
+      },
+      "children": [
+        {
+          "id": "46:638",
+          "name": "image 73",
+          "type": "RECTANGLE",
+          "fills": [
+            {
+              "blendMode": "NORMAL",
+              "type": "IMAGE",
+              "scaleMode": "STRETCH",
+              "imageTransform": [
+                [
+                  1,
+                  0,
+                  4.4076977623319635e-9
+                ],
+                [
+                  0,
+                  1,
+                  0.34243836998939514
+                ]
+              ]
+            },
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#1b9cfc"
+            }
+          ],
+          "absoluteBoundingBox": {
+            "x": 31443.248046875,
+            "y": 10402.0224609375,
+            "width": 908.208740234375,
+            "height": 512.2545776367188
+          }
+        },
+        {
+          "id": "46:639",
+          "name": "Rectangle 6",
+          "type": "RECTANGLE",
+          "fills": [
+            {
+              "opacity": 0.15000000596046448,
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#ffffff"
+            }
+          ],
+          "absoluteBoundingBox": {
+            "x": 31697.96875,
+            "y": 10434.9677734375,
+            "width": 147.9784393310547,
+            "height": 32.991912841796875
+          }
+        },
+        {
+          "id": "46:640",
+          "name": "Пришлите 100 чеков - вернём вердикт по каждому",
+          "type": "TEXT",
+          "fills": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#ffffff"
+            }
+          ],
+          "absoluteBoundingBox": {
+            "x": 31536.890625,
+            "y": 10433.9970703125,
+            "width": 592.8840942382812,
+            "height": 62
+          },
+          "characters": "Пришлите 100 чеков - вернём вердикт по каждому",
+          "style": {
+            "fontFamily": "Inter",
+            "fontStyle": "Bold",
+            "fontWeight": 700,
+            "fontSize": 31.051212310791016,
+            "textAlignHorizontal": "LEFT",
+            "letterSpacing": -0.9315363693237304,
+            "lineHeightPx": 31.051212310791016
+          }
+        },
+        {
+          "id": "46:641",
+          "name": "Старт без интеграции и риска. Проверим даже чеки, которые не взяли другие чекеры. Цена — от месячного объёма, обсуждаем индивидуально",
+          "type": "TEXT",
+          "fills": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#ffffff"
+            }
+          ],
+          "absoluteBoundingBox": {
+            "x": 31536.890625,
+            "y": 10519.3876953125,
+            "width": 487.11590576171875,
+            "height": 57
+          },
+          "characters": "Старт без интеграции и риска. Проверим даже чеки, которые не взяли другие чекеры. Цена — от месячного объёма, обсуждаем индивидуально",
+          "style": {
+            "fontFamily": "Inter",
+            "fontStyle": "Medium",
+            "fontWeight": 500,
+            "fontSize": 17.466306686401367,
+            "textAlignHorizontal": "LEFT",
+            "letterSpacing": -0.523989200592041,
+            "lineHeightPx": 19.21293830871582
+          }
+        },
+        {
+          "id": "46:642",
+          "name": "Frame 2087325654",
+          "type": "FRAME",
+          "fills": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#191418"
+            }
+          ],
+          "strokes": [
+            {
+              "blendMode": "NORMAL",
+              "type": "SOLID",
+              "color": "#1b9cfc"
+            }
+          ],
+          "cornerRadius": 35.15824890136719,
+          "absoluteBoundingBox": {
+            "x": 32054,
+            "y": 10542.6767578125,
+            "width": 223.24066162109375,
+            "height": 42.030548095703125
+          },
+          "children": [
+            {
+              "id": "46:644",
+              "name": "@private_detect_io",
+              "type": "TEXT",
+              "fills": [
+                {
+                  "blendMode": "NORMAL",
+                  "type": "SOLID",
+                  "color": "#ffffff"
+                }
+              ],
+              "absoluteBoundingBox": {
+                "x": 32108.650390625,
+                "y": 10554.6923828125,
+                "width": 153,
+                "height": 18
+              },
+              "characters": "@private_detect_io",
+              "style": {
+                "fontFamily": "Inter",
+                "fontStyle": "Regular",
+                "fontWeight": 400,
+                "fontSize": 19.406347274780273,
+                "textAlignHorizontal": "LEFT",
+                "letterSpacing": -1.3584443092346192,
+                "lineHeightPx": 17.65977668762207
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

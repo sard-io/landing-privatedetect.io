@@ -1,0 +1,650 @@
+{
+  "success": true,
+  "count": 1,
+  "currentPage": {
+    "id": "0:1",
+    "name": "VISUAL IDENTITY"
+  },
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "VISUAL IDENTITY",
+      "type": "PAGE",
+      "childCount": 49,
+      "children": [
+        {
+          "id": "12:390",
+          "name": "Rectangle 1",
+          "type": "RECTANGLE",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": -6073.0400390625,
+            "y": 17449.728515625,
+            "width": 82,
+            "height": 82
+          }
+        },
+        {
+          "id": "13:885",
+          "name": "Rectangle 5",
+          "type": "RECTANGLE",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": -6194.0400390625,
+            "y": 17449.728515625,
+            "width": 82,
+            "height": 82
+          }
+        },
+        {
+          "id": "13:883",
+          "name": "Rectangle 3",
+          "type": "RECTANGLE",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": -5952.0400390625,
+            "y": 17449.728515625,
+            "width": 82,
+            "height": 82
+          }
+        },
+        {
+          "id": "13:884",
+          "name": "Rectangle 4",
+          "type": "RECTANGLE",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": -5831.0400390625,
+            "y": 17449.728515625,
+            "width": 82,
+            "height": 82
+          }
+        },
+        {
+          "id": "7:2",
+          "name": "01",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 1080
+          },
+          "childCount": 9
+        },
+        {
+          "id": "7:54",
+          "name": "02",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 0,
+            "y": 1322,
+            "width": 1920,
+            "height": 1080
+          },
+          "childCount": 7
+        },
+        {
+          "id": "7:232",
+          "name": "03",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 0,
+            "y": 2644,
+            "width": 1920,
+            "height": 1080
+          },
+          "childCount": 16
+        },
+        {
+          "id": "7:272",
+          "name": "04",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 0,
+            "y": 3966,
+            "width": 1920,
+            "height": 1080
+          },
+          "childCount": 13
+        },
+        {
+          "id": "7:113",
+          "name": "05",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 0,
+            "y": 5288,
+            "width": 1920,
+            "height": 1080
+          },
+          "childCount": 6
+        },
+        {
+          "id": "7:125",
+          "name": "06",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 0,
+            "y": 6610,
+            "width": 1920,
+            "height": 1080
+          },
+          "childCount": 10
+        },
+        {
+          "id": "7:136",
+          "name": "07",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 0,
+            "y": 7932,
+            "width": 1920,
+            "height": 1080
+          },
+          "childCount": 18
+        },
+        {
+          "id": "12:391",
+          "name": "08",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 0,
+            "y": 9254,
+            "width": 1920,
+            "height": 1080
+          },
+          "childCount": 7
+        },
+        {
+          "id": "12:457",
+          "name": "09",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 0,
+            "y": 10576,
+            "width": 1920,
+            "height": 1080
+          },
+          "childCount": 3
+        },
+        {
+          "id": "13:513",
+          "name": "10",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 0,
+            "y": 11898,
+            "width": 1920,
+            "height": 1080
+          },
+          "childCount": 3
+        },
+        {
+          "id": "13:517",
+          "name": "11",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 0,
+            "y": 13220,
+            "width": 1920,
+            "height": 1080
+          },
+          "childCount": 5
+        },
+        {
+          "id": "13:903",
+          "name": "12",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 0,
+            "y": 14542,
+            "width": 1920,
+            "height": 1080
+          },
+          "childCount": 17
+        },
+        {
+          "id": "13:1539",
+          "name": "13",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 0,
+            "y": 15864,
+            "width": 1920,
+            "height": 1080
+          },
+          "childCount": 2
+        },
+        {
+          "id": "13:1543",
+          "name": "14",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 0,
+            "y": 17186,
+            "width": 1920,
+            "height": 1080
+          },
+          "childCount": 2
+        },
+        {
+          "id": "17:2824",
+          "name": "15",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 0,
+            "y": 18508,
+            "width": 1920,
+            "height": 2006
+          },
+          "childCount": 9
+        },
+        {
+          "id": "13:1272",
+          "name": "Frame 2087325632",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 3176,
+            "y": 11084,
+            "width": 1920,
+            "height": 1920
+          },
+          "childCount": 9
+        },
+        {
+          "id": "14:1979",
+          "name": "Frame 2087325635",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 3176,
+            "y": 13277,
+            "width": 1920,
+            "height": 1920
+          },
+          "childCount": 4
+        },
+        {
+          "id": "15:2190",
+          "name": "Frame 2087325639",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 5290,
+            "y": 13277,
+            "width": 1920,
+            "height": 1920
+          },
+          "childCount": 5
+        },
+        {
+          "id": "73:4",
+          "name": "Frame 2087325643",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 5290,
+            "y": 19856,
+            "width": 1920,
+            "height": 1920
+          },
+          "childCount": 5
+        },
+        {
+          "id": "73:130",
+          "name": "Group 48",
+          "type": "GROUP",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 8162,
+            "y": 18243,
+            "width": 1559.2509765625,
+            "height": 1670.453125
+          },
+          "childCount": 13
+        },
+        {
+          "id": "15:2401",
+          "name": "Frame 2087325640",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 7404,
+            "y": 13277,
+            "width": 1920,
+            "height": 1920
+          },
+          "childCount": 4
+        },
+        {
+          "id": "13:1591",
+          "name": "Frame 2087325633",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 5290,
+            "y": 11084,
+            "width": 1920,
+            "height": 1920
+          },
+          "childCount": 10
+        },
+        {
+          "id": "15:2550",
+          "name": "Frame 2087325641",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 5290,
+            "y": 15409.728515625,
+            "width": 1920,
+            "height": 1920
+          },
+          "childCount": 3
+        },
+        {
+          "id": "73:147",
+          "name": "post",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 5290,
+            "y": 17726,
+            "width": 1920,
+            "height": 1920
+          },
+          "childCount": 4
+        },
+        {
+          "id": "16:2704",
+          "name": "Frame 2087325642",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 7404,
+            "y": 15409.728515625,
+            "width": 1920,
+            "height": 1920
+          },
+          "childCount": 2
+        },
+        {
+          "id": "50:5",
+          "name": "avas",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 13207,
+            "y": 11656,
+            "width": 1920,
+            "height": 1920
+          },
+          "childCount": 2
+        },
+        {
+          "id": "14:1783",
+          "name": "Frame 2087325634",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 7404,
+            "y": 11084,
+            "width": 1920,
+            "height": 1920
+          },
+          "childCount": 4
+        },
+        {
+          "id": "16:2790",
+          "name": "image 78",
+          "type": "RECTANGLE",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 3196.575927734375,
+            "y": 15409.728515625,
+            "width": 1920,
+            "height": 1920
+          }
+        },
+        {
+          "id": "40:505",
+          "name": "01",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 16615,
+            "y": 9010,
+            "width": 1920,
+            "height": 2226
+          },
+          "childCount": 10
+        },
+        {
+          "id": "40:716",
+          "name": "02",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 16615,
+            "y": 11405,
+            "width": 1920,
+            "height": 2226
+          },
+          "childCount": 6
+        },
+        {
+          "id": "40:817",
+          "name": "03",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 16615,
+            "y": 13800,
+            "width": 1920,
+            "height": 2226
+          },
+          "childCount": 9
+        },
+        {
+          "id": "40:1046",
+          "name": "04",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 16615,
+            "y": 16195,
+            "width": 1920,
+            "height": 2226
+          },
+          "childCount": 14
+        },
+        {
+          "id": "40:582",
+          "name": "05",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 16615,
+            "y": 18590,
+            "width": 1920,
+            "height": 2226
+          },
+          "childCount": 11
+        },
+        {
+          "id": "40:767",
+          "name": "06",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 16615,
+            "y": 20985,
+            "width": 1920,
+            "height": 2226
+          },
+          "childCount": 8
+        },
+        {
+          "id": "40:904",
+          "name": "07",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 16615,
+            "y": 23380,
+            "width": 1920,
+            "height": 2226
+          },
+          "childCount": 6
+        },
+        {
+          "id": "46:60",
+          "name": "01",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 25359.638671875,
+            "y": 9583,
+            "width": 930,
+            "height": 1080
+          },
+          "childCount": 10
+        },
+        {
+          "id": "46:136",
+          "name": "02",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 26373.17578125,
+            "y": 9583,
+            "width": 930,
+            "height": 1080
+          },
+          "childCount": 7
+        },
+        {
+          "id": "46:176",
+          "name": "03",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 27386.7109375,
+            "y": 9583,
+            "width": 930,
+            "height": 1080
+          },
+          "childCount": 9
+        },
+        {
+          "id": "46:263",
+          "name": "04",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 28400.248046875,
+            "y": 9583,
+            "width": 930,
+            "height": 1080
+          },
+          "childCount": 14
+        },
+        {
+          "id": "46:321",
+          "name": "05",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 29413.78515625,
+            "y": 9583,
+            "width": 930,
+            "height": 1080
+          },
+          "childCount": 11
+        },
+        {
+          "id": "46:455",
+          "name": "06",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 30427.3203125,
+            "y": 9583,
+            "width": 930,
+            "height": 1080
+          },
+          "childCount": 9
+        },
+        {
+          "id": "46:506",
+          "name": "07",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 31440.85546875,
+            "y": 9583,
+            "width": 930,
+            "height": 1080
+          },
+          "childCount": 6
+        },
+        {
+          "id": "50:2",
+          "name": "avas",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 11093,
+            "y": 11656,
+            "width": 1920,
+            "height": 1920
+          },
+          "childCount": 2
+        },
+        {
+          "id": "50:14",
+          "name": "avas",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 11093,
+            "y": 13953,
+            "width": 1920,
+            "height": 1920
+          },
+          "childCount": 1
+        },
+        {
+          "id": "72:2",
+          "name": "avas",
+          "type": "FRAME",
+          "visible": true,
+          "absoluteBoundingBox": {
+            "x": 11093,
+            "y": 20816,
+            "width": 1920,
+            "height": 1920
+          },
+          "childCount": 1
+        }
+      ]
+    }
+  ]
+}
