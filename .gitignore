@@ -1,2 +1,2 @@
-# Windows-reserved export filename; its JSON is preserved as figma/page-index.json.
-figma/nul
+# Local Vercel project metadata; deployment is configured remotely.
+.vercel
