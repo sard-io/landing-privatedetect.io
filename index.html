@@ -662,6 +662,15 @@ body{width:100%;max-width:none;min-width:320px;margin:0;background:var(--ink);ov
 #api .vcard,#api .vcard:last-child{height:auto;min-height:76px;padding:18px 20px;gap:16px;border-width:2px;border-radius:16px;flex-direction:row;align-items:center}
 #api .vpill{padding:8px 16px;font-size:14px}
 #api .vcard p{color:rgba(25,20,24,.78);font-size:15px;line-height:1.35}
+#api .vcard[data-verdict="unknown"]{display:grid;grid-template-columns:max-content minmax(0,1fr);gap:12px 16px}
+#api .verdict-note{
+  grid-column:1/-1;display:flex;align-items:center;justify-content:center;gap:16px;
+  padding:10px 18px;border-radius:999px;background:#9BD2F4;color:var(--ink);font-size:15px;line-height:1.2
+}
+#api .verdict-info{
+  display:grid;place-items:center;flex:none;width:24px;height:24px;border-radius:50%;
+  background:var(--blue);color:#fff;font-family:Georgia,serif;font-size:18px;font-weight:700;line-height:1
+}
 
 /* 04 — технология */
 #tech{height:auto;background:var(--ink)}
@@ -828,6 +837,7 @@ body{width:100%;max-width:none;min-width:320px;margin:0;background:var(--ink);ov
   #api .vcard,#api .vcard:last-child{min-height:0;padding:16px;gap:12px;align-items:flex-start}
   #api .vpill{padding:7px 12px;font-size:12px}
   #api .vcard p{font-size:13px}
+  #api .verdict-note{padding:10px 14px;gap:12px;font-size:13px}
 
   #tech .tech-title{padding:72px 0 48px}
   #tech .tech-lead{padding:38px 0}
@@ -1031,7 +1041,8 @@ body{width:100%;max-width:none;min-width:320px;margin:0;background:var(--ink);ov
         </button>
         <button class="vcard" type="button" data-verdict="unknown" aria-pressed="false">
           <span class="vpill" style="color:#C9D3D9">“unknown”</span>
-          <p>Банк вне покрытия или нестандартно сохранённый чек - честный ответ вместо ложного вердикта<br><br>Такой вердикт не тарифицируется - деньги за проверку не списываются</p>
+          <p>Банк вне покрытия или нестандартно сохранённый чек - честный ответ вместо ложного вердикта</p>
+          <span class="verdict-note"><span class="verdict-info" aria-hidden="true">i</span><span>Такой вердикт не тарифицируется - деньги за проверку не списываются</span></span>
         </button>
       </div>
     </div>
